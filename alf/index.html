@@ -25,7 +25,7 @@
         </svg>
         <span>Übersicht</span>
       </a>
-      <span class="brand-badge" id="alfBadge">34 Folgen</span>
+      <span class="brand-badge" id="alfBadge">49 Folgen</span>
     </div>
   </header>
 
@@ -34,7 +34,7 @@
     
     <!-- Show Header -->
     <div class="show-header">
-      <img src="cover.jpg" alt="ALF Cover" class="show-cover-thumb" onerror="this.src='https://archive.org/services/img/alfhoerspiele'">
+      <img src="cover.jpg" alt="ALF Cover" class="show-cover-thumb" onerror="this.src='https://archive.org/services/img/alf-hoerspiele'">
       <div class="show-meta">
         <h1 class="show-title">ALF</h1>
         <p class="show-subtitle">
@@ -42,8 +42,8 @@
         </p>
         <div class="show-stats">
           <span class="pill-tag">Archive.org Stream</span>
-          <span class="pill-tag" id="trackCountTag">34 Folgen</span>
-          <a id="archiveDownloadLink" href="https://archive.org/details/alfhoerspiele" target="_blank" rel="noopener" class="pill-tag" style="text-decoration:none;">
+          <span class="pill-tag" id="trackCountTag">49 Folgen</span>
+          <a id="archiveDownloadLink" href="https://archive.org/details/alf-hoerspiele" target="_blank" rel="noopener" class="pill-tag" style="text-decoration:none;">
             <span>Quelle öffnen ↗</span>
           </a>
         </div>
@@ -143,6 +143,11 @@
       onTrackChange: (track, index) => {
         playerBar.classList.add('active');
         playerTitle.textContent = track.title;
+        if (track.cover) {
+          playerThumb.src = track.cover;
+        } else {
+          playerThumb.src = 'cover.jpg';
+        }
         highlightActiveTrack(track.url);
       },
       onPlayStateChange: (isPlaying) => {
@@ -170,15 +175,17 @@
       // Fallback: Archive.org API
       if (!tracks || tracks.length === 0) {
         try {
-          const res = await fetch('https://archive.org/metadata/alfhoerspiele');
+          const res = await fetch('https://archive.org/metadata/alf-hoerspiele');
           if (res.ok) {
             const data = await res.json();
             tracks = (data.files || [])
               .filter(f => f.format === 'VBR MP3' || f.format === 'MP3')
               .map((f, idx) => ({
                 title: f.title || f.name.replace('.mp3', '').replace(/_/g, ' '),
-                url: `https://archive.org/download/alfhoerspiele/${encodeURIComponent(f.name)}`,
+                url: `https://archive.org/download/alf-hoerspiele/${encodeURIComponent(f.name)}`,
+                cover: `https://archive.org/download/alf-hoerspiele/${encodeURIComponent(f.name.replace(/\.mp3$/i, '.png'))}`,
                 size: f.size || 0,
+                duration: f.length ? parseFloat(f.length) : 0,
                 num: idx + 1
               }));
           }
@@ -222,12 +229,14 @@
         item.dataset.url = t.url;
 
         const sizeMb = t.size ? (t.size / (1024 * 1024)).toFixed(1) + ' MB' : 'MP3';
+        const durationStr = t.duration ? ` • ca. ${Math.round(t.duration / 60)} Min.` : '';
+        const coverSrc = t.cover || 'cover.jpg';
 
         item.innerHTML = `
-          <div class="track-num">${i + 1}</div>
+          <img src="${coverSrc}" class="track-item-cover" alt="Cover" onerror="this.src='cover.jpg'">
           <div class="track-info">
             <div class="track-title">${t.title}</div>
-            <div class="track-sub">${sizeMb}</div>
+            <div class="track-sub">${sizeMb}${durationStr}</div>
           </div>
           <div class="track-play-icon">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
