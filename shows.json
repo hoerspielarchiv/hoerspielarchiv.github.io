@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ddf",
+    "path": "ddf",
+    "title": "Die drei ???",
+    "status": "active",
+    "badge": "118 Folgen",
+    "cover": "ddf/cover.png"
+  },
+  {
+    "id": "hp",
+    "path": "hp",
+    "title": "Harry Potter",
+    "status": "active",
+    "badge": "7 Bände",
+    "cover": "hp/cover.jpg"
+  },
+  {
+    "id": "tkkg",
+    "path": "tkkg",
+    "title": "TKKG",
+    "status": "coming_soon",
+    "badge": "Bald verfügbar",
+    "cover": "tkkg/cover.jpg"
+  },
+  {
+    "id": "alf",
+    "path": "alf",
+    "title": "ALF",
+    "status": "active",
+    "badge": "34 Folgen",
+    "cover": "alf/cover.jpg"
+  }
+]

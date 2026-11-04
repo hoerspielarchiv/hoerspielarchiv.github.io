@@ -1,0 +1,865 @@
+[
+  {
+    "id": "D_1",
+    "num": 1,
+    "numStr": "D_1",
+    "title": "Das Seeungeheuer",
+    "author": "DiE DR3i",
+    "cover": "covers/D_1.jpg",
+    "description": "Folge 1 der Serie Die dr3i.",
+    "trackCount": 26,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Der Phantom-Anwalt",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%201/01%20-%20Der%20Phantom-Anwalt.mp3"
+      },
+      {
+        "num": 2,
+        "title": "Der Untergang der Liberty Bell",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%201/02%20-%20Der%20Untergang%20der%20Liberty%20Bell.mp3"
+      },
+      {
+        "num": 3,
+        "title": "Erfolgreiche Recherche",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%201/03%20-%20Erfolgreiche%20Recherche.mp3"
+      },
+      {
+        "num": 4,
+        "title": "Folgenschwerer Anruf",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%201/04%20-%20Folgenschwerer%20Anruf.mp3"
+      },
+      {
+        "num": 5,
+        "title": "Mysteriöses Testament",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%201/05%20-%20Mysteri%C3%B6ses%20Testament.mp3"
+      },
+      {
+        "num": 6,
+        "title": "Held ohne Ehre",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%201/06%20-%20Held%20ohne%20Ehre.mp3"
+      },
+      {
+        "num": 7,
+        "title": "Beschattet",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%201/07%20-%20Beschattet.mp3"
+      },
+      {
+        "num": 8,
+        "title": "O'Malley's Rock",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%201/08%20-%20O%27Malley%27s%20Rock.mp3"
+      },
+      {
+        "num": 9,
+        "title": "Der zweite Fall",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%201/09%20-%20Der%20zweite%20Fall.mp3"
+      },
+      {
+        "num": 10,
+        "title": "Leviathan",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%201/10%20-%20Leviathan.mp3"
+      },
+      {
+        "num": 11,
+        "title": "Das Geisterhaus am Meer",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%201/11%20-%20Das%20Geisterhaus%20am%20Meer.mp3"
+      },
+      {
+        "num": 12,
+        "title": "Ein schreckliches Geheimnis",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%201/12%20-%20Ein%20schreckliches%20Geheimnis.mp3"
+      },
+      {
+        "num": 13,
+        "title": "Jagd auf den Unbekannten",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%201/13%20-%20Jagd%20auf%20den%20Unbekannten.mp3"
+      },
+      {
+        "num": 14,
+        "title": "Feindbesuch",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%202/01%20-%20Feindbesuch.mp3"
+      },
+      {
+        "num": 15,
+        "title": "Die Geliebte des Globetrotters",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%202/02%20-%20Die%20Geliebte%20des%20Globetrotters.mp3"
+      },
+      {
+        "num": 16,
+        "title": "Apelles post tabulam",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%202/03%20-%20Apelles%20post%20tabulam.mp3"
+      },
+      {
+        "num": 17,
+        "title": "Monstersuche",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%202/04%20-%20Monstersuche.mp3"
+      },
+      {
+        "num": 18,
+        "title": "Einbruch in der Zentrale!",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%202/05%20-%20Einbruch%20in%20der%20Zentrale%21.mp3"
+      },
+      {
+        "num": 19,
+        "title": "Der Mikrochip",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%202/06%20-%20Der%20Mikrochip.mp3"
+      },
+      {
+        "num": 20,
+        "title": "Die Zeit läuft ab",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%202/07%20-%20Die%20Zeit%20l%C3%A4uft%20ab.mp3"
+      },
+      {
+        "num": 21,
+        "title": "Das Seeungeheuer",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%202/08%20-%20Das%20Seeungeheuer.mp3"
+      },
+      {
+        "num": 22,
+        "title": "Versteck in den Felsen",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%202/09%20-%20Versteck%20in%20den%20Felsen.mp3"
+      },
+      {
+        "num": 23,
+        "title": "Die Falle schnappt zu",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%202/10%20-%20Die%20Falle%20schnappt%20zu.mp3"
+      },
+      {
+        "num": 24,
+        "title": "Tödliche Fluten",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%202/11%20-%20T%C3%B6dliche%20Fluten.mp3"
+      },
+      {
+        "num": 25,
+        "title": "Alle vereint",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%202/12%20-%20Alle%20vereint.mp3"
+      },
+      {
+        "num": 26,
+        "title": "Das Rätsel aller Rätsel",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/01%20-%20Das%20Seeungeheuer/01%20-%20Das%20Seeungeheuer/CD%202/13%20-%20Das%20R%C3%A4tsel%20aller%20R%C3%A4tsel.mp3"
+      }
+    ]
+  },
+  {
+    "id": "D_2",
+    "num": 2,
+    "numStr": "D_2",
+    "title": "Die Pforte Zum Jenseits",
+    "author": "DiE DR3i",
+    "cover": "covers/D_2.jpg",
+    "description": "Folge 2 der Serie Die dr3i.",
+    "trackCount": 12,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Aus den Träumen gerissen",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/02%20-%20Die%20Pforte%20Zum%20Jenseits/02%20-%20Die%20Pforte%20Zum%20Jenseits/01%20-%20Aus%20den%20Tr%C3%A4umen%20gerissen.mp3"
+      },
+      {
+        "num": 2,
+        "title": "Vom Blitz getroffen!",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/02%20-%20Die%20Pforte%20Zum%20Jenseits/02%20-%20Die%20Pforte%20Zum%20Jenseits/02%20-%20Vom%20Blitz%20getroffen%21.mp3"
+      },
+      {
+        "num": 3,
+        "title": "Tödliche Bowle",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/02%20-%20Die%20Pforte%20Zum%20Jenseits/02%20-%20Die%20Pforte%20Zum%20Jenseits/03%20-%20T%C3%B6dliche%20Bowle.mp3"
+      },
+      {
+        "num": 4,
+        "title": "Unsichtbarer Mitbewohner",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/02%20-%20Die%20Pforte%20Zum%20Jenseits/02%20-%20Die%20Pforte%20Zum%20Jenseits/04%20-%20Unsichtbarer%20Mitbewohner.mp3"
+      },
+      {
+        "num": 5,
+        "title": "Spielverderber",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/02%20-%20Die%20Pforte%20Zum%20Jenseits/02%20-%20Die%20Pforte%20Zum%20Jenseits/05%20-%20Spielverderber.mp3"
+      },
+      {
+        "num": 6,
+        "title": "Abgelehnt",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/02%20-%20Die%20Pforte%20Zum%20Jenseits/02%20-%20Die%20Pforte%20Zum%20Jenseits/06%20-%20Abgelehnt.mp3"
+      },
+      {
+        "num": 7,
+        "title": "Albtraum",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/02%20-%20Die%20Pforte%20Zum%20Jenseits/02%20-%20Die%20Pforte%20Zum%20Jenseits/07%20-%20Albtraum.mp3"
+      },
+      {
+        "num": 8,
+        "title": "Schlachtplan",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/02%20-%20Die%20Pforte%20Zum%20Jenseits/02%20-%20Die%20Pforte%20Zum%20Jenseits/08%20-%20Schlachtplan.mp3"
+      },
+      {
+        "num": 9,
+        "title": "Film ab!",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/02%20-%20Die%20Pforte%20Zum%20Jenseits/02%20-%20Die%20Pforte%20Zum%20Jenseits/09%20-%20Film%20ab%21.mp3"
+      },
+      {
+        "num": 10,
+        "title": "Überreagiert",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/02%20-%20Die%20Pforte%20Zum%20Jenseits/02%20-%20Die%20Pforte%20Zum%20Jenseits/10%20-%20%C3%9Cberreagiert.mp3"
+      },
+      {
+        "num": 11,
+        "title": "Erstens kommt es anders ...",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/02%20-%20Die%20Pforte%20Zum%20Jenseits/02%20-%20Die%20Pforte%20Zum%20Jenseits/11%20-%20Erstens%20kommt%20es%20anders%20....mp3"
+      },
+      {
+        "num": 12,
+        "title": "... und zweitens, als man denkt",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/02%20-%20Die%20Pforte%20Zum%20Jenseits/02%20-%20Die%20Pforte%20Zum%20Jenseits/12%20-%20...%20und%20zweitens%2C%20als%20man%20denkt.mp3"
+      }
+    ]
+  },
+  {
+    "id": "D_3",
+    "num": 3,
+    "numStr": "D_3",
+    "title": "Verschollen in der Zeit",
+    "author": "DiE DR3i",
+    "cover": "covers/D_3.jpg",
+    "description": "Folge 3 der Serie Die dr3i.",
+    "trackCount": 13,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Start in den Traumurlaub",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/03%20-%20Verschollen%20in%20der%20Zeit/03%20-%20Verschollen%20in%20der%20Zeit/01%20-%20Start%20in%20den%20Traumurlaub.mp3"
+      },
+      {
+        "num": 2,
+        "title": "Unsanftes Erwachen",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/03%20-%20Verschollen%20in%20der%20Zeit/03%20-%20Verschollen%20in%20der%20Zeit/02%20-%20Unsanftes%20Erwachen.mp3"
+      },
+      {
+        "num": 3,
+        "title": "Notlandung im Nirgendwo",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/03%20-%20Verschollen%20in%20der%20Zeit/03%20-%20Verschollen%20in%20der%20Zeit/03%20-%20Notlandung%20im%20Nirgendwo.mp3"
+      },
+      {
+        "num": 4,
+        "title": "Das Bermuda-Dreieck",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/03%20-%20Verschollen%20in%20der%20Zeit/03%20-%20Verschollen%20in%20der%20Zeit/04%20-%20Das%20Bermuda-Dreieck.mp3"
+      },
+      {
+        "num": 5,
+        "title": "Ein unheimliches Haus",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/03%20-%20Verschollen%20in%20der%20Zeit/03%20-%20Verschollen%20in%20der%20Zeit/05%20-%20Ein%20unheimliches%20Haus.mp3"
+      },
+      {
+        "num": 6,
+        "title": "Schockierende Erkenntnis",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/03%20-%20Verschollen%20in%20der%20Zeit/03%20-%20Verschollen%20in%20der%20Zeit/06%20-%20Schockierende%20Erkenntnis.mp3"
+      },
+      {
+        "num": 7,
+        "title": "Verschollen in der Zeit",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/03%20-%20Verschollen%20in%20der%20Zeit/03%20-%20Verschollen%20in%20der%20Zeit/07%20-%20Verschollen%20in%20der%20Zeit.mp3"
+      },
+      {
+        "num": 8,
+        "title": "Flucht in den Dschungel",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/03%20-%20Verschollen%20in%20der%20Zeit/03%20-%20Verschollen%20in%20der%20Zeit/08%20-%20Flucht%20in%20den%20Dschungel.mp3"
+      },
+      {
+        "num": 9,
+        "title": "Die rätselhafte Uniform",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/03%20-%20Verschollen%20in%20der%20Zeit/03%20-%20Verschollen%20in%20der%20Zeit/09%20-%20Die%20r%C3%A4tselhafte%20Uniform.mp3"
+      },
+      {
+        "num": 10,
+        "title": "Triumph der Logik",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/03%20-%20Verschollen%20in%20der%20Zeit/03%20-%20Verschollen%20in%20der%20Zeit/10%20-%20Triumph%20der%20Logik.mp3"
+      },
+      {
+        "num": 11,
+        "title": "Der Hinterhalt",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/03%20-%20Verschollen%20in%20der%20Zeit/03%20-%20Verschollen%20in%20der%20Zeit/11%20-%20Der%20Hinterhalt.mp3"
+      },
+      {
+        "num": 12,
+        "title": "Die Maske fällt",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/03%20-%20Verschollen%20in%20der%20Zeit/03%20-%20Verschollen%20in%20der%20Zeit/12%20-%20Die%20Maske%20f%C3%A4llt.mp3"
+      },
+      {
+        "num": 13,
+        "title": "Zurück in der Gegenwart",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/03%20-%20Verschollen%20in%20der%20Zeit/03%20-%20Verschollen%20in%20der%20Zeit/13%20-%20Zur%C3%BCck%20in%20der%20Gegenwart.mp3"
+      }
+    ]
+  },
+  {
+    "id": "D_4",
+    "num": 4,
+    "numStr": "D_4",
+    "title": "Zug um Zug",
+    "author": "DiE DR3i",
+    "cover": "covers/D_4.png",
+    "description": "Folge 4 der Serie Die dr3i.",
+    "trackCount": 11,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Der gelöste Kriminalfall",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/04%20-%20Zug%20um%20Zug/04%20-%20Zug%20um%20Zug/01%20-%20Der%20gel%C3%B6ste%20Kriminalfall.mp3"
+      },
+      {
+        "num": 2,
+        "title": "Neue Spuren",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/04%20-%20Zug%20um%20Zug/04%20-%20Zug%20um%20Zug/02%20-%20Neue%20Spuren.mp3"
+      },
+      {
+        "num": 3,
+        "title": "Besuch bei Mr. Walker",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/04%20-%20Zug%20um%20Zug/04%20-%20Zug%20um%20Zug/03%20-%20Besuch%20bei%20Mr.%20Walker.mp3"
+      },
+      {
+        "num": 4,
+        "title": "Ein leeres Blatt Papier",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/04%20-%20Zug%20um%20Zug/04%20-%20Zug%20um%20Zug/04%20-%20Ein%20leeres%20Blatt%20Papier.mp3"
+      },
+      {
+        "num": 5,
+        "title": "Der alte Bahnhofsvorsteher",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/04%20-%20Zug%20um%20Zug/04%20-%20Zug%20um%20Zug/05%20-%20Der%20alte%20Bahnhofsvorsteher.mp3"
+      },
+      {
+        "num": 6,
+        "title": "Unter den Gleisen",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/04%20-%20Zug%20um%20Zug/04%20-%20Zug%20um%20Zug/06%20-%20Unter%20den%20Gleisen.mp3"
+      },
+      {
+        "num": 7,
+        "title": "Der unbekannte Sohn",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/04%20-%20Zug%20um%20Zug/04%20-%20Zug%20um%20Zug/07%20-%20Der%20unbekannte%20Sohn.mp3"
+      },
+      {
+        "num": 8,
+        "title": "CC-DC-DC-OA 14, AAH-CI-CA-EC 23",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/04%20-%20Zug%20um%20Zug/04%20-%20Zug%20um%20Zug/08%20-%20CC-DC-DC-OA%2014%2C%20AAH-CI-CA-EC%2023.mp3"
+      },
+      {
+        "num": 9,
+        "title": "Doc Brown",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/04%20-%20Zug%20um%20Zug/04%20-%20Zug%20um%20Zug/09%20-%20Doc%20Brown.mp3"
+      },
+      {
+        "num": 10,
+        "title": "Lebenslänglich für drei Detektive",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/04%20-%20Zug%20um%20Zug/04%20-%20Zug%20um%20Zug/10%20-%20Lebensl%C3%A4nglich%20f%C3%BCr%20drei%20Detektive.mp3"
+      },
+      {
+        "num": 11,
+        "title": "Jeden Tag eine gute Tat",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/04%20-%20Zug%20um%20Zug/04%20-%20Zug%20um%20Zug/11%20-%20Jeden%20Tag%20eine%20gute%20Tat.mp3"
+      }
+    ]
+  },
+  {
+    "id": "D_5",
+    "num": 5,
+    "numStr": "D_5",
+    "title": "Das Haus Der 1.000 Rätsel",
+    "author": "DiE DR3i",
+    "cover": "covers/D_5.png",
+    "description": "Folge 5 der Serie Die dr3i.",
+    "trackCount": 11,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Ein Star braucht Hilfe",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/01%20-%20Ein%20Star%20braucht%20Hilfe.mp3"
+      },
+      {
+        "num": 2,
+        "title": "Gürtel, Karte, Taste",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/02%20-%20G%C3%BCrtel%2C%20Karte%2C%20Taste.mp3"
+      },
+      {
+        "num": 3,
+        "title": "Die Fährte nach Marokko",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/03%20-%20Die%20F%C3%A4hrte%20nach%20Marokko.mp3"
+      },
+      {
+        "num": 4,
+        "title": "Eine legendäre Bar",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/04%20-%20Eine%20legend%C3%A4re%20Bar.mp3"
+      },
+      {
+        "num": 5,
+        "title": "Der rätselhafte Drink",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/05%20-%20Der%20r%C3%A4tselhafte%20Drink.mp3"
+      },
+      {
+        "num": 6,
+        "title": "Salon Moskva",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/06%20-%20Salon%20Moskva.mp3"
+      },
+      {
+        "num": 7,
+        "title": "Mademoiselle Nadine",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/07%20-%20Mademoiselle%20Nadine.mp3"
+      },
+      {
+        "num": 8,
+        "title": "Bobs Frisuren-Trauma",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/08%20-%20Bobs%20Frisuren-Trauma.mp3"
+      },
+      {
+        "num": 9,
+        "title": "Smith & Wesson weisen den Weg",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/09%20-%20Smith%20%26%20Wesson%20weisen%20den%20Weg.mp3"
+      },
+      {
+        "num": 10,
+        "title": "Showdown in der Finsternis",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/10%20-%20Showdown%20in%20der%20Finsternis.mp3"
+      },
+      {
+        "num": 11,
+        "title": "Lektion für den Meisterdetektiv",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/05%20-%20Das%20Haus%20Der%201.000%20R%C3%A4tsel/11%20-%20Lektion%20f%C3%BCr%20den%20Meisterdetektiv.mp3"
+      }
+    ]
+  },
+  {
+    "id": "D_6",
+    "num": 6,
+    "numStr": "D_6",
+    "title": "Tödliche Regie",
+    "author": "DiE DR3i",
+    "cover": "covers/D_6.png",
+    "description": "Folge 6 der Serie Die dr3i.",
+    "trackCount": 10,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Gewonnen!",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/06%20-%20T%C3%B6dliche%20Regie/06%20-%20T%C3%B6dliche%20Regie/01%20-%20Gewonnen%21.mp3"
+      },
+      {
+        "num": 2,
+        "title": "Attentat",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/06%20-%20T%C3%B6dliche%20Regie/06%20-%20T%C3%B6dliche%20Regie/02%20-%20Attentat.mp3"
+      },
+      {
+        "num": 3,
+        "title": "Kreidebleich",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/06%20-%20T%C3%B6dliche%20Regie/06%20-%20T%C3%B6dliche%20Regie/03%20-%20Kreidebleich.mp3"
+      },
+      {
+        "num": 4,
+        "title": "Spiegel der Seele",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/06%20-%20T%C3%B6dliche%20Regie/06%20-%20T%C3%B6dliche%20Regie/04%20-%20Spiegel%20der%20Seele.mp3"
+      },
+      {
+        "num": 5,
+        "title": "Attacke",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/06%20-%20T%C3%B6dliche%20Regie/06%20-%20T%C3%B6dliche%20Regie/05%20-%20Attacke.mp3"
+      },
+      {
+        "num": 6,
+        "title": "Vollgas",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/06%20-%20T%C3%B6dliche%20Regie/06%20-%20T%C3%B6dliche%20Regie/06%20-%20Vollgas.mp3"
+      },
+      {
+        "num": 7,
+        "title": "Gage",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/06%20-%20T%C3%B6dliche%20Regie/06%20-%20T%C3%B6dliche%20Regie/07%20-%20Gage.mp3"
+      },
+      {
+        "num": 8,
+        "title": "Überwacht",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/06%20-%20T%C3%B6dliche%20Regie/06%20-%20T%C3%B6dliche%20Regie/08%20-%20%C3%9Cberwacht.mp3"
+      },
+      {
+        "num": 9,
+        "title": "Verhaftet",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/06%20-%20T%C3%B6dliche%20Regie/06%20-%20T%C3%B6dliche%20Regie/09%20-%20Verhaftet.mp3"
+      },
+      {
+        "num": 10,
+        "title": "Endspiel",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/06%20-%20T%C3%B6dliche%20Regie/06%20-%20T%C3%B6dliche%20Regie/10%20-%20Endspiel.mp3"
+      }
+    ]
+  },
+  {
+    "id": "D_7",
+    "num": 7,
+    "numStr": "D_7",
+    "title": "und der Kopflose Reiter",
+    "author": "DiE DR3i",
+    "cover": "covers/D_7.png",
+    "description": "Folge 7 der Serie Die dr3i.",
+    "trackCount": 10,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Nebel",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/07%20-%20und%20der%20Kopflose%20Reiter/07%20-%20und%20der%20Kopflose%20Reiter/01%20-%20Nebel.mp3"
+      },
+      {
+        "num": 2,
+        "title": "Ashoona",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/07%20-%20und%20der%20Kopflose%20Reiter/07%20-%20und%20der%20Kopflose%20Reiter/02%20-%20Ashoona.mp3"
+      },
+      {
+        "num": 3,
+        "title": "Geisterstunde",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/07%20-%20und%20der%20Kopflose%20Reiter/07%20-%20und%20der%20Kopflose%20Reiter/03%20-%20Geisterstunde.mp3"
+      },
+      {
+        "num": 4,
+        "title": "Erdbeben",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/07%20-%20und%20der%20Kopflose%20Reiter/07%20-%20und%20der%20Kopflose%20Reiter/04%20-%20Erdbeben.mp3"
+      },
+      {
+        "num": 5,
+        "title": "Treffen im Wald",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/07%20-%20und%20der%20Kopflose%20Reiter/07%20-%20und%20der%20Kopflose%20Reiter/05%20-%20Treffen%20im%20Wald.mp3"
+      },
+      {
+        "num": 6,
+        "title": "Fehlende Seiten",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/07%20-%20und%20der%20Kopflose%20Reiter/07%20-%20und%20der%20Kopflose%20Reiter/06%20-%20Fehlende%20Seiten.mp3"
+      },
+      {
+        "num": 7,
+        "title": "Im Filmstudio",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/07%20-%20und%20der%20Kopflose%20Reiter/07%20-%20und%20der%20Kopflose%20Reiter/07%20-%20Im%20Filmstudio.mp3"
+      },
+      {
+        "num": 8,
+        "title": "Der Plan",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/07%20-%20und%20der%20Kopflose%20Reiter/07%20-%20und%20der%20Kopflose%20Reiter/08%20-%20Der%20Plan.mp3"
+      },
+      {
+        "num": 9,
+        "title": "Explosion",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/07%20-%20und%20der%20Kopflose%20Reiter/07%20-%20und%20der%20Kopflose%20Reiter/09%20-%20Explosion.mp3"
+      },
+      {
+        "num": 10,
+        "title": "Ashoonas Schatz",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/07%20-%20und%20der%20Kopflose%20Reiter/07%20-%20und%20der%20Kopflose%20Reiter/10%20-%20Ashoonas%20Schatz.mp3"
+      }
+    ]
+  },
+  {
+    "id": "D_8",
+    "num": 8,
+    "numStr": "D_8",
+    "title": "Der Jahrhundertstein",
+    "author": "DiE DR3i",
+    "cover": "covers/D_8.png",
+    "description": "Folge 8 der Serie Die dr3i.",
+    "trackCount": 8,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Nächtliche Begegnung",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/08%20-%20Der%20Jahrhundertstein/08%20-%20Der%20Jahrhundertstein/01%20-%20N%C3%A4chtliche%20Begegnung.mp3"
+      },
+      {
+        "num": 2,
+        "title": "Ein Geist in der Zentrale",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/08%20-%20Der%20Jahrhundertstein/08%20-%20Der%20Jahrhundertstein/02%20-%20Ein%20Geist%20in%20der%20Zentrale.mp3"
+      },
+      {
+        "num": 3,
+        "title": "Gut versichert!",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/08%20-%20Der%20Jahrhundertstein/08%20-%20Der%20Jahrhundertstein/03%20-%20Gut%20versichert%21.mp3"
+      },
+      {
+        "num": 4,
+        "title": "Les Centuries",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/08%20-%20Der%20Jahrhundertstein/08%20-%20Der%20Jahrhundertstein/04%20-%20Les%20Centuries.mp3"
+      },
+      {
+        "num": 5,
+        "title": "Dunkle Vorahnung",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/08%20-%20Der%20Jahrhundertstein/08%20-%20Der%20Jahrhundertstein/05%20-%20Dunkle%20Vorahnung.mp3"
+      },
+      {
+        "num": 6,
+        "title": "Ausgetrickst",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/08%20-%20Der%20Jahrhundertstein/08%20-%20Der%20Jahrhundertstein/06%20-%20Ausgetrickst.mp3"
+      },
+      {
+        "num": 7,
+        "title": "Erklärungen",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/08%20-%20Der%20Jahrhundertstein/08%20-%20Der%20Jahrhundertstein/07%20-%20Erkl%C3%A4rungen.mp3"
+      },
+      {
+        "num": 8,
+        "title": "Blick in die Zukunft",
+        "url": "https://archive.org/download/die-dr3i-hoerspiele-herrgemmel/08%20-%20Der%20Jahrhundertstein/08%20-%20Der%20Jahrhundertstein/08%20-%20Blick%20in%20die%20Zukunft.mp3"
+      }
+    ]
+  },
+  {
+    "id": "D_9",
+    "num": 9,
+    "numStr": "D_9",
+    "title": "Hotel Luxury End",
+    "author": "DiE DR3i",
+    "cover": "covers/D_9.jpg",
+    "description": "Folge 9 der Serie Die dr3i.",
+    "trackCount": 50,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Intro",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Ankunft Hotel",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Entscheidung: Zimmer Oder Restaurant",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Restaurant",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Entscheidung: Gästebuch Oder Sachen Holen",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Gästebuch",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Entscheidung: Zimmer 113 Oder Sachen Holen",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Zimmer 113",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Entscheidung: Verstecken Oder Polizei",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Verstecken",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Polizei",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Flucht",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Entscheidung: Laufen Oder Ausleihen",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Laufen",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Ausleihen",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Sachen Holen",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Entscheidung: 7. Stock Oder Zimmer",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "7. Stock",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Entscheidung: Hilferuf Oder Autoschlüssel",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Hilferuf",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Autoschlüssel",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Zimmer",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Entscheidung: Wecken Oder KO Schlagen",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Wecken",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "KO Schlagen",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Intro",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Ankunft Hotel",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Entscheidung: Zimmer Oder Restaurant",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Zimmer",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Entscheidung: Tür Offen Oder Klimaanlage",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Tür Offen",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Entscheidung: Tür Schliessen Oder Flur",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "Tür Schliessen",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "Entscheidung: Mr. Stanley Oder Auto Holen",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "Mr. Stanley",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "Auto Holen",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "Flur",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "Entscheidung: Flucht Oder Ausrede",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "Flucht",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "Ausrede",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "Klimaanlage",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "Entscheidung: Annehmen Oder Ablehnen",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "Annehmen",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "Entscheidung: Essen Oder Auflegen",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "Essen",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "Auflegen",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "Ablehnen",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "Entscheidung: Befreien Oder Fragen Stellen",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "Befreien",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "Fragen Stellen",
+        "url": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Hörspielarchiv">
+  <meta name="theme-color" content="#09090b">
+  
+  <title>Hörspielarchiv</title>
+  
+  <link rel="stylesheet" href="assets/css/app.css">
+  
+  <!-- Minimalist Vector Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23f4f4f6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 18v-6a9 9 0 0 1 18 0v6'%3E%3C/path%3E%3Cpath d='M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z'%3E%3C/path%3E%3C/svg%3E">
+</head>
+<body>
+
+  <!-- Top Navigation -->
+  <header class="app-header">
+    <div class="header-inner">
+      <a href="index.html" class="brand-link">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M3 18v-6a9 9 0 0 1 18 0v6"></path>
+          <path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"></path>
+        </svg>
+        <span>Hörspielarchiv</span>
+      </a>
+      <span class="brand-badge" id="shows-count-badge">Lade...</span>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="main-content">
+    
+    <!-- Hero / Greeting -->
+    <section class="hero">
+      <div class="hero-subtitle" id="time-greeting">Willkommen</div>
+      <h1 class="hero-title">Was möchtest du hören?</h1>
+      <p class="hero-desc">Wähle eine Hörspielserie aus der Sammlung oder nutze die Suche.</p>
+    </section>
+
+    <!-- Search Bar -->
+    <div class="search-wrapper">
+      <svg class="search-icon" viewBox="0 0 24 24">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+      <input type="text" id="searchInput" class="search-input" placeholder="Serie oder Stichwort suchen..." autocomplete="off">
+      <button id="searchClear" class="search-clear" aria-label="Suche löschen">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <line x1="18" y1="6" x2="6" y2="18"></line>
+          <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Shows Grid Container -->
+    <div id="showsGrid" class="grid-cards">
+      <!-- Skeleton Loading Cards -->
+      <div class="card" style="opacity: 0.6; pointer-events: none;">
+        <div class="card-cover-wrapper"></div>
+        <div class="card-title" style="background: rgba(255,255,255,0.08); height: 24px; border-radius: 6px; width: 60%; margin-bottom: 12px;"></div>
+        <div class="card-short" style="background: rgba(255,255,255,0.05); height: 36px; border-radius: 6px;"></div>
+      </div>
+      <div class="card" style="opacity: 0.6; pointer-events: none;">
+        <div class="card-cover-wrapper"></div>
+        <div class="card-title" style="background: rgba(255,255,255,0.08); height: 24px; border-radius: 6px; width: 50%; margin-bottom: 12px;"></div>
+        <div class="card-short" style="background: rgba(255,255,255,0.05); height: 36px; border-radius: 6px;"></div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Detail Modal for Long Description & Action -->
+  <div id="detailModal" class="modal-overlay">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2 id="modalTitle" class="modal-title">Serientitel</h2>
+        <button id="modalClose" class="modal-close" aria-label="Schließen">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+      <div id="modalBody" class="modal-body">
+        <p id="modalLongDesc">Beschreibung</p>
+      </div>
+      <div class="modal-actions">
+        <a id="modalActionBtn" href="#" class="btn-primary">
+          <span>Zur Serie</span>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polyline points="9 18 15 12 9 6"></polyline>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Fallback known shows list
+    const DEFAULT_SHOWS = [
+      { id: 'ddf', path: 'ddf', status: 'active', badge: '118 Folgen', cover: 'ddf/cover.png' },
+      { id: 'hp', path: 'hp', status: 'active', badge: '7 Bände', cover: 'hp/cover.jpg' },
+      { id: 'alf', path: 'alf', status: 'active', badge: '34 Folgen', cover: 'alf/cover.jpg' },
+      { id: 'tkkg', path: 'tkkg', status: 'coming_soon', badge: 'Bald verfügbar', cover: 'tkkg/cover.jpg' }
+    ];
+
+    let allShowsData = [];
+
+    // Set greeting based on current local hour
+    function updateGreeting() {
+      const hour = new Date().getHours();
+      const el = document.getElementById('time-greeting');
+      if (hour >= 5 && hour < 12) el.textContent = 'Guten Morgen';
+      else if (hour >= 12 && hour < 18) el.textContent = 'Guten Tag';
+      else if (hour >= 18 && hour < 22) el.textContent = 'Guten Abend';
+      else el.textContent = 'Gute Nacht';
+    }
+
+    // Markdown metadata parser for metadata.md
+    function parseMetadataMd(text) {
+      const res = {
+        title: '',
+        short: '',
+        long: ''
+      };
+
+      if (!text) return res;
+
+      // Title (# Title)
+      const titleMatch = text.match(/^#\s+(.+)$/m);
+      if (titleMatch) res.title = titleMatch[1].trim();
+
+      // Kurzbeschreibung (## Kurzbeschreibung ...)
+      const shortMatch = text.match(/##\s*Kurzbeschreibung\s*\n+([\s\S]*?)(?=\n##|$)/i);
+      if (shortMatch) res.short = shortMatch[1].trim();
+
+      // Beschreibung (## Beschreibung ...)
+      const longMatch = text.match(/##\s*Beschreibung\s*\n+([\s\S]*?)(?=\n##|$)/i);
+      if (longMatch) res.long = longMatch[1].trim();
+
+      return res;
+    }
+
+    // Fetch metadata for a show folder dynamically
+    async function loadShowDetails(show) {
+      let meta = { title: show.title || show.id, short: '', long: '' };
+      
+      try {
+        const metaRes = await fetch(`${show.path}/metadata.md`);
+        if (metaRes.ok) {
+          const text = await metaRes.text();
+          const parsed = parseMetadataMd(text);
+          if (parsed.title) meta.title = parsed.title;
+          if (parsed.short) meta.short = parsed.short;
+          if (parsed.long) meta.long = parsed.long;
+        }
+      } catch (err) {
+        console.warn(`Could not load metadata for ${show.path}:`, err);
+      }
+
+      // Check cover fallback
+      let cover = show.cover || `${show.path}/cover.jpg`;
+
+      return {
+        ...show,
+        title: meta.title,
+        short: meta.short,
+        long: meta.long || meta.short,
+        cover: cover
+      };
+    }
+
+    // Dynamic show discovery (loads shows.json, with optional GitHub Pages API scanning)
+    async function fetchShowList() {
+      let list = [];
+      try {
+        const res = await fetch('shows.json?t=' + Date.now());
+        if (res.ok) {
+          list = await res.json();
+        }
+      } catch (e) {
+        console.warn("shows.json nicht erreichbar, nutze Standard-Liste:", e);
+      }
+
+      if (!list || list.length === 0) {
+        list = DEFAULT_SHOWS;
+      }
+
+      // If running on GitHub Pages, try background discovery for newly added subfolders
+      const host = window.location.hostname;
+      const pathname = window.location.pathname.replace(/^\/|\/$/g, '');
+      if (host.endsWith('github.io') && pathname) {
+        try {
+          const parts = pathname.split('/');
+          const repo = parts[0];
+          const owner = host.split('.')[0];
+          const apiRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents`);
+          if (apiRes.ok) {
+            const contents = await apiRes.json();
+            const existingPaths = new Set(list.map(s => s.path));
+            const ignore = new Set(['assets', '.github', 'node_modules']);
+            
+            contents.forEach(item => {
+              if (item.type === 'dir' && !item.name.startsWith('.') && !ignore.has(item.name) && !existingPaths.has(item.name)) {
+                list.push({
+                  id: item.name,
+                  path: item.name,
+                  status: item.name === 'tkkg' ? 'coming_soon' : 'active',
+                  badge: 'Neu',
+                  cover: `${item.name}/cover.jpg`
+                });
+              }
+            });
+          }
+        } catch (err) {
+          // Ignore GitHub API errors / rate limits
+        }
+      }
+
+      // Load all metadata concurrently
+      allShowsData = await Promise.all(list.map(loadShowDetails));
+      renderShows(allShowsData);
+
+      const badge = document.getElementById('shows-count-badge');
+      if (badge) {
+        badge.textContent = `${allShowsData.length} Serien`;
+      }
+    }
+
+    // Render cards to DOM
+    function renderShows(shows) {
+      const container = document.getElementById('showsGrid');
+      container.innerHTML = '';
+
+      if (shows.length === 0) {
+        container.innerHTML = `
+          <div class="empty-state" style="grid-column: 1 / -1;">
+            <div class="empty-title">Keine Treffer</div>
+            <div class="empty-text">Für diesen Suchbegriff wurde keine Hörspielserie gefunden.</div>
+          </div>
+        `;
+        return;
+      }
+
+      shows.forEach(show => {
+        const card = document.createElement('a');
+        card.className = 'card';
+        card.href = `${show.path}/index.html`;
+
+        const isComingSoon = show.status === 'coming_soon';
+        const badgeText = show.badge || (isComingSoon ? 'Bald verfügbar' : 'Serie');
+
+        card.innerHTML = `
+          <div class="card-cover-wrapper">
+            <img class="card-cover" src="${show.cover}" alt="${show.title}" loading="lazy" onerror="this.onerror=null; this.src='data:image/svg+xml,%3Csvg xmlns=\\'http://www.w3.org/2000/svg\\' viewBox=\\'0 0 100 100\\'%3E%3Crect width=\\'100\\' height=\\'100\\' fill=\\'%2318181c\\'/ %3E%3Ctext x=\\'50\\' y=\\'55\\' font-family=\\'sans-serif\\' font-size=\\'12\\' fill=\\'%23888\\' text-anchor=\\'middle\\'%3ECover%3C/text%3E%3C/svg%3E';">
+            <span class="card-badge ${isComingSoon ? 'coming-soon' : ''}">${badgeText}</span>
+          </div>
+          <h2 class="card-title">${show.title}</h2>
+          <p class="card-short">${show.short || 'Keine Beschreibung vorhanden.'}</p>
+          <div class="card-footer">
+            <span>${isComingSoon ? 'In Vorbereitung' : 'Hörspielreihe'}</span>
+            <span class="card-action">
+              ${isComingSoon ? 'Details ansehen' : 'Öffnen'}
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+                <polyline points="9 18 15 12 9 6"></polyline>
+              </svg>
+            </span>
+          </div>
+        `;
+
+        container.appendChild(card);
+      });
+    }
+
+    // Modal helpers
+    function openModal(show) {
+      document.getElementById('modalTitle').textContent = show.title;
+      document.getElementById('modalLongDesc').textContent = show.long || show.short || 'Keine weitere Beschreibung vorhanden.';
+      const actionBtn = document.getElementById('modalActionBtn');
+      actionBtn.href = `${show.path}/index.html`;
+      actionBtn.querySelector('span').textContent = show.status === 'coming_soon' ? 'Vorschau öffnen' : 'Zur Serie';
+
+      const modal = document.getElementById('detailModal');
+      modal.classList.add('active');
+    }
+
+    function closeModal() {
+      document.getElementById('detailModal').classList.remove('active');
+    }
+
+    // Search filter
+    const searchInput = document.getElementById('searchInput');
+    const searchClear = document.getElementById('searchClear');
+
+    searchInput.addEventListener('input', (e) => {
+      const q = e.target.value.trim().toLowerCase();
+      searchClear.classList.toggle('visible', q.length > 0);
+
+      if (!q) {
+        renderShows(allShowsData);
+        return;
+      }
+
+      const filtered = allShowsData.filter(s => 
+        (s.title && s.title.toLowerCase().includes(q)) ||
+        (s.short && s.short.toLowerCase().includes(q)) ||
+        (s.long && s.long.toLowerCase().includes(q)) ||
+        (s.path && s.path.toLowerCase().includes(q))
+      );
+      renderShows(filtered);
+    });
+
+    searchClear.addEventListener('click', () => {
+      searchInput.value = '';
+      searchClear.classList.remove('visible');
+      renderShows(allShowsData);
+      searchInput.focus();
+    });
+
+    document.getElementById('modalClose').addEventListener('click', closeModal);
+    document.getElementById('detailModal').addEventListener('click', (e) => {
+      if (e.target === document.getElementById('detailModal')) closeModal();
+    });
+
+    // Init
+    updateGreeting();
+    fetchShowList();
+  </script>
+</body>
+</html>

@@ -1,0 +1,8498 @@
+[
+  {
+    "id": "S_1",
+    "num": 1,
+    "numStr": "S_1",
+    "title": "Alle Fälle Intro",
+    "author": "Die drei ???",
+    "cover": "covers/S_1.jpg",
+    "description": "Sonderfolge / Special: Alle Fälle Intro.",
+    "trackCount": 1,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Alle Fälle Intro",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_2",
+    "num": 2,
+    "numStr": "S_2",
+    "title": "Brainwash - Gefangene Gedanken",
+    "author": "Die drei ???",
+    "cover": "covers/S_2.jpg",
+    "description": "Sonderfolge / Special: Brainwash - Gefangene Gedanken.",
+    "trackCount": 40,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Brainwash - Gefangene Gedanken - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Brainwash - Gefangene Gedanken - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Brainwash - Gefangene Gedanken - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Brainwash - Gefangene Gedanken - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Brainwash - Gefangene Gedanken - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Brainwash - Gefangene Gedanken - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Brainwash - Gefangene Gedanken - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Brainwash - Gefangene Gedanken - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Brainwash - Gefangene Gedanken - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Brainwash - Gefangene Gedanken - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Brainwash - Gefangene Gedanken - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Brainwash - Gefangene Gedanken - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Brainwash - Gefangene Gedanken - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Brainwash - Gefangene Gedanken - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Brainwash - Gefangene Gedanken - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Brainwash - Gefangene Gedanken - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Brainwash - Gefangene Gedanken - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Brainwash - Gefangene Gedanken - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Brainwash - Gefangene Gedanken - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Brainwash - Gefangene Gedanken - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Brainwash - Gefangene Gedanken - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Brainwash - Gefangene Gedanken - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Brainwash - Gefangene Gedanken - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Brainwash - Gefangene Gedanken - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Brainwash - Gefangene Gedanken - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Brainwash - Gefangene Gedanken - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Brainwash - Gefangene Gedanken - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Brainwash - Gefangene Gedanken - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Brainwash - Gefangene Gedanken - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Brainwash - Gefangene Gedanken - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Brainwash - Gefangene Gedanken - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Brainwash - Gefangene Gedanken - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "Brainwash - Gefangene Gedanken - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "Brainwash - Gefangene Gedanken - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "Brainwash - Gefangene Gedanken - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "Brainwash - Gefangene Gedanken - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "Brainwash - Gefangene Gedanken - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "Brainwash - Gefangene Gedanken - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "Brainwash - Gefangene Gedanken - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "Brainwash - Gefangene Gedanken - Teil 40",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_3",
+    "num": 3,
+    "numStr": "S_3",
+    "title": "Das Dorf der Teufel",
+    "author": "Die drei ???",
+    "cover": "covers/S_3.jpg",
+    "description": "Sonderfolge / Special: Das Dorf der Teufel.",
+    "trackCount": 30,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Kapitel 01: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Kapitel 02: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Kapitel 03: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Kapitel 04: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Kapitel 05: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Kapitel 06: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Kapitel 07: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Kapitel 08: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Kapitel 09: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Kapitel 10: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Kapitel 11: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Kapitel 12: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Kapitel 13: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Kapitel 14: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Kapitel 15: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Kapitel 16: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Kapitel 17: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Kapitel 18: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Kapitel 19: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Kapitel 20: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Kapitel 21: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Kapitel 22: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Kapitel 23: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Kapitel 24: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Kapitel 25: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Kapitel 26: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Kapitel 27: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Kapitel 28: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Kapitel 29: Das Dorf der Teufel",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Outro: Das Dorf der Teufel",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_4",
+    "num": 4,
+    "numStr": "S_4",
+    "title": "Das Grab der Inka-Mumie",
+    "author": "Die drei ???",
+    "cover": "covers/S_4.jpg",
+    "description": "Sonderfolge / Special: Das Grab der Inka-Mumie.",
+    "trackCount": 80,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Das Grab der Inka-Mumie - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Das Grab der Inka-Mumie - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Das Grab der Inka-Mumie - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Das Grab der Inka-Mumie - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Das Grab der Inka-Mumie - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Das Grab der Inka-Mumie - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Das Grab der Inka-Mumie - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Das Grab der Inka-Mumie - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Das Grab der Inka-Mumie - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Das Grab der Inka-Mumie - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Das Grab der Inka-Mumie - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Das Grab der Inka-Mumie - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Das Grab der Inka-Mumie - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Das Grab der Inka-Mumie - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Das Grab der Inka-Mumie - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Das Grab der Inka-Mumie - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Das Grab der Inka-Mumie - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Das Grab der Inka-Mumie - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Das Grab der Inka-Mumie - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Das Grab der Inka-Mumie - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Das Grab der Inka-Mumie - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Das Grab der Inka-Mumie - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Das Grab der Inka-Mumie - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Das Grab der Inka-Mumie - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Das Grab der Inka-Mumie - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Das Grab der Inka-Mumie - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Das Grab der Inka-Mumie - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Das Grab der Inka-Mumie - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Das Grab der Inka-Mumie - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Das Grab der Inka-Mumie - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Das Grab der Inka-Mumie - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Das Grab der Inka-Mumie - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "Das Grab der Inka-Mumie - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "Das Grab der Inka-Mumie - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "Das Grab der Inka-Mumie - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "Das Grab der Inka-Mumie - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "Das Grab der Inka-Mumie - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "Das Grab der Inka-Mumie - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "Das Grab der Inka-Mumie - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "Das Grab der Inka-Mumie - Teil 40",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "Das Grab der Inka-Mumie - Teil 41",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "Das Grab der Inka-Mumie - Teil 42",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "Das Grab der Inka-Mumie - Teil 43",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "Das Grab der Inka-Mumie - Teil 44",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "Das Grab der Inka-Mumie - Teil 45",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "Das Grab der Inka-Mumie - Teil 46",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "Das Grab der Inka-Mumie - Teil 47",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "Das Grab der Inka-Mumie - Teil 48",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "Das Grab der Inka-Mumie - Teil 49",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "Das Grab der Inka-Mumie - Teil 50",
+        "url": ""
+      },
+      {
+        "num": 51,
+        "title": "Das Grab der Inka-Mumie - Teil 51",
+        "url": ""
+      },
+      {
+        "num": 52,
+        "title": "Das Grab der Inka-Mumie - Teil 52",
+        "url": ""
+      },
+      {
+        "num": 53,
+        "title": "Das Grab der Inka-Mumie - Teil 53",
+        "url": ""
+      },
+      {
+        "num": 54,
+        "title": "Das Grab der Inka-Mumie - Teil 54",
+        "url": ""
+      },
+      {
+        "num": 55,
+        "title": "Das Grab der Inka-Mumie - Teil 55",
+        "url": ""
+      },
+      {
+        "num": 56,
+        "title": "Das Grab der Inka-Mumie - Teil 56",
+        "url": ""
+      },
+      {
+        "num": 57,
+        "title": "Das Grab der Inka-Mumie - Teil 57",
+        "url": ""
+      },
+      {
+        "num": 58,
+        "title": "Das Grab der Inka-Mumie - Teil 58",
+        "url": ""
+      },
+      {
+        "num": 59,
+        "title": "Das Grab der Inka-Mumie - Teil 59",
+        "url": ""
+      },
+      {
+        "num": 60,
+        "title": "Das Grab der Inka-Mumie - Teil 60",
+        "url": ""
+      },
+      {
+        "num": 61,
+        "title": "Das Grab der Inka-Mumie - Teil 61",
+        "url": ""
+      },
+      {
+        "num": 62,
+        "title": "Das Grab der Inka-Mumie - Teil 62",
+        "url": ""
+      },
+      {
+        "num": 63,
+        "title": "Das Grab der Inka-Mumie - Teil 63",
+        "url": ""
+      },
+      {
+        "num": 64,
+        "title": "Das Grab der Inka-Mumie - Teil 64",
+        "url": ""
+      },
+      {
+        "num": 65,
+        "title": "Das Grab der Inka-Mumie - Teil 65",
+        "url": ""
+      },
+      {
+        "num": 66,
+        "title": "Das Grab der Inka-Mumie - Teil 66",
+        "url": ""
+      },
+      {
+        "num": 67,
+        "title": "Das Grab der Inka-Mumie - Teil 67",
+        "url": ""
+      },
+      {
+        "num": 68,
+        "title": "Das Grab der Inka-Mumie - Teil 68",
+        "url": ""
+      },
+      {
+        "num": 69,
+        "title": "Das Grab der Inka-Mumie - Teil 69",
+        "url": ""
+      },
+      {
+        "num": 70,
+        "title": "Das Grab der Inka-Mumie - Teil 70",
+        "url": ""
+      },
+      {
+        "num": 71,
+        "title": "Das Grab der Inka-Mumie - Teil 71",
+        "url": ""
+      },
+      {
+        "num": 72,
+        "title": "Das Grab der Inka-Mumie - Teil 72",
+        "url": ""
+      },
+      {
+        "num": 73,
+        "title": "Das Grab der Inka-Mumie - Teil 73",
+        "url": ""
+      },
+      {
+        "num": 74,
+        "title": "Das Grab der Inka-Mumie - Teil 74",
+        "url": ""
+      },
+      {
+        "num": 75,
+        "title": "Das Grab der Inka-Mumie - Teil 75",
+        "url": ""
+      },
+      {
+        "num": 76,
+        "title": "Das Grab der Inka-Mumie - Teil 76",
+        "url": ""
+      },
+      {
+        "num": 77,
+        "title": "Das Grab der Inka-Mumie - Teil 77",
+        "url": ""
+      },
+      {
+        "num": 78,
+        "title": "Das Grab der Inka-Mumie - Teil 78",
+        "url": ""
+      },
+      {
+        "num": 79,
+        "title": "Das Grab der Inka-Mumie - Teil 79",
+        "url": ""
+      },
+      {
+        "num": 80,
+        "title": "Das Grab der Inka-Mumie - Teil 80",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_5",
+    "num": 5,
+    "numStr": "S_5",
+    "title": "Das Grab der Inka-Mumie (Kopfhörer-Hörspiel)",
+    "author": "Die drei ???",
+    "cover": "covers/S_5.jpg",
+    "description": "Sonderfolge / Special: Das Grab der Inka-Mumie (Kopfhörer-Hörspiel).",
+    "trackCount": 31,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Das Grab der Inka-Mumie - Titelmusik",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Das Grab der Inka-Mumie - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Das Grab der Inka-Mumie - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Das Grab der Inka-Mumie - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Das Grab der Inka-Mumie - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Das Grab der Inka-Mumie - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Das Grab der Inka-Mumie - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Das Grab der Inka-Mumie - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Das Grab der Inka-Mumie - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Das Grab der Inka-Mumie - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Das Grab der Inka-Mumie - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Das Grab der Inka-Mumie - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Das Grab der Inka-Mumie - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Das Grab der Inka-Mumie - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Das Grab der Inka-Mumie - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Das Grab der Inka-Mumie - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Das Grab der Inka-Mumie - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Das Grab der Inka-Mumie - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Das Grab der Inka-Mumie - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Das Grab der Inka-Mumie - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Das Grab der Inka-Mumie - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Das Grab der Inka-Mumie - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Das Grab der Inka-Mumie - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Das Grab der Inka-Mumie - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Das Grab der Inka-Mumie - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Das Grab der Inka-Mumie - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Das Grab der Inka-Mumie - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Das Grab der Inka-Mumie - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Das Grab der Inka-Mumie - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Das Grab der Inka-Mumie - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Das Grab der Inka-Mumie - Schlussmusik",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_6",
+    "num": 6,
+    "numStr": "S_6",
+    "title": "Das Rätsel der Sieben",
+    "author": "Die drei ???",
+    "cover": "covers/S_6.jpg",
+    "description": "Sonderfolge / Special: Das Rätsel der Sieben.",
+    "trackCount": 110,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Das Rätsel der Sieben 1 - Der siebte Gast - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "Das Rätsel der Sieben 2 - Bis um sieben zurück - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 51,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 52,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 53,
+        "title": "Das Rätsel der Sieben 3 - Bob schwerste Stunde - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 54,
+        "title": "Das Rätsel der Sieben 4 - Die rote Sieben - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 55,
+        "title": "Das Rätsel der Sieben 4 - Die rote Sieben - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 56,
+        "title": "Das Rätsel der Sieben 4 - Die rote Sieben - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 57,
+        "title": "Das Rätsel der Sieben 4 - Die rote Sieben - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 58,
+        "title": "Das Rätsel der Sieben 4 - Die rote Sieben - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 59,
+        "title": "Das Rätsel der Sieben 4 - Die rote Sieben - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 60,
+        "title": "Das Rätsel der Sieben 4 - Die rote Sieben - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 61,
+        "title": "Das Rätsel der Sieben 4 - Die rote Sieben - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 62,
+        "title": "Das Rätsel der Sieben 4 - Die rote Sieben - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 63,
+        "title": "Das Rätsel der Sieben 4 - Die rote Sieben - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 64,
+        "title": "Das Rätsel der Sieben 4 - Die rote Sieben - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 65,
+        "title": "Das Rätsel der Sieben 4 - Die rote Sieben - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 66,
+        "title": "Das Rätsel der Sieben 4 - Die rote Sieben - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 67,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 68,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 69,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 70,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 71,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 72,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 73,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 74,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 75,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 76,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 77,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 78,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 79,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 80,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 81,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 82,
+        "title": "Das Rätsel der Sieben 5 - Schutzgeld - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 83,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 84,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 85,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 86,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 87,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 88,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 89,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 90,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 91,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 92,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 93,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 94,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 95,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 96,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 97,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 98,
+        "title": "Das Rätsel der Sieben 6 - Die siebte Frau des Leuchters - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 99,
+        "title": "Das Rätsel der Sieben 7 - Die verschwundene Torte - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 100,
+        "title": "Das Rätsel der Sieben 7 - Die verschwundene Torte - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 101,
+        "title": "Das Rätsel der Sieben 7 - Die verschwundene Torte - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 102,
+        "title": "Das Rätsel der Sieben 7 - Die verschwundene Torte - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 103,
+        "title": "Das Rätsel der Sieben 7 - Die verschwundene Torte - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 104,
+        "title": "Das Rätsel der Sieben 7 - Die verschwundene Torte - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 105,
+        "title": "Das Rätsel der Sieben 7 - Die verschwundene Torte - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 106,
+        "title": "Das Rätsel der Sieben 7 - Die verschwundene Torte - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 107,
+        "title": "Das Rätsel der Sieben 7 - Die verschwundene Torte - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 108,
+        "title": "Das Rätsel der Sieben 7 - Die verschwundene Torte - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 109,
+        "title": "Das Rätsel der Sieben 7 - Die verschwundene Torte - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 110,
+        "title": "Das Rätsel der Sieben 7 - Die verschwundene Torte - Teil 12",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_7",
+    "num": 7,
+    "numStr": "S_7",
+    "title": "Das verfluchte Schloss",
+    "author": "Die drei ???",
+    "cover": "covers/S_7.jpg",
+    "description": "Sonderfolge / Special: Das verfluchte Schloss.",
+    "trackCount": 40,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Das verfluchte Schloss - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Das verfluchte Schloss - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Das verfluchte Schloss - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Das verfluchte Schloss - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Das verfluchte Schloss - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Das verfluchte Schloss - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Das verfluchte Schloss - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Das verfluchte Schloss - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Das verfluchte Schloss - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Das verfluchte Schloss - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Das verfluchte Schloss - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Das verfluchte Schloss - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Das verfluchte Schloss - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Das verfluchte Schloss - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Das verfluchte Schloss - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Das verfluchte Schloss - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Das verfluchte Schloss - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Das verfluchte Schloss - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Das verfluchte Schloss - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Das verfluchte Schloss - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Das verfluchte Schloss - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Das verfluchte Schloss - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Das verfluchte Schloss - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Das verfluchte Schloss - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Das verfluchte Schloss - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Das verfluchte Schloss - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Das verfluchte Schloss - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Das verfluchte Schloss - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Das verfluchte Schloss - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Das verfluchte Schloss - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Das verfluchte Schloss - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Das verfluchte Schloss - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "Das verfluchte Schloss - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "Das verfluchte Schloss - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "Das verfluchte Schloss - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "Das verfluchte Schloss - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "Das verfluchte Schloss - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "Das verfluchte Schloss - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "Das verfluchte Schloss - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "Das verfluchte Schloss - Teil 40",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_8",
+    "num": 8,
+    "numStr": "S_8",
+    "title": "Die drei ___ und der Karpatenhund (Das Original-Hörspiel zum Kinofilm)",
+    "author": "Die drei ???",
+    "cover": "covers/S_8.jpg",
+    "description": "Sonderfolge / Special: Die drei ___ und der Karpatenhund (Das Original-Hörspiel zum Kinofilm).",
+    "trackCount": 33,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Die drei ??? und der Karpatenhund - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Die drei ??? und der Karpatenhund - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Die drei ??? und der Karpatenhund - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Die drei ??? und der Karpatenhund - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Die drei ??? und der Karpatenhund - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Die drei ??? und der Karpatenhund - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Die drei ??? und der Karpatenhund - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Die drei ??? und der Karpatenhund - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Die drei ??? und der Karpatenhund - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Die drei ??? und der Karpatenhund - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Die drei ??? und der Karpatenhund - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Die drei ??? und der Karpatenhund - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Die drei ??? und der Karpatenhund - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Die drei ??? und der Karpatenhund - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Die drei ??? und der Karpatenhund - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Die drei ??? und der Karpatenhund - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Die drei ??? und der Karpatenhund - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Die drei ??? und der Karpatenhund - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Die drei ??? und der Karpatenhund - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Die drei ??? und der Karpatenhund - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Die drei ??? und der Karpatenhund - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Die drei ??? und der Karpatenhund - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Die drei ??? und der Karpatenhund - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Die drei ??? und der Karpatenhund - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Die drei ??? und der Karpatenhund - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Die drei ??? und der Karpatenhund - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Die drei ??? und der Karpatenhund - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Die drei ??? und der Karpatenhund - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Die drei ??? und der Karpatenhund - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Die drei ??? und der Karpatenhund - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Die drei ??? und der Karpatenhund - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Die drei ??? und der Karpatenhund - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "Die drei ??? und der Karpatenhund - Teil 33",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_9",
+    "num": 9,
+    "numStr": "S_9",
+    "title": "Erbe des Drachen (Das Original-Hörspiel zum Kinofilm)",
+    "author": "Die drei ???",
+    "cover": "covers/S_9.jpg",
+    "description": "Sonderfolge / Special: Erbe des Drachen (Das Original-Hörspiel zum Kinofilm).",
+    "trackCount": 32,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Erbe des Drachen - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Erbe des Drachen - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Erbe des Drachen - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Erbe des Drachen - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Erbe des Drachen - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Erbe des Drachen - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Erbe des Drachen - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Erbe des Drachen - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Erbe des Drachen - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Erbe des Drachen - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Erbe des Drachen - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Erbe des Drachen - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Erbe des Drachen - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Erbe des Drachen - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Erbe des Drachen - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Erbe des Drachen - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Erbe des Drachen - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Erbe des Drachen - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Erbe des Drachen - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Erbe des Drachen - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Erbe des Drachen - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Erbe des Drachen - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Erbe des Drachen - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Erbe des Drachen - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Erbe des Drachen - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Erbe des Drachen - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Erbe des Drachen - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Erbe des Drachen - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Erbe des Drachen - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Erbe des Drachen - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Erbe des Drachen - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Memories & Stories - Die drei ??? Filmversion",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_10",
+    "num": 10,
+    "numStr": "S_10",
+    "title": "High Strung - Unter Hochspannung",
+    "author": "Die drei ???",
+    "cover": "covers/S_10.jpg",
+    "description": "Sonderfolge / Special: High Strung - Unter Hochspannung.",
+    "trackCount": 40,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "High Strung - Unter Hochspannung - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "High Strung - Unter Hochspannung - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "High Strung - Unter Hochspannung - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "High Strung - Unter Hochspannung - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "High Strung - Unter Hochspannung - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "High Strung - Unter Hochspannung - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "High Strung - Unter Hochspannung - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "High Strung - Unter Hochspannung - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "High Strung - Unter Hochspannung - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "High Strung - Unter Hochspannung - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "High Strung - Unter Hochspannung - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "High Strung - Unter Hochspannung - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "High Strung - Unter Hochspannung - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "High Strung - Unter Hochspannung - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "High Strung - Unter Hochspannung - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "High Strung - Unter Hochspannung - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "High Strung - Unter Hochspannung - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "High Strung - Unter Hochspannung - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "High Strung - Unter Hochspannung - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "High Strung - Unter Hochspannung - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "High Strung - Unter Hochspannung - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "High Strung - Unter Hochspannung - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "High Strung - Unter Hochspannung - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "High Strung - Unter Hochspannung - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "High Strung - Unter Hochspannung - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "High Strung - Unter Hochspannung - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "High Strung - Unter Hochspannung - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "High Strung - Unter Hochspannung - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "High Strung - Unter Hochspannung - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "High Strung - Unter Hochspannung - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "High Strung - Unter Hochspannung - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "High Strung - Unter Hochspannung - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "High Strung - Unter Hochspannung - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "High Strung - Unter Hochspannung - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "High Strung - Unter Hochspannung - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "High Strung - Unter Hochspannung - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "High Strung - Unter Hochspannung - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "High Strung - Unter Hochspannung - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "High Strung - Unter Hochspannung - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "High Strung - Unter Hochspannung - Teil 40",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_11",
+    "num": 11,
+    "numStr": "S_11",
+    "title": "House of Horrors - Haus der Angst",
+    "author": "Die drei ???",
+    "cover": "covers/S_11.jpg",
+    "description": "Sonderfolge / Special: House of Horrors - Haus der Angst.",
+    "trackCount": 58,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "01. Die Geisterbahn",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "28. Die Frau mit der Flugtasche verfolgen",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "02. Paket dem Gouverneur übergeben",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "29. Wir warten auf Mrs. Millar",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "03. Werbeanzeigen lesen",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "30. Wir wollen bleiben",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "04. Vor Bubba verstecken",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "31. Die Tür öffnen",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "05. Geisterbahn beobachten",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "32. Wir wollen die Belohnung",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "06. Paket selbst öffnen",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "33. Eine Autofahrt",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "07. Bei Bubba bleiben",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "34. Ich helfe Justus bei der Arbeit",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "08. Mit Joey sprechen",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "35. Mrs. Millar nicht treffen",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "09. Flucht zu den drei ???",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "36. Die Popcorntüte stehlen",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "10. Mit Bubba Detroit sprechen",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "37. Jemand soll mich umprogrammieren",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "11. Joey verfolgen",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "38. Die Krebs-Anzeige ist wichtig",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "12. Justus hinterher rennen",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "39. Joey an der Flucht hindern",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "13. Bei den drei ??? bleiben",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "40. $ 100 auftreiben",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "14. Ich habe viel Geduld",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "41. Mit einem Schuh werfen",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "15. Bubba abschütteln",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "42. In der Geisterbahn nachsehen",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "16. Geisterbahn von innen untersuchen",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "43. Um eine Mitfahrgelegenheit bitten",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "17. Verstecken in der Achterbahn",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "44. Die Popcorn-Anzeige ist wichtig",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "18. Geisterbahn von außen untersuchen",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "45. Postfächer überwachen",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "19. Die Zaubershow besuchen",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "46. Wir wollen gehen",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "20. Ich habe wenig Geld",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "47. Mehr als vier Mal \"Ja!\" geantwortet",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "21. Mit Marilyn sprechen",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "48. Weniger als vier Mal \"Ja!\" geantwortet",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "22. Verstecken in der Geisterbahn",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "49. Ich will für immer bleiben",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "23. Die Frau mit der Flugtasche befragen",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "50. Durch das Fenster fliehen",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "24. Zu Margarine schleichen",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "51. Wir wollen die Belohnung nicht",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "25. Flucht über die Grenze nach Süden",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "52. Justus arbeitet alleine",
+        "url": ""
+      },
+      {
+        "num": 51,
+        "title": "26. Der nimmt mir alles weg",
+        "url": ""
+      },
+      {
+        "num": 52,
+        "title": "53. Um Hilfe rufen",
+        "url": ""
+      },
+      {
+        "num": 53,
+        "title": "27. Den Verfolger verfolgen",
+        "url": ""
+      },
+      {
+        "num": 54,
+        "title": "54. Etwas Einmaliges tun",
+        "url": ""
+      },
+      {
+        "num": 55,
+        "title": "55. Mrs. Millar treffen",
+        "url": ""
+      },
+      {
+        "num": 56,
+        "title": "56. Auf dem Riesenrad",
+        "url": ""
+      },
+      {
+        "num": 57,
+        "title": "57. Wir gehen hinein",
+        "url": ""
+      },
+      {
+        "num": 58,
+        "title": "58. Mortons zweite Chance",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_12",
+    "num": 12,
+    "numStr": "S_12",
+    "title": "Master of Chess",
+    "author": "Die drei ???",
+    "cover": "covers/S_12.jpg",
+    "description": "Sonderfolge / Special: Master of Chess.",
+    "trackCount": 80,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Master of Chess (Live) - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Master of Chess (Live) - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Master of Chess (Live) - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Master of Chess (Live) - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Master of Chess (Live) - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Master of Chess (Live) - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Master of Chess (Live) - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Master of Chess (Live) - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Master of Chess (Live) - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Master of Chess (Live) - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Master of Chess (Live) - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Master of Chess (Live) - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Master of Chess (Live) - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Master of Chess (Live) - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Master of Chess (Live) - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Master of Chess (Live) - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Master of Chess (Live) - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Master of Chess (Live) - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Master of Chess (Live) - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Master of Chess (Live) - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Master of Chess (Live) - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Master of Chess (Live) - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Master of Chess (Live) - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Master of Chess (Live) - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Master of Chess (Live) - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Master of Chess (Live) - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Master of Chess (Live) - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Master of Chess (Live) - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Master of Chess (Live) - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Master of Chess (Live) - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Master of Chess (Live) - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Master of Chess (Live) - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "Master of Chess (Live) - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "Master of Chess (Live) - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "Master of Chess (Live) - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "Master of Chess (Live) - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "Master of Chess (Live) - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "Master of Chess (Live) - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "Master of Chess (Live) - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "Master of Chess (Live) - Teil 40",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "Master of Chess (Live) - Teil 41",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "Master of Chess (Live) - Teil 42",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "Master of Chess (Live) - Teil 43",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "Master of Chess (Live) - Teil 44",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "Master of Chess (Live) - Teil 45",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "Master of Chess (Live) - Teil 46",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "Master of Chess (Live) - Teil 47",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "Master of Chess (Live) - Teil 48",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "Master of Chess (Live) - Teil 49",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "Master of Chess (Live) - Teil 50",
+        "url": ""
+      },
+      {
+        "num": 51,
+        "title": "Master of Chess (Live) - Teil 51",
+        "url": ""
+      },
+      {
+        "num": 52,
+        "title": "Master of Chess (Live) - Teil 52",
+        "url": ""
+      },
+      {
+        "num": 53,
+        "title": "Master of Chess (Live) - Teil 53",
+        "url": ""
+      },
+      {
+        "num": 54,
+        "title": "Master of Chess (Live) - Teil 54",
+        "url": ""
+      },
+      {
+        "num": 55,
+        "title": "Master of Chess (Live) - Teil 55",
+        "url": ""
+      },
+      {
+        "num": 56,
+        "title": "Master of Chess (Live) - Teil 56",
+        "url": ""
+      },
+      {
+        "num": 57,
+        "title": "Master of Chess (Live) - Teil 57",
+        "url": ""
+      },
+      {
+        "num": 58,
+        "title": "Master of Chess (Live) - Teil 58",
+        "url": ""
+      },
+      {
+        "num": 59,
+        "title": "Master of Chess (Live) - Teil 59",
+        "url": ""
+      },
+      {
+        "num": 60,
+        "title": "Master of Chess (Live) - Teil 60",
+        "url": ""
+      },
+      {
+        "num": 61,
+        "title": "Master of Chess (Live) - Teil 61",
+        "url": ""
+      },
+      {
+        "num": 62,
+        "title": "Master of Chess (Live) - Teil 62",
+        "url": ""
+      },
+      {
+        "num": 63,
+        "title": "Master of Chess (Live) - Teil 63",
+        "url": ""
+      },
+      {
+        "num": 64,
+        "title": "Master of Chess (Live) - Teil 64",
+        "url": ""
+      },
+      {
+        "num": 65,
+        "title": "Master of Chess (Live) - Teil 65",
+        "url": ""
+      },
+      {
+        "num": 66,
+        "title": "Master of Chess (Live) - Teil 66",
+        "url": ""
+      },
+      {
+        "num": 67,
+        "title": "Master of Chess (Live) - Teil 67",
+        "url": ""
+      },
+      {
+        "num": 68,
+        "title": "Master of Chess (Live) - Teil 68",
+        "url": ""
+      },
+      {
+        "num": 69,
+        "title": "Master of Chess (Live) - Teil 69",
+        "url": ""
+      },
+      {
+        "num": 70,
+        "title": "Master of Chess (Live) - Teil 70",
+        "url": ""
+      },
+      {
+        "num": 71,
+        "title": "Master of Chess (Live) - Teil 71",
+        "url": ""
+      },
+      {
+        "num": 72,
+        "title": "Master of Chess (Live) - Teil 72",
+        "url": ""
+      },
+      {
+        "num": 73,
+        "title": "Master of Chess (Live) - Teil 73",
+        "url": ""
+      },
+      {
+        "num": 74,
+        "title": "Master of Chess (Live) - Teil 74",
+        "url": ""
+      },
+      {
+        "num": 75,
+        "title": "Master of Chess (Live) - Teil 75",
+        "url": ""
+      },
+      {
+        "num": 76,
+        "title": "Master of Chess (Live) - Teil 76",
+        "url": ""
+      },
+      {
+        "num": 77,
+        "title": "Master of Chess (Live) - Teil 77",
+        "url": ""
+      },
+      {
+        "num": 78,
+        "title": "Master of Chess (Live) - Teil 78",
+        "url": ""
+      },
+      {
+        "num": 79,
+        "title": "Master of Chess (Live) - Teil 79",
+        "url": ""
+      },
+      {
+        "num": 80,
+        "title": "Master of Chess (Live) - Teil 80",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_13",
+    "num": 13,
+    "numStr": "S_13",
+    "title": "Super-Papagei 2004",
+    "author": "Die drei ???",
+    "cover": "covers/S_13.jpg",
+    "description": "Sonderfolge / Special: Super-Papagei 2004.",
+    "trackCount": 80,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Superpapagei 2004 - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Superpapagei 2004 - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Superpapagei 2004 - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Superpapagei 2004 - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Superpapagei 2004 - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Superpapagei 2004 - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Superpapagei 2004 - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Superpapagei 2004 - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Superpapagei 2004 - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Superpapagei 2004 - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Superpapagei 2004 - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Superpapagei 2004 - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Superpapagei 2004 - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Superpapagei 2004 - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Superpapagei 2004 - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Superpapagei 2004 - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Superpapagei 2004 - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Superpapagei 2004 - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Superpapagei 2004 - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Superpapagei 2004 - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Superpapagei 2004 - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Superpapagei 2004 - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Superpapagei 2004 - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Superpapagei 2004 - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Superpapagei 2004 - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Superpapagei 2004 - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Superpapagei 2004 - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Superpapagei 2004 - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Superpapagei 2004 - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Superpapagei 2004 - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Superpapagei 2004 - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Superpapagei 2004 - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "Superpapagei 2004 - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "Superpapagei 2004 - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "Superpapagei 2004 - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "Superpapagei 2004 - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "Superpapagei 2004 - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "Superpapagei 2004 - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "Superpapagei 2004 - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "Superpapagei 2004 - Teil 40",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "Superpapagei 2004 - Teil 41",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "Superpapagei 2004 - Teil 42",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "Superpapagei 2004 - Teil 43",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "Superpapagei 2004 - Teil 44",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "Superpapagei 2004 - Teil 45",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "Superpapagei 2004 - Teil 46",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "Superpapagei 2004 - Teil 47",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "Superpapagei 2004 - Teil 48",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "Superpapagei 2004 - Teil 49",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "Superpapagei 2004 - Teil 50",
+        "url": ""
+      },
+      {
+        "num": 51,
+        "title": "Superpapagei 2004 - Teil 51",
+        "url": ""
+      },
+      {
+        "num": 52,
+        "title": "Superpapagei 2004 - Teil 52",
+        "url": ""
+      },
+      {
+        "num": 53,
+        "title": "Superpapagei 2004 - Teil 53",
+        "url": ""
+      },
+      {
+        "num": 54,
+        "title": "Superpapagei 2004 - Teil 54",
+        "url": ""
+      },
+      {
+        "num": 55,
+        "title": "Superpapagei 2004 - Teil 55",
+        "url": ""
+      },
+      {
+        "num": 56,
+        "title": "Superpapagei 2004 - Teil 56",
+        "url": ""
+      },
+      {
+        "num": 57,
+        "title": "Superpapagei 2004 - Teil 57",
+        "url": ""
+      },
+      {
+        "num": 58,
+        "title": "Superpapagei 2004 - Teil 58",
+        "url": ""
+      },
+      {
+        "num": 59,
+        "title": "Superpapagei 2004 - Teil 59",
+        "url": ""
+      },
+      {
+        "num": 60,
+        "title": "Superpapagei 2004 - Teil 60",
+        "url": ""
+      },
+      {
+        "num": 61,
+        "title": "Superpapagei 2004 - Teil 61",
+        "url": ""
+      },
+      {
+        "num": 62,
+        "title": "Superpapagei 2004 - Teil 62",
+        "url": ""
+      },
+      {
+        "num": 63,
+        "title": "Superpapagei 2004 - Teil 63",
+        "url": ""
+      },
+      {
+        "num": 64,
+        "title": "Superpapagei 2004 - Teil 64",
+        "url": ""
+      },
+      {
+        "num": 65,
+        "title": "Superpapagei 2004 - Teil 65",
+        "url": ""
+      },
+      {
+        "num": 66,
+        "title": "Superpapagei 2004 - Teil 66",
+        "url": ""
+      },
+      {
+        "num": 67,
+        "title": "Superpapagei 2004 - Teil 67",
+        "url": ""
+      },
+      {
+        "num": 68,
+        "title": "Superpapagei 2004 - Teil 68",
+        "url": ""
+      },
+      {
+        "num": 69,
+        "title": "Superpapagei 2004 - Teil 69",
+        "url": ""
+      },
+      {
+        "num": 70,
+        "title": "Superpapagei 2004 - Teil 70",
+        "url": ""
+      },
+      {
+        "num": 71,
+        "title": "Superpapagei 2004 - Teil 71",
+        "url": ""
+      },
+      {
+        "num": 72,
+        "title": "Superpapagei 2004 - Teil 72",
+        "url": ""
+      },
+      {
+        "num": 73,
+        "title": "Superpapagei 2004 - Teil 73",
+        "url": ""
+      },
+      {
+        "num": 74,
+        "title": "Superpapagei 2004 - Teil 74",
+        "url": ""
+      },
+      {
+        "num": 75,
+        "title": "Superpapagei 2004 - Teil 75",
+        "url": ""
+      },
+      {
+        "num": 76,
+        "title": "Superpapagei 2004 - Teil 76",
+        "url": ""
+      },
+      {
+        "num": 77,
+        "title": "Superpapagei 2004 - Teil 77",
+        "url": ""
+      },
+      {
+        "num": 78,
+        "title": "Superpapagei 2004 - Teil 78",
+        "url": ""
+      },
+      {
+        "num": 79,
+        "title": "Superpapagei 2004 - Teil 79",
+        "url": ""
+      },
+      {
+        "num": 80,
+        "title": "Superpapagei 2004 - Teil 80",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_14",
+    "num": 14,
+    "numStr": "S_14",
+    "title": "Toteninsel (Das Original-Hörspiel zum Kinofilm)",
+    "author": "Die drei ???",
+    "cover": "covers/S_14.jpg",
+    "description": "Sonderfolge / Special: Toteninsel (Das Original-Hörspiel zum Kinofilm).",
+    "trackCount": 34,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Kapitel 01: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Kapitel 02: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Kapitel 03: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Kapitel 04: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Kapitel 05: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Kapitel 06: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Kapitel 07: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Kapitel 08: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Kapitel 09: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Kapitel 10: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Kapitel 11: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Kapitel 12: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Kapitel 13: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Kapitel 14: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Kapitel 15: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Kapitel 16: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Kapitel 17: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Kapitel 18: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Kapitel 19: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Kapitel 20: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Kapitel 21: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Kapitel 22: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Kapitel 23: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Kapitel 24: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Kapitel 25: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Kapitel 26: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Kapitel 27: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Kapitel 28: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Kapitel 29: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Kapitel 30: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Kapitel 31: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Kapitel 32: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "Kapitel 33: Toteninsel",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "Schlussmusik: Toteninsel",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_15",
+    "num": 15,
+    "numStr": "S_15",
+    "title": "und das Grab der Maya",
+    "author": "Die drei ???",
+    "cover": "covers/S_15.jpg",
+    "description": "Sonderfolge / Special: und das Grab der Maya.",
+    "trackCount": 71,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "und das Grab der Maya - Prolog",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "und das Grab der Maya - Titelmusik",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "und das Grab der Maya - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "und das Grab der Maya - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "und das Grab der Maya - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "und das Grab der Maya - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "und das Grab der Maya - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "und das Grab der Maya - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "und das Grab der Maya - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "und das Grab der Maya - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "und das Grab der Maya - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "und das Grab der Maya - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "und das Grab der Maya - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "und das Grab der Maya - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "und das Grab der Maya - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "und das Grab der Maya - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "und das Grab der Maya - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "und das Grab der Maya - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "und das Grab der Maya - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "und das Grab der Maya - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "und das Grab der Maya - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "und das Grab der Maya - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "und das Grab der Maya - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "und das Grab der Maya - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "und das Grab der Maya - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "und das Grab der Maya - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "und das Grab der Maya - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "und das Grab der Maya - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "und das Grab der Maya - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "und das Grab der Maya - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "und das Grab der Maya - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "und das Grab der Maya - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "und das Grab der Maya - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "und das Grab der Maya - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "und das Grab der Maya - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "und das Grab der Maya - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "und das Grab der Maya - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "und das Grab der Maya - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "und das Grab der Maya - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "und das Grab der Maya - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "und das Grab der Maya - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "und das Grab der Maya - Teil 40",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "und das Grab der Maya - Teil 41",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "und das Grab der Maya - Teil 42",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "und das Grab der Maya - Teil 43",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "und das Grab der Maya - Teil 44",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "und das Grab der Maya - Teil 45",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "und das Grab der Maya - Teil 46",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "und das Grab der Maya - Teil 47",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "und das Grab der Maya - Teil 48",
+        "url": ""
+      },
+      {
+        "num": 51,
+        "title": "und das Grab der Maya - Teil 49",
+        "url": ""
+      },
+      {
+        "num": 52,
+        "title": "und das Grab der Maya - Teil 50",
+        "url": ""
+      },
+      {
+        "num": 53,
+        "title": "und das Grab der Maya - Teil 51",
+        "url": ""
+      },
+      {
+        "num": 54,
+        "title": "und das Grab der Maya - Teil 52",
+        "url": ""
+      },
+      {
+        "num": 55,
+        "title": "und das Grab der Maya - Teil 53",
+        "url": ""
+      },
+      {
+        "num": 56,
+        "title": "und das Grab der Maya - Teil 54",
+        "url": ""
+      },
+      {
+        "num": 57,
+        "title": "und das Grab der Maya - Teil 55",
+        "url": ""
+      },
+      {
+        "num": 58,
+        "title": "und das Grab der Maya - Teil 56",
+        "url": ""
+      },
+      {
+        "num": 59,
+        "title": "und das Grab der Maya - Teil 57",
+        "url": ""
+      },
+      {
+        "num": 60,
+        "title": "und das Grab der Maya - Teil 58",
+        "url": ""
+      },
+      {
+        "num": 61,
+        "title": "und das Grab der Maya - Teil 59",
+        "url": ""
+      },
+      {
+        "num": 62,
+        "title": "und das Grab der Maya - Teil 60",
+        "url": ""
+      },
+      {
+        "num": 63,
+        "title": "und das Grab der Maya - Teil 61",
+        "url": ""
+      },
+      {
+        "num": 64,
+        "title": "und das Grab der Maya - Teil 62",
+        "url": ""
+      },
+      {
+        "num": 65,
+        "title": "und das Grab der Maya - Teil 63",
+        "url": ""
+      },
+      {
+        "num": 66,
+        "title": "und das Grab der Maya - Teil 64",
+        "url": ""
+      },
+      {
+        "num": 67,
+        "title": "und das Grab der Maya - Teil 65",
+        "url": ""
+      },
+      {
+        "num": 68,
+        "title": "und das Grab der Maya - Teil 66",
+        "url": ""
+      },
+      {
+        "num": 69,
+        "title": "und das Grab der Maya - Teil 67",
+        "url": ""
+      },
+      {
+        "num": 70,
+        "title": "und das Grab der Maya - Teil 68",
+        "url": ""
+      },
+      {
+        "num": 71,
+        "title": "und das Grab der Maya - Schlussmusik",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_16",
+    "num": 16,
+    "numStr": "S_16",
+    "title": "Und das kalte Auge",
+    "author": "Die drei ???",
+    "cover": "covers/S_16.jpg",
+    "description": "Sonderfolge / Special: Und das kalte Auge.",
+    "trackCount": 80,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Und das kalte Auge - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Und das kalte Auge - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Und das kalte Auge - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Und das kalte Auge - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Und das kalte Auge - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Und das kalte Auge - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Und das kalte Auge - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Und das kalte Auge - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Und das kalte Auge - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Und das kalte Auge - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Und das kalte Auge - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Und das kalte Auge - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Und das kalte Auge - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Und das kalte Auge - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Und das kalte Auge - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Und das kalte Auge - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Und das kalte Auge - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Und das kalte Auge - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Und das kalte Auge - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Und das kalte Auge - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Und das kalte Auge - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Und das kalte Auge - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Und das kalte Auge - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Und das kalte Auge - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Und das kalte Auge - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Und das kalte Auge - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Und das kalte Auge - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Und das kalte Auge - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Und das kalte Auge - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Und das kalte Auge - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Und das kalte Auge - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Und das kalte Auge - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "Und das kalte Auge - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "Und das kalte Auge - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "Und das kalte Auge - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "Und das kalte Auge - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "Und das kalte Auge - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "Und das kalte Auge - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "Und das kalte Auge - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "Und das kalte Auge - Teil 40",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "Und das kalte Auge - Teil 41",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "Und das kalte Auge - Teil 42",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "Und das kalte Auge - Teil 43",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "Und das kalte Auge - Teil 44",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "Und das kalte Auge - Teil 45",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "Und das kalte Auge - Teil 46",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "Und das kalte Auge - Teil 47",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "Und das kalte Auge - Teil 48",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "Und das kalte Auge - Teil 49",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "Und das kalte Auge - Teil 50",
+        "url": ""
+      },
+      {
+        "num": 51,
+        "title": "Und das kalte Auge - Teil 51",
+        "url": ""
+      },
+      {
+        "num": 52,
+        "title": "Und das kalte Auge - Teil 52",
+        "url": ""
+      },
+      {
+        "num": 53,
+        "title": "Und das kalte Auge - Teil 53",
+        "url": ""
+      },
+      {
+        "num": 54,
+        "title": "Und das kalte Auge - Teil 54",
+        "url": ""
+      },
+      {
+        "num": 55,
+        "title": "Und das kalte Auge - Teil 55",
+        "url": ""
+      },
+      {
+        "num": 56,
+        "title": "Und das kalte Auge - Teil 56",
+        "url": ""
+      },
+      {
+        "num": 57,
+        "title": "Und das kalte Auge - Teil 57",
+        "url": ""
+      },
+      {
+        "num": 58,
+        "title": "Und das kalte Auge - Teil 58",
+        "url": ""
+      },
+      {
+        "num": 59,
+        "title": "Und das kalte Auge - Teil 59",
+        "url": ""
+      },
+      {
+        "num": 60,
+        "title": "Und das kalte Auge - Teil 60",
+        "url": ""
+      },
+      {
+        "num": 61,
+        "title": "Und das kalte Auge - Teil 61",
+        "url": ""
+      },
+      {
+        "num": 62,
+        "title": "Und das kalte Auge - Teil 62",
+        "url": ""
+      },
+      {
+        "num": 63,
+        "title": "Und das kalte Auge - Teil 63",
+        "url": ""
+      },
+      {
+        "num": 64,
+        "title": "Und das kalte Auge - Teil 64",
+        "url": ""
+      },
+      {
+        "num": 65,
+        "title": "Und das kalte Auge - Teil 65",
+        "url": ""
+      },
+      {
+        "num": 66,
+        "title": "Und das kalte Auge - Teil 66",
+        "url": ""
+      },
+      {
+        "num": 67,
+        "title": "Und das kalte Auge - Teil 67",
+        "url": ""
+      },
+      {
+        "num": 68,
+        "title": "Und das kalte Auge - Teil 68",
+        "url": ""
+      },
+      {
+        "num": 69,
+        "title": "Und das kalte Auge - Teil 69",
+        "url": ""
+      },
+      {
+        "num": 70,
+        "title": "Und das kalte Auge - Teil 70",
+        "url": ""
+      },
+      {
+        "num": 71,
+        "title": "Und das kalte Auge - Teil 71",
+        "url": ""
+      },
+      {
+        "num": 72,
+        "title": "Und das kalte Auge - Teil 72",
+        "url": ""
+      },
+      {
+        "num": 73,
+        "title": "Und das kalte Auge - Teil 73",
+        "url": ""
+      },
+      {
+        "num": 74,
+        "title": "Und das kalte Auge - Teil 74",
+        "url": ""
+      },
+      {
+        "num": 75,
+        "title": "Und das kalte Auge - Teil 75",
+        "url": ""
+      },
+      {
+        "num": 76,
+        "title": "Und das kalte Auge - Teil 76",
+        "url": ""
+      },
+      {
+        "num": 77,
+        "title": "Und das kalte Auge - Teil 77",
+        "url": ""
+      },
+      {
+        "num": 78,
+        "title": "Und das kalte Auge - Teil 78",
+        "url": ""
+      },
+      {
+        "num": 79,
+        "title": "Und das kalte Auge - Teil 79",
+        "url": ""
+      },
+      {
+        "num": 80,
+        "title": "Und das kalte Auge - Teil 80",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_17",
+    "num": 17,
+    "numStr": "S_17",
+    "title": "und das versunkene Schiff",
+    "author": "Die drei ???",
+    "cover": "covers/S_17.jpg",
+    "description": "Sonderfolge / Special: und das versunkene Schiff.",
+    "trackCount": 80,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "und das versunkene Schiff - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "und das versunkene Schiff - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "und das versunkene Schiff - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "und das versunkene Schiff - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "und das versunkene Schiff - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "und das versunkene Schiff - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "und das versunkene Schiff - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "und das versunkene Schiff - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "und das versunkene Schiff - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "und das versunkene Schiff - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "und das versunkene Schiff - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "und das versunkene Schiff - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "und das versunkene Schiff - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "und das versunkene Schiff - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "und das versunkene Schiff - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "und das versunkene Schiff - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "und das versunkene Schiff - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "und das versunkene Schiff - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "und das versunkene Schiff - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "und das versunkene Schiff - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "und das versunkene Schiff - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "und das versunkene Schiff - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "und das versunkene Schiff - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "und das versunkene Schiff - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "und das versunkene Schiff - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "und das versunkene Schiff - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "und das versunkene Schiff - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "und das versunkene Schiff - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "und das versunkene Schiff - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "und das versunkene Schiff - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "und das versunkene Schiff - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "und das versunkene Schiff - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "und das versunkene Schiff - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "und das versunkene Schiff - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "und das versunkene Schiff - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "und das versunkene Schiff - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "und das versunkene Schiff - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "und das versunkene Schiff - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "und das versunkene Schiff - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "und das versunkene Schiff - Teil 40",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "und das versunkene Schiff - Teil 41",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "und das versunkene Schiff - Teil 42",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "und das versunkene Schiff - Teil 43",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "und das versunkene Schiff - Teil 44",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "und das versunkene Schiff - Teil 45",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "und das versunkene Schiff - Teil 46",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "und das versunkene Schiff - Teil 47",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "und das versunkene Schiff - Teil 48",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "und das versunkene Schiff - Teil 49",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "und das versunkene Schiff - Teil 50",
+        "url": ""
+      },
+      {
+        "num": 51,
+        "title": "und das versunkene Schiff - Teil 51",
+        "url": ""
+      },
+      {
+        "num": 52,
+        "title": "und das versunkene Schiff - Teil 52",
+        "url": ""
+      },
+      {
+        "num": 53,
+        "title": "und das versunkene Schiff - Teil 53",
+        "url": ""
+      },
+      {
+        "num": 54,
+        "title": "und das versunkene Schiff - Teil 54",
+        "url": ""
+      },
+      {
+        "num": 55,
+        "title": "und das versunkene Schiff - Teil 55",
+        "url": ""
+      },
+      {
+        "num": 56,
+        "title": "und das versunkene Schiff - Teil 56",
+        "url": ""
+      },
+      {
+        "num": 57,
+        "title": "und das versunkene Schiff - Teil 57",
+        "url": ""
+      },
+      {
+        "num": 58,
+        "title": "und das versunkene Schiff - Teil 58",
+        "url": ""
+      },
+      {
+        "num": 59,
+        "title": "und das versunkene Schiff - Teil 59",
+        "url": ""
+      },
+      {
+        "num": 60,
+        "title": "und das versunkene Schiff - Teil 60",
+        "url": ""
+      },
+      {
+        "num": 61,
+        "title": "und das versunkene Schiff - Teil 61",
+        "url": ""
+      },
+      {
+        "num": 62,
+        "title": "und das versunkene Schiff - Teil 62",
+        "url": ""
+      },
+      {
+        "num": 63,
+        "title": "und das versunkene Schiff - Teil 63",
+        "url": ""
+      },
+      {
+        "num": 64,
+        "title": "und das versunkene Schiff - Teil 64",
+        "url": ""
+      },
+      {
+        "num": 65,
+        "title": "und das versunkene Schiff - Teil 65",
+        "url": ""
+      },
+      {
+        "num": 66,
+        "title": "und das versunkene Schiff - Teil 66",
+        "url": ""
+      },
+      {
+        "num": 67,
+        "title": "und das versunkene Schiff - Teil 67",
+        "url": ""
+      },
+      {
+        "num": 68,
+        "title": "und das versunkene Schiff - Teil 68",
+        "url": ""
+      },
+      {
+        "num": 69,
+        "title": "und das versunkene Schiff - Teil 69",
+        "url": ""
+      },
+      {
+        "num": 70,
+        "title": "und das versunkene Schiff - Teil 70",
+        "url": ""
+      },
+      {
+        "num": 71,
+        "title": "und das versunkene Schiff - Teil 71",
+        "url": ""
+      },
+      {
+        "num": 72,
+        "title": "und das versunkene Schiff - Teil 72",
+        "url": ""
+      },
+      {
+        "num": 73,
+        "title": "und das versunkene Schiff - Teil 73",
+        "url": ""
+      },
+      {
+        "num": 74,
+        "title": "und das versunkene Schiff - Teil 74",
+        "url": ""
+      },
+      {
+        "num": 75,
+        "title": "und das versunkene Schiff - Teil 75",
+        "url": ""
+      },
+      {
+        "num": 76,
+        "title": "und das versunkene Schiff - Teil 76",
+        "url": ""
+      },
+      {
+        "num": 77,
+        "title": "und das versunkene Schiff - Teil 77",
+        "url": ""
+      },
+      {
+        "num": 78,
+        "title": "und das versunkene Schiff - Teil 78",
+        "url": ""
+      },
+      {
+        "num": 79,
+        "title": "und das versunkene Schiff - Teil 79",
+        "url": ""
+      },
+      {
+        "num": 80,
+        "title": "und das versunkene Schiff - Teil 80",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_18",
+    "num": 18,
+    "numStr": "S_18",
+    "title": "und das versunkene Schiff (Kopfhörer-Hörspiel)",
+    "author": "Die drei ???",
+    "cover": "covers/S_18.jpg",
+    "description": "Sonderfolge / Special: und das versunkene Schiff (Kopfhörer-Hörspiel).",
+    "trackCount": 36,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "und das versunkene Schiff - Prolog",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "und das versunkene Schiff - Titelmusik",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "und das versunkene Schiff - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "und das versunkene Schiff - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "und das versunkene Schiff - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "und das versunkene Schiff - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "und das versunkene Schiff - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "und das versunkene Schiff - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "und das versunkene Schiff - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "und das versunkene Schiff - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "und das versunkene Schiff - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "und das versunkene Schiff - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "und das versunkene Schiff - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "und das versunkene Schiff - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "und das versunkene Schiff - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "und das versunkene Schiff - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "und das versunkene Schiff - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "und das versunkene Schiff - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "und das versunkene Schiff - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "und das versunkene Schiff - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "und das versunkene Schiff - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "und das versunkene Schiff - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "und das versunkene Schiff - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "und das versunkene Schiff - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "und das versunkene Schiff - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "und das versunkene Schiff - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "und das versunkene Schiff - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "und das versunkene Schiff - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "und das versunkene Schiff - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "und das versunkene Schiff - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "und das versunkene Schiff - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "und das versunkene Schiff - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "und das versunkene Schiff - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "und das versunkene Schiff - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "und das versunkene Schiff - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "und das versunkene Schiff - Schlussmusik",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_19",
+    "num": 19,
+    "numStr": "S_19",
+    "title": "Und der dreiTag",
+    "author": "Die drei ???",
+    "cover": "covers/S_19.jpg",
+    "description": "Sonderfolge / Special: Und der dreiTag.",
+    "trackCount": 120,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "Die drei ??? und der dreiTag: J - Der Fluch der Sheldon Street - Teil 40",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 51,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 52,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 53,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 54,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 55,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 56,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 57,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 58,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 59,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 60,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 61,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 62,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 63,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 64,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 65,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 66,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 67,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 68,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 69,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 70,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 71,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 72,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 73,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 74,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 75,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 76,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 77,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 78,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 79,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 80,
+        "title": "Die drei ??? und der dreiTag: B - Im Zeichen der Ritter - Teil 40",
+        "url": ""
+      },
+      {
+        "num": 81,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 82,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 83,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 84,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 85,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 86,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 87,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 88,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 89,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 90,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 91,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 92,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 93,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 94,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 95,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 96,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 97,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 98,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 99,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 100,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 101,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 102,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 103,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 104,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 105,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 106,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 107,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 108,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 109,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 110,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 111,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 112,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 113,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 114,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 115,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 116,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 117,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 118,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 119,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 120,
+        "title": "Die drei ??? und der dreiTag: P - Fremder Freund - Teil 40",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_20",
+    "num": 20,
+    "numStr": "S_20",
+    "title": "und der dreiäugige Totenkopf",
+    "author": "Die drei ???",
+    "cover": "covers/S_20.jpg",
+    "description": "Sonderfolge / Special: und der dreiäugige Totenkopf.",
+    "trackCount": 60,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "und der dreiäugige Totenkopf - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "und der dreiäugige Totenkopf - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "und der dreiäugige Totenkopf - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "und der dreiäugige Totenkopf - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "und der dreiäugige Totenkopf - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "und der dreiäugige Totenkopf - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "und der dreiäugige Totenkopf - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "und der dreiäugige Totenkopf - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "und der dreiäugige Totenkopf - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "und der dreiäugige Totenkopf - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "und der dreiäugige Totenkopf - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "und der dreiäugige Totenkopf - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "und der dreiäugige Totenkopf - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "und der dreiäugige Totenkopf - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "und der dreiäugige Totenkopf - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "und der dreiäugige Totenkopf - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "und der dreiäugige Totenkopf - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "und der dreiäugige Totenkopf - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "und der dreiäugige Totenkopf - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "und der dreiäugige Totenkopf - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "und der dreiäugige Totenkopf - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "und der dreiäugige Totenkopf - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "und der dreiäugige Totenkopf - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "und der dreiäugige Totenkopf - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "und der dreiäugige Totenkopf - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "und der dreiäugige Totenkopf - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "und der dreiäugige Totenkopf - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "und der dreiäugige Totenkopf - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "und der dreiäugige Totenkopf - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "und der dreiäugige Totenkopf - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "und der dreiäugige Totenkopf - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "und der dreiäugige Totenkopf - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "und der dreiäugige Totenkopf - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "und der dreiäugige Totenkopf - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "und der dreiäugige Totenkopf - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "und der dreiäugige Totenkopf - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "und der dreiäugige Totenkopf - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "und der dreiäugige Totenkopf - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "und der dreiäugige Totenkopf - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "und der dreiäugige Totenkopf - Teil 40",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "und der dreiäugige Totenkopf - Teil 41",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "und der dreiäugige Totenkopf - Teil 42",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "und der dreiäugige Totenkopf - Teil 43",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "und der dreiäugige Totenkopf - Teil 44",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "und der dreiäugige Totenkopf - Teil 45",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "und der dreiäugige Totenkopf - Teil 46",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "und der dreiäugige Totenkopf - Teil 47",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "und der dreiäugige Totenkopf - Teil 48",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "und der dreiäugige Totenkopf - Teil 49",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "und der dreiäugige Totenkopf - Teil 50",
+        "url": ""
+      },
+      {
+        "num": 51,
+        "title": "und der dreiäugige Totenkopf - Teil 51",
+        "url": ""
+      },
+      {
+        "num": 52,
+        "title": "und der dreiäugige Totenkopf - Teil 52",
+        "url": ""
+      },
+      {
+        "num": 53,
+        "title": "und der dreiäugige Totenkopf - Teil 53",
+        "url": ""
+      },
+      {
+        "num": 54,
+        "title": "und der dreiäugige Totenkopf - Teil 54",
+        "url": ""
+      },
+      {
+        "num": 55,
+        "title": "und der dreiäugige Totenkopf - Teil 55",
+        "url": ""
+      },
+      {
+        "num": 56,
+        "title": "und der dreiäugige Totenkopf - Teil 56",
+        "url": ""
+      },
+      {
+        "num": 57,
+        "title": "und der dreiäugige Totenkopf - Teil 57",
+        "url": ""
+      },
+      {
+        "num": 58,
+        "title": "und der dreiäugige Totenkopf - Teil 58",
+        "url": ""
+      },
+      {
+        "num": 59,
+        "title": "und der dreiäugige Totenkopf - Teil 59",
+        "url": ""
+      },
+      {
+        "num": 60,
+        "title": "und der dreiäugige Totenkopf - Teil 60",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_21",
+    "num": 21,
+    "numStr": "S_21",
+    "title": "und der dreiäugige Totenkopf (Kopfhörer-Hörspiel)",
+    "author": "Die drei ???",
+    "cover": "covers/S_21.jpg",
+    "description": "Sonderfolge / Special: und der dreiäugige Totenkopf (Kopfhörer-Hörspiel).",
+    "trackCount": 34,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "und der dreiäugige Totenkopf - Prolog",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "und der dreiäugige Totenkopf - Titelmusik",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "und der dreiäugige Totenkopf - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "und der dreiäugige Totenkopf - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "und der dreiäugige Totenkopf - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "und der dreiäugige Totenkopf - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "und der dreiäugige Totenkopf - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "und der dreiäugige Totenkopf - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "und der dreiäugige Totenkopf - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "und der dreiäugige Totenkopf - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "und der dreiäugige Totenkopf - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "und der dreiäugige Totenkopf - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "und der dreiäugige Totenkopf - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "und der dreiäugige Totenkopf - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "und der dreiäugige Totenkopf - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "und der dreiäugige Totenkopf - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "und der dreiäugige Totenkopf - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "und der dreiäugige Totenkopf - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "und der dreiäugige Totenkopf - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "und der dreiäugige Totenkopf - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "und der dreiäugige Totenkopf - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "und der dreiäugige Totenkopf - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "und der dreiäugige Totenkopf - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "und der dreiäugige Totenkopf - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "und der dreiäugige Totenkopf - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "und der dreiäugige Totenkopf - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "und der dreiäugige Totenkopf - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "und der dreiäugige Totenkopf - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "und der dreiäugige Totenkopf - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "und der dreiäugige Totenkopf - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "und der dreiäugige Totenkopf - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "und der dreiäugige Totenkopf - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "und der dreiäugige Totenkopf - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "und der dreiäugige Totenkopf - Schlussmusik",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_22",
+    "num": 22,
+    "numStr": "S_22",
+    "title": "und der schwarze Tag (02_ Schwarze Seelen)",
+    "author": "Die drei ???",
+    "cover": "covers/S_22.jpg",
+    "description": "Sonderfolge / Special: und der schwarze Tag (02_ Schwarze Seelen).",
+    "trackCount": 20,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "02 - Schwarze Seelen - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "02 - Schwarze Seelen - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "02 - Schwarze Seelen - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "02 - Schwarze Seelen - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "02 - Schwarze Seelen - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "02 - Schwarze Seelen - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "02 - Schwarze Seelen - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "02 - Schwarze Seelen - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "02 - Schwarze Seelen - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "02 - Schwarze Seelen - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "02 - Schwarze Seelen - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "02 - Schwarze Seelen - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "02 - Schwarze Seelen - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "02 - Schwarze Seelen - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "02 - Schwarze Seelen - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "02 - Schwarze Seelen - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "02 - Schwarze Seelen - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "02 - Schwarze Seelen - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "02 - Schwarze Seelen - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "02 - Schwarze Seelen - Teil 20",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_23",
+    "num": 23,
+    "numStr": "S_23",
+    "title": "und der schwarze Tag (Sechs Kurzgeschichten)",
+    "author": "Die drei ???",
+    "cover": "covers/S_23.jpg",
+    "description": "Sonderfolge / Special: und der schwarze Tag (Sechs Kurzgeschichten).",
+    "trackCount": 120,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "01 - Das schwarze Verlies - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "01 - Das schwarze Verlies - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "01 - Das schwarze Verlies - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "01 - Das schwarze Verlies - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "01 - Das schwarze Verlies - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "01 - Das schwarze Verlies - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "01 - Das schwarze Verlies - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "01 - Das schwarze Verlies - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "01 - Das schwarze Verlies - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "01/ Das schwarze Verlies - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "01 - Das schwarze Verlies - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "01 - Das schwarze Verlies - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "01 - Das schwarze Verlies - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "01 - Das schwarze Verlies - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "01 - Das schwarze Verlies - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "01 - Das schwarze Verlies - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "01 - Das schwarze Verlies - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "01 - Das schwarze Verlies - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "01 - Das schwarze Verlies - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "01 - Das schwarze Verlies - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "02 - Schwarze Seelen - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "02 - Schwarze Seelen - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "02 - Schwarze Seelen - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "02 - Schwarze Seelen - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "02 - Schwarze Seelen - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "02 - Schwarze Seelen - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "02 - Schwarze Seelen - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "02 - Schwarze Seelen - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "02 - Schwarze Seelen - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "02 - Schwarze Seelen - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "02 - Schwarze Seelen - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "02 - Schwarze Seelen - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "02 - Schwarze Seelen - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "02 - Schwarze Seelen - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "02 - Schwarze Seelen - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "02 - Schwarze Seelen - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "02 - Schwarze Seelen - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "02 - Schwarze Seelen - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "02 - Schwarze Seelen - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "02 - Schwarze Seelen - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 51,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 52,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 53,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 54,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 55,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 56,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 57,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 58,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 59,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 60,
+        "title": "03 - Ein schwarzer Tag für Mr. Kingstone - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 61,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 62,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 63,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 64,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 65,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 66,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 67,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 68,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 69,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 70,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 71,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 72,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 73,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 74,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 75,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 76,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 77,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 78,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 79,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 80,
+        "title": "04 - Wer hat Angst vorm schwarzen Mann - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 81,
+        "title": "05 - Die schwarze PhantOma - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 82,
+        "title": "05 - Die schwarze PhantOma - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 83,
+        "title": "05 - Die schwarze PhantOma - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 84,
+        "title": "05 - Die schwarze PhantOma - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 85,
+        "title": "05 - Die schwarze PhantOma - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 86,
+        "title": "05 - Die schwarze PhantOma - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 87,
+        "title": "05 - Die schwarze PhantOma - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 88,
+        "title": "05 - Die schwarze PhantOma - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 89,
+        "title": "05 - Die schwarze PhantOma - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 90,
+        "title": "05 - Die schwarze PhantOma - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 91,
+        "title": "05 - Die schwarze PhantOma - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 92,
+        "title": "05 - Die schwarze PhantOma - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 93,
+        "title": "05 - Die schwarze PhantOma - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 94,
+        "title": "05 - Die schwarze PhantOma - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 95,
+        "title": "05 - Die schwarze PhantOma - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 96,
+        "title": "05 - Die schwarze PhantOma - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 97,
+        "title": "05 - Die schwarze PhantOma - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 98,
+        "title": "05 - Die schwarze PhantOma - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 99,
+        "title": "05 - Die schwarze PhantOma - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 100,
+        "title": "05 - Die schwarze PhantOma - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 101,
+        "title": "06 - Das schwarze Nest - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 102,
+        "title": "06 - Das schwarze Nest - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 103,
+        "title": "06 - Das schwarze Nest - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 104,
+        "title": "06 - Das schwarze Nest - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 105,
+        "title": "06 - Das schwarze Nest - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 106,
+        "title": "06 - Das schwarze Nest - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 107,
+        "title": "06 - Das schwarze Nest - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 108,
+        "title": "06 - Das schwarze Nest - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 109,
+        "title": "06 - Das schwarze Nest - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 110,
+        "title": "06 - Das schwarze Nest - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 111,
+        "title": "06 - Das schwarze Nest - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 112,
+        "title": "06 - Das schwarze Nest - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 113,
+        "title": "06 - Das schwarze Nest - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 114,
+        "title": "06 - Das schwarze Nest - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 115,
+        "title": "06 - Das schwarze Nest - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 116,
+        "title": "06 - Das schwarze Nest - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 117,
+        "title": "06 - Das schwarze Nest - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 118,
+        "title": "06 - Das schwarze Nest - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 119,
+        "title": "06 - Das schwarze Nest - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 120,
+        "title": "06 - Das schwarze Nest - Teil 20",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_24",
+    "num": 24,
+    "numStr": "S_24",
+    "title": "und der Tornadojäger",
+    "author": "Die drei ???",
+    "cover": "covers/S_24.jpg",
+    "description": "Sonderfolge / Special: und der Tornadojäger.",
+    "trackCount": 40,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "und der Tornadojäger - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "und der Tornadojäger - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "und der Tornadojäger - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "und der Tornadojäger - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "und der Tornadojäger - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "und der Tornadojäger - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "und der Tornadojäger - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "und der Tornadojäger - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "und der Tornadojäger - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "und der Tornadojäger - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "und der Tornadojäger - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "und der Tornadojäger - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "und der Tornadojäger - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "und der Tornadojäger - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "und der Tornadojäger - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "und der Tornadojäger - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "und der Tornadojäger - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "und der Tornadojäger - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "und der Tornadojäger - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "und der Tornadojäger - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "und der Tornadojäger - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "und der Tornadojäger - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "und der Tornadojäger - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "und der Tornadojäger - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "und der Tornadojäger - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "und der Tornadojäger - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "und der Tornadojäger - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "und der Tornadojäger - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "und der Tornadojäger - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "und der Tornadojäger - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "und der Tornadojäger - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "und der Tornadojäger - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "und der Tornadojäger - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "und der Tornadojäger - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "und der Tornadojäger - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "und der Tornadojäger - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "und der Tornadojäger - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "und der Tornadojäger - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "und der Tornadojäger - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "und der Tornadojäger - Teil 40",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_25",
+    "num": 25,
+    "numStr": "S_25",
+    "title": "und der Zeitgeist (Sechs Kurzgeschichten)",
+    "author": "Die drei ???",
+    "cover": "covers/S_25.jpg",
+    "description": "Sonderfolge / Special: und der Zeitgeist (Sechs Kurzgeschichten).",
+    "trackCount": 80,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Immer und immer wieder... - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Immer und immer wieder... - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Immer und immer wieder... - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Immer und immer wieder... - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Immer und immer wieder... - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Immer und immer wieder... - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Immer und immer wieder... - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Immer und immer wieder... - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Immer und immer wieder... - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Immer und immer wieder... - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Der Raub der Zehntausend - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Der Raub der Zehntausend - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Der Raub der Zehntausend - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Der Raub der Zehntausend - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Der Raub der Zehntausend - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Der Raub der Zehntausend - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Der Raub der Zehntausend - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Der Raub der Zehntausend - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Der Raub der Zehntausend - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Der Raub der Zehntausend - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Der Raub der Zehntausend - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Der Raub der Zehntausend - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Der Raub der Zehntausend - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Der verschwundene Zeitgeist - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Der verschwundene Zeitgeist - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Der verschwundene Zeitgeist - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Der verschwundene Zeitgeist - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Der verschwundene Zeitgeist - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Der verschwundene Zeitgeist - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Der verschwundene Zeitgeist - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Der verschwundene Zeitgeist - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Der verschwundene Zeitgeist - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "Der verschwundene Zeitgeist - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "Der verschwundene Zeitgeist - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "Der verschwundene Zeitgeist - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "Der verschwundene Zeitgeist - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "Der verschwundene Zeitgeist - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "Der verschwundene Zeitgeist - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "Der verschwundene Zeitgeist - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "Der verschwundene Zeitgeist - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "Leaving Nineteen Sixty-four - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "Leaving Nineteen Sixty-four - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "Leaving Nineteen Sixty-four - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "Leaving Nineteen Sixty-four - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "Leaving Nineteen Sixty-four - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "Leaving Nineteen Sixty-four - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "Leaving Nineteen Sixty-four - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "Leaving Nineteen Sixty-four - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "Leaving Nineteen Sixty-four - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "Leaving Nineteen Sixty-four - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 51,
+        "title": "Leaving Nineteen Sixty-four - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 52,
+        "title": "Leaving Nineteen Sixty-four - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 53,
+        "title": "Leaving Nineteen Sixty-four - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 54,
+        "title": "Leaving Nineteen Sixty-four - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 55,
+        "title": "Leaving Nineteen Sixty-four - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 56,
+        "title": "Rückwärtsgang - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 57,
+        "title": "Rückwärtsgang - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 58,
+        "title": "Rückwärtsgang - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 59,
+        "title": "Rückwärtsgang - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 60,
+        "title": "Rückwärtsgang - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 61,
+        "title": "Rückwärtsgang - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 62,
+        "title": "Rückwärtsgang - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 63,
+        "title": "Rückwärtsgang - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 64,
+        "title": "Rückwärtsgang - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 65,
+        "title": "Rückwärtsgang - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 66,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 67,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 68,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 69,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 70,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 71,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 72,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 73,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 74,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 75,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 76,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 77,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 78,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 79,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 80,
+        "title": "Zeit der Opfer, Zeit der Wunder - Teil 15",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_26",
+    "num": 26,
+    "numStr": "S_26",
+    "title": "Und die Geisterlampe",
+    "author": "Die drei ???",
+    "cover": "covers/S_26.jpg",
+    "description": "Sonderfolge / Special: Und die Geisterlampe.",
+    "trackCount": 114,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Und die Geisterlampe - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Und die Geisterlampe - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Und die Geisterlampe - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Und die Geisterlampe - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Und die Geisterlampe - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Und die Geisterlampe - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Und die Geisterlampe - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Und die Geisterlampe - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Und die Geisterlampe - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Und die Geisterlampe - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Und die Geisterlampe - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Und die Geisterlampe - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Dunkle Vergangenheit - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Dunkle Vergangenheit - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Dunkle Vergangenheit - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Dunkle Vergangenheit - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Dunkle Vergangenheit - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Dunkle Vergangenheit - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Dunkle Vergangenheit - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Dunkle Vergangenheit - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Entführt - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Entführt - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Entführt - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Entführt - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Entführt - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Entführt - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Entführt - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Entführt - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Entführt - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Entführt - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "Verschwörung auf der Eagle Ranch - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "SOS - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "SOS - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "SOS - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "SOS - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "SOS - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 51,
+        "title": "SOS - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 52,
+        "title": "SOS - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 53,
+        "title": "Der graue Dämon - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 54,
+        "title": "Der graue Dämon - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 55,
+        "title": "Der graue Dämon - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 56,
+        "title": "Der graue Dämon - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 57,
+        "title": "Der graue Dämon - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 58,
+        "title": "Der graue Dämon - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 59,
+        "title": "Das Lehrstück - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 60,
+        "title": "Das Lehrstück - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 61,
+        "title": "Das Lehrstück - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 62,
+        "title": "Das Lehrstück - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 63,
+        "title": "Das Lehrstück - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 64,
+        "title": "Das Lehrstück - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 65,
+        "title": "Das Lehrstück - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 66,
+        "title": "Das Lehrstück - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 67,
+        "title": "Das Rätsel der schwarzen Nadel - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 68,
+        "title": "Das Rätsel der schwarzen Nadel - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 69,
+        "title": "Das Rätsel der schwarzen Nadel - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 70,
+        "title": "Das Rätsel der schwarzen Nadel - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 71,
+        "title": "Das Rätsel der schwarzen Nadel - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 72,
+        "title": "Das Rätsel der schwarzen Nadel - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 73,
+        "title": "Das Rätsel der schwarzen Nadel - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 74,
+        "title": "Das Rätsel der schwarzen Nadel - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 75,
+        "title": "Der verschwundene Superstar - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 76,
+        "title": "Der verschwundene Superstar - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 77,
+        "title": "Der verschwundene Superstar - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 78,
+        "title": "Der verschwundene Superstar - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 79,
+        "title": "Der verschwundene Superstar - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 80,
+        "title": "Der verschwundene Superstar - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 81,
+        "title": "Der verschwundene Superstar - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 82,
+        "title": "Der verschwundene Superstar - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 83,
+        "title": "Der verschwundene Superstar - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 84,
+        "title": "Der verschwundene Superstar - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 85,
+        "title": "Der verschwundene Superstar - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 86,
+        "title": "Der verschwundene Superstar - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 87,
+        "title": "Manches verlernt man nie - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 88,
+        "title": "Manches verlernt man nie - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 89,
+        "title": "Manches verlernt man nie - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 90,
+        "title": "Manches verlernt man nie - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 91,
+        "title": "Manches verlernt man nie - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 92,
+        "title": "Manches verlernt man nie - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 93,
+        "title": "Manches verlernt man nie - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 94,
+        "title": "Manches verlernt man nie - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 95,
+        "title": "Manches verlernt man nie - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 96,
+        "title": "Manches verlernt man nie - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 97,
+        "title": "Manches verlernt man nie - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 98,
+        "title": "Psychomoon - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 99,
+        "title": "Psychomoon - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 100,
+        "title": "Psychomoon - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 101,
+        "title": "Psychomoon - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 102,
+        "title": "Psychomoon - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 103,
+        "title": "Psychomoon - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 104,
+        "title": "Psychomoon - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 105,
+        "title": "Jagd auf den Weihnachtsmann - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 106,
+        "title": "Jagd auf den Weihnachtsmann - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 107,
+        "title": "Jagd auf den Weihnachtsmann - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 108,
+        "title": "Jagd auf den Weihnachtsmann - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 109,
+        "title": "Jagd auf den Weihnachtsmann - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 110,
+        "title": "Jagd auf den Weihnachtsmann - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 111,
+        "title": "Jagd auf den Weihnachtsmann - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 112,
+        "title": "Jagd auf den Weihnachtsmann - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 113,
+        "title": "Jagd auf den Weihnachtsmann - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 114,
+        "title": "Jagd auf den Weihnachtsmann - Teil 10",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_27",
+    "num": 27,
+    "numStr": "S_27",
+    "title": "Und die schwarze Katze",
+    "author": "Die drei ???",
+    "cover": "covers/S_27.jpg",
+    "description": "Sonderfolge / Special: Und die schwarze Katze.",
+    "trackCount": 60,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Und die schwarze Katze - Teil 01",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Und die schwarze Katze - Teil 02",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Und die schwarze Katze - Teil 03",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Und die schwarze Katze - Teil 04",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Und die schwarze Katze - Teil 05",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Und die schwarze Katze - Teil 06",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Und die schwarze Katze - Teil 07",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Und die schwarze Katze - Teil 08",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Und die schwarze Katze - Teil 09",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Und die schwarze Katze - Teil 10",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Und die schwarze Katze - Teil 11",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Und die schwarze Katze - Teil 12",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Und die schwarze Katze - Teil 13",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Und die schwarze Katze - Teil 14",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Und die schwarze Katze - Teil 15",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Und die schwarze Katze - Teil 16",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Und die schwarze Katze - Teil 17",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Und die schwarze Katze - Teil 18",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Und die schwarze Katze - Teil 19",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Und die schwarze Katze - Teil 20",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Und die schwarze Katze - Teil 21",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Und die schwarze Katze - Teil 22",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Und die schwarze Katze - Teil 23",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Und die schwarze Katze - Teil 24",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Und die schwarze Katze - Teil 25",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Und die schwarze Katze - Teil 26",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Und die schwarze Katze - Teil 27",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Und die schwarze Katze - Teil 28",
+        "url": ""
+      },
+      {
+        "num": 29,
+        "title": "Und die schwarze Katze - Teil 29",
+        "url": ""
+      },
+      {
+        "num": 30,
+        "title": "Und die schwarze Katze - Teil 30",
+        "url": ""
+      },
+      {
+        "num": 31,
+        "title": "Und die schwarze Katze - Teil 31",
+        "url": ""
+      },
+      {
+        "num": 32,
+        "title": "Und die schwarze Katze - Teil 32",
+        "url": ""
+      },
+      {
+        "num": 33,
+        "title": "Und die schwarze Katze - Teil 33",
+        "url": ""
+      },
+      {
+        "num": 34,
+        "title": "Und die schwarze Katze - Teil 34",
+        "url": ""
+      },
+      {
+        "num": 35,
+        "title": "Und die schwarze Katze - Teil 35",
+        "url": ""
+      },
+      {
+        "num": 36,
+        "title": "Und die schwarze Katze - Teil 36",
+        "url": ""
+      },
+      {
+        "num": 37,
+        "title": "Und die schwarze Katze - Teil 37",
+        "url": ""
+      },
+      {
+        "num": 38,
+        "title": "Und die schwarze Katze - Teil 38",
+        "url": ""
+      },
+      {
+        "num": 39,
+        "title": "Und die schwarze Katze - Teil 39",
+        "url": ""
+      },
+      {
+        "num": 40,
+        "title": "Und die schwarze Katze - Teil 40",
+        "url": ""
+      },
+      {
+        "num": 41,
+        "title": "Und die schwarze Katze - Teil 41",
+        "url": ""
+      },
+      {
+        "num": 42,
+        "title": "Und die schwarze Katze - Teil 42",
+        "url": ""
+      },
+      {
+        "num": 43,
+        "title": "Und die schwarze Katze - Teil 43",
+        "url": ""
+      },
+      {
+        "num": 44,
+        "title": "Und die schwarze Katze - Teil 44",
+        "url": ""
+      },
+      {
+        "num": 45,
+        "title": "Und die schwarze Katze - Teil 45",
+        "url": ""
+      },
+      {
+        "num": 46,
+        "title": "Und die schwarze Katze - Teil 46",
+        "url": ""
+      },
+      {
+        "num": 47,
+        "title": "Und die schwarze Katze - Teil 47",
+        "url": ""
+      },
+      {
+        "num": 48,
+        "title": "Und die schwarze Katze - Teil 48",
+        "url": ""
+      },
+      {
+        "num": 49,
+        "title": "Und die schwarze Katze - Teil 49",
+        "url": ""
+      },
+      {
+        "num": 50,
+        "title": "Und die schwarze Katze - Teil 50",
+        "url": ""
+      },
+      {
+        "num": 51,
+        "title": "Und die schwarze Katze - Teil 51",
+        "url": ""
+      },
+      {
+        "num": 52,
+        "title": "Und die schwarze Katze - Teil 52",
+        "url": ""
+      },
+      {
+        "num": 53,
+        "title": "Und die schwarze Katze - Teil 53",
+        "url": ""
+      },
+      {
+        "num": 54,
+        "title": "Und die schwarze Katze - Teil 54",
+        "url": ""
+      },
+      {
+        "num": 55,
+        "title": "Und die schwarze Katze - Teil 55",
+        "url": ""
+      },
+      {
+        "num": 56,
+        "title": "Und die schwarze Katze - Teil 56",
+        "url": ""
+      },
+      {
+        "num": 57,
+        "title": "Und die schwarze Katze - Teil 57",
+        "url": ""
+      },
+      {
+        "num": 58,
+        "title": "Und die schwarze Katze - Teil 58",
+        "url": ""
+      },
+      {
+        "num": 59,
+        "title": "Und die schwarze Katze - Teil 59",
+        "url": ""
+      },
+      {
+        "num": 60,
+        "title": "Und die schwarze Katze - Teil 60",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "S_28",
+    "num": 28,
+    "numStr": "S_28",
+    "title": "und die singende Schlange (Neufassung)",
+    "author": "Die drei ???",
+    "cover": "covers/S_28.jpg",
+    "description": "Sonderfolge / Special: und die singende Schlange (Neufassung).",
+    "trackCount": 28,
+    "tracks": [
+      {
+        "num": 1,
+        "title": "Kapitel 01: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 2,
+        "title": "Kapitel 02: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 3,
+        "title": "Kapitel 03: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 4,
+        "title": "Kapitel 04: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 5,
+        "title": "Kapitel 05: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 6,
+        "title": "Kapitel 06: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 7,
+        "title": "Kapitel 07: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 8,
+        "title": "Kapitel 08: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 9,
+        "title": "Kapitel 09: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 10,
+        "title": "Kapitel 10: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 11,
+        "title": "Kapitel 11: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 12,
+        "title": "Kapitel 12: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 13,
+        "title": "Kapitel 13: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 14,
+        "title": "Kapitel 14: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 15,
+        "title": "Kapitel 15: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 16,
+        "title": "Kapitel 16: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 17,
+        "title": "Kapitel 17: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 18,
+        "title": "Kapitel 18: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 19,
+        "title": "Kapitel 19: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 20,
+        "title": "Kapitel 20: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 21,
+        "title": "Kapitel 21: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 22,
+        "title": "Kapitel 22: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 23,
+        "title": "Kapitel 23: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 24,
+        "title": "Kapitel 24: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 25,
+        "title": "Kapitel 25: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 26,
+        "title": "Kapitel 26: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 27,
+        "title": "Kapitel 27: und die singende Schlange",
+        "url": ""
+      },
+      {
+        "num": 28,
+        "title": "Kapitel 28: und die singende Schlange",
+        "url": ""
+      }
+    ]
+  }
+]

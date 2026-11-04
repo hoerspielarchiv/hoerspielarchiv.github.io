@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:castbox="http://castbox.fm/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+    <channel>
+        <atom:link href="http://rss.castbox.fm/everest/80c25c6681894770a6da5c67934b4cdb.xml" type="application/rss+xml" rel="self"/>
+        <copyright></copyright>
+        <link>https://castbox.fm/ch/2479325</link>
+        <language>de</language>
+
+        <title>6 - Harry Potter und der Halbblutprinz</title>
+        <description><![CDATA[Seit Voldemort, der gefährlichste schwarze Magier aller Zeiten, zurückgekehrt ist, herrschen Aufruhr und Gewalt in der magischen Welt. Als Harry Potter und seine Freunde Ron und Hermine zu ihrem sechsten Schuljahr nach Hogwarts kommen, gelten strengste Sicherheitsmaßnahmen in der Zauberschule. Dumbledore will seine Schützlinge vor dem Zugriff des Bösen bewahren. Um Harry zu wappnen, erforscht er mit ihm die Geschichte des Dunklen Lords. Ob auch Harrys Zaubertrankbuch, das früher einem &#34;Halbblutprinzen&#34; gehörte, ihm helfen kann?]]></description>
+        <castbox:uid>1acb5cb2eddc44d79e5aab6f3181fa53</castbox:uid>
+        <castbox:pid>2479325</castbox:pid>
+        <castbox:type></castbox:type>
+
+        <itunes:summary><![CDATA[Seit Voldemort, der gefährlichste schwarze Magier aller Zeiten, zurückgekehrt ist, herrschen Aufruhr und Gewalt in der magischen Welt. Als Harry Potter und seine Freunde Ron und Hermine zu ihrem sechsten Schuljahr nach Hogwarts kommen, gelten strengste Sicherheitsmaßnahmen in der Zauberschule. Dumbledore will seine Schützlinge vor dem Zugriff des Bösen bewahren. Um Harry zu wappnen, erforscht er mit ihm die Geschichte des Dunklen Lords. Ob auch Harrys Zaubertrankbuch, das früher einem &#34;Halbblutprinzen&#34; gehörte, ihm helfen kann?]]></itunes:summary>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:author>Deutsch mit Armin</itunes:author>
+
+        <itunes:owner>
+            <itunes:email>bsrfgc2fgold@ewebrus.com</itunes:email>
+        </itunes:owner>
+
+        <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+        <itunes:keywords>Education,Education for Kids,Self-Improvement</itunes:keywords>
+
+        
+        
+            
+        <itunes:category text="Education"/>
+            
+        
+            
+        <itunes:category text="Kids &amp; Family">
+             <itunes:category text="Education for Kids"/>
+        </itunes:category>
+            
+        
+            
+        <itunes:category text="Education">
+             <itunes:category text="Self-Improvement"/>
+        </itunes:category>
+            
+        
+        
+
+        <itunes:explicit>yes</itunes:explicit>
+
+        
+        <item>
+            <title>Das weiße Grabmal</title>
+            <description><![CDATA[  Das weiße Grabmal  ]]></description>
+            <content:encoded><![CDATA[  Das weiße Grabmal  ]]></content:encoded>
+            <itunes:summary>Das weiße Grabmal</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/6f/1c/1b/cb39af4a2f82f036b951a31b37.mp3" type="audio/mp3" length="29802430"/>
+            <itunes:duration>00:41:17</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-2648f0f318b6467494e48b1b03c15e14</guid>
+            <pubDate>Thu, 28 Nov 2019 19:08:06 +0000</pubDate>
+            <castbox:tid>205963030</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Die Klage des Phönix</title>
+            <description><![CDATA[  Die Klage des Phönix  ]]></description>
+            <content:encoded><![CDATA[  Die Klage des Phönix  ]]></content:encoded>
+            <itunes:summary>Die Klage des Phönix</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/3a/de/82/ac54644f5782c15375c422c5a9.mp3" type="audio/mp3" length="31397365"/>
+            <itunes:duration>00:43:30</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-84c899a7efe94c78baad578567305904</guid>
+            <pubDate>Thu, 28 Nov 2019 19:06:38 +0000</pubDate>
+            <castbox:tid>205962770</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Die Flucht des Prinzen</title>
+            <description><![CDATA[  Die Flucht des Prinzen  ]]></description>
+            <content:encoded><![CDATA[  Die Flucht des Prinzen  ]]></content:encoded>
+            <itunes:summary>Die Flucht des Prinzen</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/f9/c0/1b/d131574603b2ad6b51d7e8ac12.mp3" type="audio/mp3" length="20788935"/>
+            <itunes:duration>00:28:46</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-b7f28785cff045d29038368a199648ad</guid>
+            <pubDate>Thu, 28 Nov 2019 19:06:36 +0000</pubDate>
+            <castbox:tid>205962766</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der vom Blitz getroffene Turm</title>
+            <description><![CDATA[  Der vom Blitz getroffene Turm  ]]></description>
+            <content:encoded><![CDATA[  Der vom Blitz getroffene Turm  ]]></content:encoded>
+            <itunes:summary>Der vom Blitz getroffene Turm</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/f9/b7/3b/8183564f5e96512319c1afbdfd.mp3" type="audio/mp3" length="27704704"/>
+            <itunes:duration>00:38:22</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-74a5bd2170b341b0a07e7937f729f6d2</guid>
+            <pubDate>Thu, 28 Nov 2019 19:04:42 +0000</pubDate>
+            <castbox:tid>205962570</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Die Höhle</title>
+            <description><![CDATA[  Die Höhle  ]]></description>
+            <content:encoded><![CDATA[  Die Höhle  ]]></content:encoded>
+            <itunes:summary>Die Höhle</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/80/3e/94/2a36bb4a038fc1e83e1a0289d7.mp3" type="audio/mp3" length="40199575"/>
+            <itunes:duration>00:55:43</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-5d46381b16f54b01b525ec67a5695eaa</guid>
+            <pubDate>Thu, 28 Nov 2019 19:04:39 +0000</pubDate>
+            <castbox:tid>205962566</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Die belauschte Seherin</title>
+            <description><![CDATA[  Die belauschte Seherin  ]]></description>
+            <content:encoded><![CDATA[  Die belauschte Seherin  ]]></content:encoded>
+            <itunes:summary>Die belauschte Seherin</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/2e/5c/d7/6aefad43e48e909d6874c1fceb.mp3" type="audio/mp3" length="29172987"/>
+            <itunes:duration>00:40:24</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-9e99d1fa0be340e68d287788353f395a</guid>
+            <pubDate>Thu, 28 Nov 2019 19:00:46 +0000</pubDate>
+            <castbox:tid>205962016</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Sectumsempra</title>
+            <description><![CDATA[  Sectumsempra  ]]></description>
+            <content:encoded><![CDATA[  Sectumsempra  ]]></content:encoded>
+            <itunes:summary>Sectumsempra</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/75/98/13/d46047498185e5c6bfd28f0ccb.mp3" type="audio/mp3" length="32744334"/>
+            <itunes:duration>00:45:22</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-644d023120914269a0e23ccf71c6e699</guid>
+            <pubDate>Thu, 28 Nov 2019 19:00:20 +0000</pubDate>
+            <castbox:tid>205961952</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Horkruxe</title>
+            <description><![CDATA[  Horkruxe  ]]></description>
+            <content:encoded><![CDATA[  Horkruxe  ]]></content:encoded>
+            <itunes:summary>Horkruxe</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/de/88/4e/67792341bfa2da67ff72ddc787.mp3" type="audio/mp3" length="36807520"/>
+            <itunes:duration>00:51:01</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-30071dce38ce41568ad408c301fe3235</guid>
+            <pubDate>Thu, 28 Nov 2019 18:58:17 +0000</pubDate>
+            <castbox:tid>205961723</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Nach der Beerdigung</title>
+            <description><![CDATA[  Nach der Beerdigung  ]]></description>
+            <content:encoded><![CDATA[  Nach der Beerdigung  ]]></content:encoded>
+            <itunes:summary>Nach der Beerdigung</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/5d/c8/d1/3e760444ffa16094c8a5c16c9a.mp3" type="audio/mp3" length="34410744"/>
+            <itunes:duration>00:47:41</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-f4d6ff187dbf4642afbd30bcaa92641f</guid>
+            <pubDate>Thu, 28 Nov 2019 18:57:59 +0000</pubDate>
+            <castbox:tid>205961713</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Lord Voldemorts Gesuch</title>
+            <description><![CDATA[  <p>Lord Voldemorts Gesuch</p>  ]]></description>
+            <content:encoded><![CDATA[  <p>Lord Voldemorts Gesuch</p>  ]]></content:encoded>
+            <itunes:summary>Lord Voldemorts Gesuch</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/b6/86/61/f95db84d5391e79b26f0a87191.mp3" type="audio/mp3" length="37388080"/>
+            <itunes:duration>00:51:49</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-ce0b55d170c0433486631a82c3a864d2</guid>
+            <pubDate>Thu, 28 Nov 2019 18:55:35 +0000</pubDate>
+            <castbox:tid>205961486</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der unergründliche Raum</title>
+            <description><![CDATA[  Der unergründliche Raum  ]]></description>
+            <content:encoded><![CDATA[  Der unergründliche Raum  ]]></content:encoded>
+            <itunes:summary>Der unergründliche Raum</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/70/3c/aa/c781e14097bea86b77054ea702.mp3" type="audio/mp3" length="30590498"/>
+            <itunes:duration>00:42:23</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-8b61689f81a94bb184561e2a3b155cb1</guid>
+            <pubDate>Thu, 28 Nov 2019 18:55:15 +0000</pubDate>
+            <castbox:tid>205961446</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Elfen helfen</title>
+            <description><![CDATA[  Elfen helfen  ]]></description>
+            <content:encoded><![CDATA[  Elfen helfen  ]]></content:encoded>
+            <itunes:summary>Elfen helfen</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/0e/03/4e/4bfcad492485b61a48b3d7c786.mp3" type="audio/mp3" length="34378137"/>
+            <itunes:duration>00:47:38</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-7a65ce419d9e41b6bcb9008a1ee89c4b</guid>
+            <pubDate>Thu, 28 Nov 2019 18:53:22 +0000</pubDate>
+            <castbox:tid>205961223</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Geburtstagsüberraschungen</title>
+            <description><![CDATA[  Geburtstagsüberraschungen  ]]></description>
+            <content:encoded><![CDATA[  Geburtstagsüberraschungen  ]]></content:encoded>
+            <itunes:summary>Geburtstagsüberraschungen</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/de/9f/90/7b3a0e4e6eae64bc062391f3a9.mp3" type="audio/mp3" length="35178124"/>
+            <itunes:duration>00:48:45</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-2649007f98e448ba94728ec8e13d645b</guid>
+            <pubDate>Thu, 28 Nov 2019 18:52:11 +0000</pubDate>
+            <castbox:tid>205961138</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Eine getrübte Erinnerung</title>
+            <description><![CDATA[  Eine getrübte Erinnerung  ]]></description>
+            <content:encoded><![CDATA[  Eine getrübte Erinnerung  ]]></content:encoded>
+            <itunes:summary>Eine getrübte Erinnerung</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/38/87/a7/195862437b8bd6bfa12b914b7c.mp3" type="audio/mp3" length="37215674"/>
+            <itunes:duration>00:51:35</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-a023815d6bc4466f9871c014bebea5e1</guid>
+            <pubDate>Thu, 28 Nov 2019 18:51:48 +0000</pubDate>
+            <castbox:tid>205961097</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Sehr frostige Weihnachten</title>
+            <description><![CDATA[  Sehr frostige Weihnachten  ]]></description>
+            <content:encoded><![CDATA[  Sehr frostige Weihnachten  ]]></content:encoded>
+            <itunes:summary>Sehr frostige Weihnachten</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/15/d1/90/d8d3bd4e2cb80c1ed46c25a171.mp3" type="audio/mp3" length="35243325"/>
+            <itunes:duration>00:48:50</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-365b0ee1de9b426eadbf326a7c16cf0c</guid>
+            <pubDate>Thu, 28 Nov 2019 18:49:32 +0000</pubDate>
+            <castbox:tid>205960875</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der unbrechbare Schwur</title>
+            <description><![CDATA[  Der unbrechbare Schwur  ]]></description>
+            <content:encoded><![CDATA[  Der unbrechbare Schwur  ]]></content:encoded>
+            <itunes:summary>Der unbrechbare Schwur</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/eb/7c/eb/b7fab14edd964e6bad3aa5bde3.mp3" type="audio/mp3" length="32135273"/>
+            <itunes:duration>00:44:31</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-7700c75b17484d708a046965086da653</guid>
+            <pubDate>Thu, 28 Nov 2019 18:49:15 +0000</pubDate>
+            <castbox:tid>205960854</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Felix Felicis</title>
+            <description><![CDATA[  Felix Felicis  ]]></description>
+            <content:encoded><![CDATA[  Felix Felicis  ]]></content:encoded>
+            <itunes:summary>Felix Felicis</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/f5/35/8a/66aa294b4a9e529971509f63c5.mp3" type="audio/mp3" length="34617628"/>
+            <itunes:duration>00:47:58</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-bf307ede8f4d4bc0866d20076e34d84d</guid>
+            <pubDate>Thu, 28 Nov 2019 18:46:56 +0000</pubDate>
+            <castbox:tid>205960173</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der geheime Riddle</title>
+            <description><![CDATA[  Der geheime Riddle  ]]></description>
+            <content:encoded><![CDATA[  Der geheime Riddle  ]]></content:encoded>
+            <itunes:summary>Der geheime Riddle</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/72/6c/29/76cb9049379adbb7809654f5ae.mp3" type="audio/mp3" length="31651272"/>
+            <itunes:duration>00:43:51</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-f6b30aa5fad14f4daa89791b3d1d93fc</guid>
+            <pubDate>Thu, 28 Nov 2019 18:46:18 +0000</pubDate>
+            <castbox:tid>205960129</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Silber und Opale</title>
+            <description><![CDATA[  Silber und Opale  ]]></description>
+            <content:encoded><![CDATA[  Silber und Opale  ]]></content:encoded>
+            <itunes:summary>Silber und Opale</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/85/0e/ce/666eb44126b5214e025c281c8a.mp3" type="audio/mp3" length="27993396"/>
+            <itunes:duration>00:38:46</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-b408bd64f0f8452592bd31917307e64f</guid>
+            <pubDate>Thu, 28 Nov 2019 18:44:07 +0000</pubDate>
+            <castbox:tid>205959836</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Hermines helfende Hand</title>
+            <description><![CDATA[  Hermines helfende Hand  ]]></description>
+            <content:encoded><![CDATA[  Hermines helfende Hand  ]]></content:encoded>
+            <itunes:summary>Hermines helfende Hand</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/a7/46/6e/1f15e64191a4cb3a5a013f9bbc.mp3" type="audio/mp3" length="27489343"/>
+            <itunes:duration>00:38:04</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-c9fbb11348e7428e8c801052dd4d2a84</guid>
+            <pubDate>Thu, 28 Nov 2019 18:41:22 +0000</pubDate>
+            <castbox:tid>205959418</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Das Haus der Gaunts</title>
+            <description><![CDATA[  Das Haus der Gaunts  ]]></description>
+            <content:encoded><![CDATA[  Das Haus der Gaunts  ]]></content:encoded>
+            <itunes:summary>Das Haus der Gaunts</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/33/d3/e2/807666478eabfe8f9566940903.mp3" type="audio/mp3" length="36125422"/>
+            <itunes:duration>00:50:04</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-81f511ede004408b9714441b9af98d15</guid>
+            <pubDate>Thu, 28 Nov 2019 18:41:19 +0000</pubDate>
+            <castbox:tid>205959400</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der Halbblutprinz</title>
+            <description><![CDATA[  Der Halbblutprinz  ]]></description>
+            <content:encoded><![CDATA[  Der Halbblutprinz  ]]></content:encoded>
+            <itunes:summary>Der Halbblutprinz</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/45/75/8e/fc319f42c1a237fa1d4915eba8.mp3" type="audio/mp3" length="33757786"/>
+            <itunes:duration>00:46:46</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-4f53c5c787ef4e07bcdc2c4ef11f878a</guid>
+            <pubDate>Thu, 28 Nov 2019 18:41:11 +0000</pubDate>
+            <castbox:tid>205959373</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Snape triumphiert</title>
+            <description><![CDATA[  Snape triumphiert  ]]></description>
+            <content:encoded><![CDATA[  Snape triumphiert  ]]></content:encoded>
+            <itunes:summary>Snape triumphiert</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/22/89/4d/2fe6684b438a523588fb62dd9d.mp3" type="audio/mp3" length="25087849"/>
+            <itunes:duration>00:34:44</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-046c6de5f52840f3afdf3c7f3eebafe3</guid>
+            <pubDate>Thu, 28 Nov 2019 18:31:31 +0000</pubDate>
+            <castbox:tid>205957896</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der Slug-Klub</title>
+            <description><![CDATA[  Der Slug-Klub  ]]></description>
+            <content:encoded><![CDATA[  Der Slug-Klub  ]]></content:encoded>
+            <itunes:summary>Der Slug-Klub</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/cb/1a/c1/bae1004bbe8897920a142746a6.mp3" type="audio/mp3" length="37420358"/>
+            <itunes:duration>00:51:52</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-7bc470ed3f5b49ffae6ed6504cf7a726</guid>
+            <pubDate>Thu, 28 Nov 2019 18:31:08 +0000</pubDate>
+            <castbox:tid>205957867</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Dracos Abstecher</title>
+            <description><![CDATA[  Dracos Abstecher  ]]></description>
+            <content:encoded><![CDATA[  Dracos Abstecher  ]]></content:encoded>
+            <itunes:summary>Dracos Abstecher</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/65/25/19/0014844984a901aa91d4f14d1d.mp3" type="audio/mp3" length="33274415"/>
+            <itunes:duration>00:46:06</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-29188d9e05b644a8aa8da767d9f1fbd3</guid>
+            <pubDate>Thu, 28 Nov 2019 18:31:05 +0000</pubDate>
+            <castbox:tid>205957863</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Schleim im Überfluss</title>
+            <description><![CDATA[  Schleim im Überfluss  ]]></description>
+            <content:encoded><![CDATA[  Schleim im Überfluss  ]]></content:encoded>
+            <itunes:summary>Schleim im Überfluss</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/20/ca/c5/26045143f8b021e180c8a5befb.mp3" type="audio/mp3" length="32971922"/>
+            <itunes:duration>00:45:41</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-2be9246b745e4649aeeff1ce5387ba0b</guid>
+            <pubDate>Thu, 28 Nov 2019 18:26:44 +0000</pubDate>
+            <castbox:tid>205957274</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Horace Slughorn</title>
+            <description><![CDATA[  Horace Slughorn  ]]></description>
+            <content:encoded><![CDATA[  Horace Slughorn  ]]></content:encoded>
+            <itunes:summary>Horace Slughorn</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/3d/e8/db/1a43324b0cb02c3937d5c57cb3.mp3" type="audio/mp3" length="35952696"/>
+            <itunes:duration>00:49:49</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-79d63f43f49f45259017ea6e429ef323</guid>
+            <pubDate>Thu, 28 Nov 2019 18:25:29 +0000</pubDate>
+            <castbox:tid>205957179</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Wollen und Nichtwollen</title>
+            <description><![CDATA[  Wollen und Nichtwollen  ]]></description>
+            <content:encoded><![CDATA[  Wollen und Nichtwollen  ]]></content:encoded>
+            <itunes:summary>Wollen und Nichtwollen</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/e6/d6/6c/ffd2b34a4eac217ca15b208e38.mp3" type="audio/mp3" length="28758894"/>
+            <itunes:duration>00:39:50</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-f5f7e816d66e40deb12402f51fa550d1</guid>
+            <pubDate>Thu, 28 Nov 2019 18:24:57 +0000</pubDate>
+            <castbox:tid>205957144</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Spinners End</title>
+            <description><![CDATA[  Spinners End  ]]></description>
+            <content:encoded><![CDATA[  Spinners End  ]]></content:encoded>
+            <itunes:summary>Spinners End</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/9a/05/f8/28f8b54bdc97ab3643727f7bc6.mp3" type="audio/mp3" length="31267893"/>
+            <itunes:duration>00:43:19</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-5fbd4fabf9e64296a883f3fdc9a5f62d</guid>
+            <pubDate>Thu, 28 Nov 2019 18:23:29 +0000</pubDate>
+            <castbox:tid>205957041</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der andere Minister</title>
+            <description><![CDATA[  Der andere Minister  ]]></description>
+            <content:encoded><![CDATA[  Der andere Minister  ]]></content:encoded>
+            <itunes:summary>Der andere Minister</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/aa/0a/d9/b223d748089aaca53f8bdffe4c.mp3" type="audio/mp3" length="28113144"/>
+            <itunes:duration>00:38:56</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-3a090f4916b8494bbc1980da0f1620d9</guid>
+            <pubDate>Thu, 28 Nov 2019 18:22:41 +0000</pubDate>
+            <castbox:tid>205956975</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Ansage</title>
+            <description><![CDATA[  Ansage  ]]></description>
+            <content:encoded><![CDATA[  Ansage  ]]></content:encoded>
+            <itunes:summary>Ansage</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/cd/1f/f4/b68d624d44bfc67f49b1cfb708.jpg"/>
+            <enclosure url="https://s3.castbox.fm/66/85/6a/7a02524ce0b826004eb26502c6.mp3" type="audio/mp3" length="236299"/>
+            <itunes:duration>00:00:13</itunes:duration>
+            <guid isPermaLink="false">album-80c25c6681894770a6da5c67934b4cdb-8fcc7cd5b53542bab6db5524b6ddd3ba</guid>
+            <pubDate>Thu, 28 Nov 2019 18:20:54 +0000</pubDate>
+            <castbox:tid>205956128</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+    </channel>
+</rss>

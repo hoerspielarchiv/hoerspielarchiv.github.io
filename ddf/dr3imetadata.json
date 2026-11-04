@@ -1,0 +1,1845 @@
+{
+  "serie": [
+    {
+      "id": "D_1",
+      "nummer": 1,
+      "titel": "Das Seeungeheuer",
+      "autor": "DiE DR3i",
+      "beschreibung": "Folge 1 der Serie Die dr3i.",
+      "gesamtdauer": 7996767,
+      "links": {
+        "cover": "covers/D_1.jpg"
+      },
+      "folder": "01 - Das Seeungeheuer",
+      "medien": [
+        {
+          "tracks": [
+            {
+              "titel": "Der Phantom-Anwalt",
+              "start": 0,
+              "end": 553040
+            },
+            {
+              "titel": "Der Untergang der Liberty Bell",
+              "start": 0,
+              "end": 362640
+            },
+            {
+              "titel": "Erfolgreiche Recherche",
+              "start": 0,
+              "end": 368226
+            },
+            {
+              "titel": "Folgenschwerer Anruf",
+              "start": 0,
+              "end": 121080
+            },
+            {
+              "titel": "Mysteriöses Testament",
+              "start": 0,
+              "end": 390280
+            },
+            {
+              "titel": "Held ohne Ehre",
+              "start": 0,
+              "end": 296533
+            },
+            {
+              "titel": "Beschattet",
+              "start": 0,
+              "end": 225706
+            },
+            {
+              "titel": "O'Malley's Rock",
+              "start": 0,
+              "end": 246160
+            },
+            {
+              "titel": "Der zweite Fall",
+              "start": 0,
+              "end": 352960
+            },
+            {
+              "titel": "Leviathan",
+              "start": 0,
+              "end": 460800
+            },
+            {
+              "titel": "Das Geisterhaus am Meer",
+              "start": 0,
+              "end": 225093
+            },
+            {
+              "titel": "Ein schreckliches Geheimnis",
+              "start": 0,
+              "end": 164920
+            },
+            {
+              "titel": "Jagd auf den Unbekannten",
+              "start": 0,
+              "end": 152720
+            },
+            {
+              "titel": "Feindbesuch",
+              "start": 0,
+              "end": 328706
+            },
+            {
+              "titel": "Die Geliebte des Globetrotters",
+              "start": 0,
+              "end": 248120
+            },
+            {
+              "titel": "Apelles post tabulam",
+              "start": 0,
+              "end": 209160
+            },
+            {
+              "titel": "Monstersuche",
+              "start": 0,
+              "end": 605266
+            },
+            {
+              "titel": "Einbruch in der Zentrale!",
+              "start": 0,
+              "end": 221600
+            },
+            {
+              "titel": "Der Mikrochip",
+              "start": 0,
+              "end": 458066
+            },
+            {
+              "titel": "Die Zeit läuft ab",
+              "start": 0,
+              "end": 401893
+            },
+            {
+              "titel": "Das Seeungeheuer",
+              "start": 0,
+              "end": 180720
+            },
+            {
+              "titel": "Versteck in den Felsen",
+              "start": 0,
+              "end": 172746
+            },
+            {
+              "titel": "Die Falle schnappt zu",
+              "start": 0,
+              "end": 480320
+            },
+            {
+              "titel": "Tödliche Fluten",
+              "start": 0,
+              "end": 190946
+            },
+            {
+              "titel": "Alle vereint",
+              "start": 0,
+              "end": 410546
+            },
+            {
+              "titel": "Das Rätsel aller Rätsel",
+              "start": 0,
+              "end": 168520
+            }
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Der Phantom-Anwalt",
+          "duration": 553040,
+          "size": 57158101,
+          "filename": "01 - Der Phantom-Anwalt.flac"
+        },
+        {
+          "title": "Der Untergang der Liberty Bell",
+          "duration": 362640,
+          "size": 40008108,
+          "filename": "02 - Der Untergang der Liberty Bell.flac"
+        },
+        {
+          "title": "Erfolgreiche Recherche",
+          "duration": 368226,
+          "size": 38090593,
+          "filename": "03 - Erfolgreiche Recherche.flac"
+        },
+        {
+          "title": "Folgenschwerer Anruf",
+          "duration": 121080,
+          "size": 12661582,
+          "filename": "04 - Folgenschwerer Anruf.flac"
+        },
+        {
+          "title": "Mysteriöses Testament",
+          "duration": 390280,
+          "size": 40190941,
+          "filename": "05 - Mysteriöses Testament.flac"
+        },
+        {
+          "title": "Held ohne Ehre",
+          "duration": 296533,
+          "size": 30661030,
+          "filename": "06 - Held ohne Ehre.flac"
+        },
+        {
+          "title": "Beschattet",
+          "duration": 225706,
+          "size": 23177847,
+          "filename": "07 - Beschattet.flac"
+        },
+        {
+          "title": "O'Malley's Rock",
+          "duration": 246160,
+          "size": 25142697,
+          "filename": "08 - O'Malley's Rock.flac"
+        },
+        {
+          "title": "Der zweite Fall",
+          "duration": 352960,
+          "size": 36035944,
+          "filename": "09 - Der zweite Fall.flac"
+        },
+        {
+          "title": "Leviathan",
+          "duration": 460800,
+          "size": 46836812,
+          "filename": "10 - Leviathan.flac"
+        },
+        {
+          "title": "Das Geisterhaus am Meer",
+          "duration": 225093,
+          "size": 22938039,
+          "filename": "11 - Das Geisterhaus am Meer.flac"
+        },
+        {
+          "title": "Ein schreckliches Geheimnis",
+          "duration": 164920,
+          "size": 16365094,
+          "filename": "12 - Ein schreckliches Geheimnis.flac"
+        },
+        {
+          "title": "Jagd auf den Unbekannten",
+          "duration": 152720,
+          "size": 16130988,
+          "filename": "13 - Jagd auf den Unbekannten.flac"
+        },
+        {
+          "title": "Feindbesuch",
+          "duration": 328706,
+          "size": 34334008,
+          "filename": "01 - Feindbesuch.flac"
+        },
+        {
+          "title": "Die Geliebte des Globetrotters",
+          "duration": 248120,
+          "size": 25293339,
+          "filename": "02 - Die Geliebte des Globetrotters.flac"
+        },
+        {
+          "title": "Apelles post tabulam",
+          "duration": 209160,
+          "size": 21452189,
+          "filename": "03 - Apelles post tabulam.flac"
+        },
+        {
+          "title": "Monstersuche",
+          "duration": 605266,
+          "size": 62261552,
+          "filename": "04 - Monstersuche.flac"
+        },
+        {
+          "title": "Einbruch in der Zentrale!",
+          "duration": 221600,
+          "size": 23099887,
+          "filename": "05 - Einbruch in der Zentrale!.flac"
+        },
+        {
+          "title": "Der Mikrochip",
+          "duration": 458066,
+          "size": 47260871,
+          "filename": "06 - Der Mikrochip.flac"
+        },
+        {
+          "title": "Die Zeit läuft ab",
+          "duration": 401893,
+          "size": 41714884,
+          "filename": "07 - Die Zeit läuft ab.flac"
+        },
+        {
+          "title": "Das Seeungeheuer",
+          "duration": 180720,
+          "size": 18882259,
+          "filename": "08 - Das Seeungeheuer.flac"
+        },
+        {
+          "title": "Versteck in den Felsen",
+          "duration": 172746,
+          "size": 18781479,
+          "filename": "09 - Versteck in den Felsen.flac"
+        },
+        {
+          "title": "Die Falle schnappt zu",
+          "duration": 480320,
+          "size": 49861977,
+          "filename": "10 - Die Falle schnappt zu.flac"
+        },
+        {
+          "title": "Tödliche Fluten",
+          "duration": 190946,
+          "size": 20254530,
+          "filename": "11 - Tödliche Fluten.flac"
+        },
+        {
+          "title": "Alle vereint",
+          "duration": 410546,
+          "size": 42938952,
+          "filename": "12 - Alle vereint.flac"
+        },
+        {
+          "title": "Das Rätsel aller Rätsel",
+          "duration": 168520,
+          "size": 17951076,
+          "filename": "13 - Das Rätsel aller Rätsel.flac"
+        }
+      ]
+    },
+    {
+      "id": "D_2",
+      "nummer": 2,
+      "titel": "Die Pforte Zum Jenseits",
+      "autor": "DiE DR3i",
+      "beschreibung": "Folge 2 der Serie Die dr3i.",
+      "gesamtdauer": 4634011,
+      "links": {
+        "cover": "covers/D_2.jpg"
+      },
+      "folder": "02 - Die Pforte Zum Jenseits",
+      "medien": [
+        {
+          "tracks": [
+            {
+              "titel": "Aus den Träumen gerissen",
+              "start": 0,
+              "end": 186960
+            },
+            {
+              "titel": "Vom Blitz getroffen!",
+              "start": 0,
+              "end": 691640
+            },
+            {
+              "titel": "Tödliche Bowle",
+              "start": 0,
+              "end": 396013
+            },
+            {
+              "titel": "Unsichtbarer Mitbewohner",
+              "start": 0,
+              "end": 529040
+            },
+            {
+              "titel": "Spielverderber",
+              "start": 0,
+              "end": 296066
+            },
+            {
+              "titel": "Abgelehnt",
+              "start": 0,
+              "end": 102293
+            },
+            {
+              "titel": "Albtraum",
+              "start": 0,
+              "end": 576960
+            },
+            {
+              "titel": "Schlachtplan",
+              "start": 0,
+              "end": 183573
+            },
+            {
+              "titel": "Film ab!",
+              "start": 0,
+              "end": 466400
+            },
+            {
+              "titel": "Überreagiert",
+              "start": 0,
+              "end": 311960
+            },
+            {
+              "titel": "Erstens kommt es anders ...",
+              "start": 0,
+              "end": 761386
+            },
+            {
+              "titel": "... und zweitens, als man denkt",
+              "start": 0,
+              "end": 131720
+            }
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Aus den Träumen gerissen",
+          "duration": 186960,
+          "size": 19041990,
+          "filename": "01 - Aus den Träumen gerissen.flac"
+        },
+        {
+          "title": "Vom Blitz getroffen!",
+          "duration": 691640,
+          "size": 71430177,
+          "filename": "02 - Vom Blitz getroffen!.flac"
+        },
+        {
+          "title": "Tödliche Bowle",
+          "duration": 396013,
+          "size": 39180047,
+          "filename": "03 - Tödliche Bowle.flac"
+        },
+        {
+          "title": "Unsichtbarer Mitbewohner",
+          "duration": 529040,
+          "size": 52425328,
+          "filename": "04 - Unsichtbarer Mitbewohner.flac"
+        },
+        {
+          "title": "Spielverderber",
+          "duration": 296066,
+          "size": 29065560,
+          "filename": "05 - Spielverderber.flac"
+        },
+        {
+          "title": "Abgelehnt",
+          "duration": 102293,
+          "size": 10718412,
+          "filename": "06 - Abgelehnt.flac"
+        },
+        {
+          "title": "Albtraum",
+          "duration": 576960,
+          "size": 57498003,
+          "filename": "07 - Albtraum.flac"
+        },
+        {
+          "title": "Schlachtplan",
+          "duration": 183573,
+          "size": 18248901,
+          "filename": "08 - Schlachtplan.flac"
+        },
+        {
+          "title": "Film ab!",
+          "duration": 466400,
+          "size": 45464942,
+          "filename": "09 - Film ab!.flac"
+        },
+        {
+          "title": "Überreagiert",
+          "duration": 311960,
+          "size": 31228421,
+          "filename": "10 - Überreagiert.flac"
+        },
+        {
+          "title": "Erstens kommt es anders ...",
+          "duration": 761386,
+          "size": 77958585,
+          "filename": "11 - Erstens kommt es anders ....flac"
+        },
+        {
+          "title": "... und zweitens, als man denkt",
+          "duration": 131720,
+          "size": 12981106,
+          "filename": "12 - ... und zweitens, als man denkt.flac"
+        }
+      ]
+    },
+    {
+      "id": "D_3",
+      "nummer": 3,
+      "titel": "Verschollen in der Zeit",
+      "autor": "DiE DR3i",
+      "beschreibung": "Folge 3 der Serie Die dr3i.",
+      "gesamtdauer": 4113809,
+      "links": {
+        "cover": "covers/D_3.jpg"
+      },
+      "folder": "03 - Verschollen in der Zeit",
+      "medien": [
+        {
+          "tracks": [
+            {
+              "titel": "Start in den Traumurlaub",
+              "start": 0,
+              "end": 219400
+            },
+            {
+              "titel": "Unsanftes Erwachen",
+              "start": 0,
+              "end": 511640
+            },
+            {
+              "titel": "Notlandung im Nirgendwo",
+              "start": 0,
+              "end": 209146
+            },
+            {
+              "titel": "Das Bermuda-Dreieck",
+              "start": 0,
+              "end": 397146
+            },
+            {
+              "titel": "Ein unheimliches Haus",
+              "start": 0,
+              "end": 271840
+            },
+            {
+              "titel": "Schockierende Erkenntnis",
+              "start": 0,
+              "end": 313626
+            },
+            {
+              "titel": "Verschollen in der Zeit",
+              "start": 0,
+              "end": 181506
+            },
+            {
+              "titel": "Flucht in den Dschungel",
+              "start": 0,
+              "end": 233773
+            },
+            {
+              "titel": "Die rätselhafte Uniform",
+              "start": 0,
+              "end": 544546
+            },
+            {
+              "titel": "Triumph der Logik",
+              "start": 0,
+              "end": 143306
+            },
+            {
+              "titel": "Der Hinterhalt",
+              "start": 0,
+              "end": 343320
+            },
+            {
+              "titel": "Die Maske fällt",
+              "start": 0,
+              "end": 564640
+            },
+            {
+              "titel": "Zurück in der Gegenwart",
+              "start": 0,
+              "end": 179920
+            }
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Start in den Traumurlaub",
+          "duration": 219400,
+          "size": 23432429,
+          "filename": "01 - Start in den Traumurlaub.flac"
+        },
+        {
+          "title": "Unsanftes Erwachen",
+          "duration": 511640,
+          "size": 54949351,
+          "filename": "02 - Unsanftes Erwachen.flac"
+        },
+        {
+          "title": "Notlandung im Nirgendwo",
+          "duration": 209146,
+          "size": 21561255,
+          "filename": "03 - Notlandung im Nirgendwo.flac"
+        },
+        {
+          "title": "Das Bermuda-Dreieck",
+          "duration": 397146,
+          "size": 41790781,
+          "filename": "04 - Das Bermuda-Dreieck.flac"
+        },
+        {
+          "title": "Ein unheimliches Haus",
+          "duration": 271840,
+          "size": 27503896,
+          "filename": "05 - Ein unheimliches Haus.flac"
+        },
+        {
+          "title": "Schockierende Erkenntnis",
+          "duration": 313626,
+          "size": 32559354,
+          "filename": "06 - Schockierende Erkenntnis.flac"
+        },
+        {
+          "title": "Verschollen in der Zeit",
+          "duration": 181506,
+          "size": 19247175,
+          "filename": "07 - Verschollen in der Zeit.flac"
+        },
+        {
+          "title": "Flucht in den Dschungel",
+          "duration": 233773,
+          "size": 24568790,
+          "filename": "08 - Flucht in den Dschungel.flac"
+        },
+        {
+          "title": "Die rätselhafte Uniform",
+          "duration": 544546,
+          "size": 56509691,
+          "filename": "09 - Die rätselhafte Uniform.flac"
+        },
+        {
+          "title": "Triumph der Logik",
+          "duration": 143306,
+          "size": 14881880,
+          "filename": "10 - Triumph der Logik.flac"
+        },
+        {
+          "title": "Der Hinterhalt",
+          "duration": 343320,
+          "size": 35753820,
+          "filename": "11 - Der Hinterhalt.flac"
+        },
+        {
+          "title": "Die Maske fällt",
+          "duration": 564640,
+          "size": 60199567,
+          "filename": "12 - Die Maske fällt.flac"
+        },
+        {
+          "title": "Zurück in der Gegenwart",
+          "duration": 179920,
+          "size": 18941407,
+          "filename": "13 - Zurück in der Gegenwart.flac"
+        }
+      ]
+    },
+    {
+      "id": "D_4",
+      "nummer": 4,
+      "titel": "Zug um Zug",
+      "autor": "DiE DR3i",
+      "beschreibung": "Folge 4 der Serie Die dr3i.",
+      "gesamtdauer": 4747129,
+      "links": {
+        "cover": "covers/D_4.png"
+      },
+      "folder": "04 - Zug um Zug",
+      "medien": [
+        {
+          "tracks": [
+            {
+              "titel": "Der gelöste Kriminalfall",
+              "start": 0,
+              "end": 234066
+            },
+            {
+              "titel": "Neue Spuren?",
+              "start": 0,
+              "end": 459786
+            },
+            {
+              "titel": "Besuch bei Mr. Walker",
+              "start": 0,
+              "end": 695920
+            },
+            {
+              "titel": "Ein leeres Blatt Papier",
+              "start": 0,
+              "end": 330853
+            },
+            {
+              "titel": "Der alte Bahnhofsvorsteher",
+              "start": 0,
+              "end": 713560
+            },
+            {
+              "titel": "Unter den Gleisen",
+              "start": 0,
+              "end": 390533
+            },
+            {
+              "titel": "Der unbekannte Sohn",
+              "start": 0,
+              "end": 459173
+            },
+            {
+              "titel": "CC-DC-DC-OA 14, AAH-CI-CA-EC 23",
+              "start": 0,
+              "end": 306746
+            },
+            {
+              "titel": "Doc Brown",
+              "start": 0,
+              "end": 382253
+            },
+            {
+              "titel": "Lebenslänglich für drei Detektive",
+              "start": 0,
+              "end": 324973
+            },
+            {
+              "titel": "Jeden Tag eine gute Tat",
+              "start": 0,
+              "end": 449266
+            }
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Der gelöste Kriminalfall",
+          "duration": 234066,
+          "size": 30610580,
+          "filename": "01 - Der gelöste Kriminalfall.flac"
+        },
+        {
+          "title": "Neue Spuren?",
+          "duration": 459786,
+          "size": 50891132,
+          "filename": "02 - Neue Spuren.flac"
+        },
+        {
+          "title": "Besuch bei Mr. Walker",
+          "duration": 695920,
+          "size": 74866057,
+          "filename": "03 - Besuch bei Mr. Walker.flac"
+        },
+        {
+          "title": "Ein leeres Blatt Papier",
+          "duration": 330853,
+          "size": 38287626,
+          "filename": "04 - Ein leeres Blatt Papier.flac"
+        },
+        {
+          "title": "Der alte Bahnhofsvorsteher",
+          "duration": 713560,
+          "size": 76874716,
+          "filename": "05 - Der alte Bahnhofsvorsteher.flac"
+        },
+        {
+          "title": "Unter den Gleisen",
+          "duration": 390533,
+          "size": 44622786,
+          "filename": "06 - Unter den Gleisen.flac"
+        },
+        {
+          "title": "Der unbekannte Sohn",
+          "duration": 459173,
+          "size": 50964587,
+          "filename": "07 - Der unbekannte Sohn.flac"
+        },
+        {
+          "title": "CC-DC-DC-OA 14, AAH-CI-CA-EC 23",
+          "duration": 306746,
+          "size": 35635508,
+          "filename": "08 - CC-DC-DC-OA 14, AAH-CI-CA-EC 23.flac"
+        },
+        {
+          "title": "Doc Brown",
+          "duration": 382253,
+          "size": 42985297,
+          "filename": "09 - Doc Brown.flac"
+        },
+        {
+          "title": "Lebenslänglich für drei Detektive",
+          "duration": 324973,
+          "size": 38236249,
+          "filename": "10 - Lebenslänglich für drei Detektive.flac"
+        },
+        {
+          "title": "Jeden Tag eine gute Tat",
+          "duration": 449266,
+          "size": 49867765,
+          "filename": "11 - Jeden Tag eine gute Tat.flac"
+        }
+      ]
+    },
+    {
+      "id": "D_5",
+      "nummer": 5,
+      "titel": "Das Haus Der 1.000 Rätsel",
+      "autor": "DiE DR3i",
+      "beschreibung": "Folge 5 der Serie Die dr3i.",
+      "gesamtdauer": 4409515,
+      "links": {
+        "cover": "covers/D_5.png"
+      },
+      "folder": "05 - Das Haus Der 1.000 Rätsel",
+      "medien": [
+        {
+          "tracks": [
+            {
+              "titel": "Ein Star braucht Hilfe",
+              "start": 0,
+              "end": 232866
+            },
+            {
+              "titel": "Gürtel, Karte, Taste",
+              "start": 0,
+              "end": 368373
+            },
+            {
+              "titel": "Die Fährte nach Marokko",
+              "start": 0,
+              "end": 630933
+            },
+            {
+              "titel": "Eine legendäre Bar",
+              "start": 0,
+              "end": 488093
+            },
+            {
+              "titel": "Der rätselhafte Drink",
+              "start": 0,
+              "end": 497053
+            },
+            {
+              "titel": "Salon Moskva",
+              "start": 0,
+              "end": 452253
+            },
+            {
+              "titel": "Mademoiselle Nadine",
+              "start": 0,
+              "end": 345933
+            },
+            {
+              "titel": "Bobs Frisuren-Trauma",
+              "start": 0,
+              "end": 323466
+            },
+            {
+              "titel": "Smith & Wesson weisen den Weg",
+              "start": 0,
+              "end": 248266
+            },
+            {
+              "titel": "Showdown in der Finsternis",
+              "start": 0,
+              "end": 284333
+            },
+            {
+              "titel": "Lektion für den Meisterdetektiv",
+              "start": 0,
+              "end": 537946
+            }
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Ein Star braucht Hilfe",
+          "duration": 232866,
+          "size": 29817773,
+          "filename": "01 - Ein Star braucht Hilfe.flac"
+        },
+        {
+          "title": "Gürtel, Karte, Taste",
+          "duration": 368373,
+          "size": 42287138,
+          "filename": "02 - Gürtel, Karte, Taste.flac"
+        },
+        {
+          "title": "Die Fährte nach Marokko",
+          "duration": 630933,
+          "size": 69209226,
+          "filename": "03 - Die Fährte nach Marokko.flac"
+        },
+        {
+          "title": "Eine legendäre Bar",
+          "duration": 488093,
+          "size": 55003560,
+          "filename": "04 - Eine legendäre Bar.flac"
+        },
+        {
+          "title": "Der rätselhafte Drink",
+          "duration": 497053,
+          "size": 55432817,
+          "filename": "05 - Der rätselhafte Drink.flac"
+        },
+        {
+          "title": "Salon Moskva",
+          "duration": 452253,
+          "size": 50969110,
+          "filename": "06 - Salon Moskva.flac"
+        },
+        {
+          "title": "Mademoiselle Nadine",
+          "duration": 345933,
+          "size": 41028294,
+          "filename": "07 - Mademoiselle Nadine.flac"
+        },
+        {
+          "title": "Bobs Frisuren-Trauma",
+          "duration": 323466,
+          "size": 38703832,
+          "filename": "08 - Bobs Frisuren-Trauma.flac"
+        },
+        {
+          "title": "Smith & Wesson weisen den Weg",
+          "duration": 248266,
+          "size": 30440307,
+          "filename": "09 - Smith & Wesson weisen den Weg.flac"
+        },
+        {
+          "title": "Showdown in der Finsternis",
+          "duration": 284333,
+          "size": 33972668,
+          "filename": "10 - Showdown in der Finsternis.flac"
+        },
+        {
+          "title": "Lektion für den Meisterdetektiv",
+          "duration": 537946,
+          "size": 61350194,
+          "filename": "11 - Lektion für den Meisterdetektiv.flac"
+        }
+      ]
+    },
+    {
+      "id": "D_6",
+      "nummer": 6,
+      "titel": "Tödliche Regie",
+      "autor": "DiE DR3i",
+      "beschreibung": "Folge 6 der Serie Die dr3i.",
+      "gesamtdauer": 3924758,
+      "links": {
+        "cover": "covers/D_6.png"
+      },
+      "folder": "06 - Tödliche Regie",
+      "medien": [
+        {
+          "tracks": [
+            {
+              "titel": "Gewonnen!",
+              "start": 0,
+              "end": 231600
+            },
+            {
+              "titel": "Attentat",
+              "start": 0,
+              "end": 659973
+            },
+            {
+              "titel": "Kreidebleich",
+              "start": 0,
+              "end": 143933
+            },
+            {
+              "titel": "Spiegel der Seele",
+              "start": 0,
+              "end": 526040
+            },
+            {
+              "titel": "Attacke",
+              "start": 0,
+              "end": 173493
+            },
+            {
+              "titel": "Vollgas",
+              "start": 0,
+              "end": 704560
+            },
+            {
+              "titel": "Gage",
+              "start": 0,
+              "end": 134120
+            },
+            {
+              "titel": "Überwacht",
+              "start": 0,
+              "end": 157333
+            },
+            {
+              "titel": "Verhaftet",
+              "start": 0,
+              "end": 209973
+            },
+            {
+              "titel": "Endspiel",
+              "start": 0,
+              "end": 983733
+            }
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Gewonnen!",
+          "duration": 231600,
+          "size": 29438808,
+          "filename": "01 - Gewonnen!.flac"
+        },
+        {
+          "title": "Attentat",
+          "duration": 659973,
+          "size": 71912374,
+          "filename": "02 - Attentat.flac"
+        },
+        {
+          "title": "Kreidebleich",
+          "duration": 143933,
+          "size": 20100900,
+          "filename": "03 - Kreidebleich.flac"
+        },
+        {
+          "title": "Spiegel der Seele",
+          "duration": 526040,
+          "size": 55775935,
+          "filename": "04 - Spiegel der Seele.flac"
+        },
+        {
+          "title": "Attacke",
+          "duration": 173493,
+          "size": 22746858,
+          "filename": "05 - Attacke.flac"
+        },
+        {
+          "title": "Vollgas",
+          "duration": 704560,
+          "size": 75533606,
+          "filename": "06 - Vollgas.flac"
+        },
+        {
+          "title": "Gage",
+          "duration": 134120,
+          "size": 17890331,
+          "filename": "07 - Gage.flac"
+        },
+        {
+          "title": "Überwacht",
+          "duration": 157333,
+          "size": 21242350,
+          "filename": "08 - Überwacht.flac"
+        },
+        {
+          "title": "Verhaftet",
+          "duration": 209973,
+          "size": 26582220,
+          "filename": "09 - Verhaftet.flac"
+        },
+        {
+          "title": "Endspiel",
+          "duration": 983733,
+          "size": 104250585,
+          "filename": "10 - Endspiel.flac"
+        }
+      ]
+    },
+    {
+      "id": "D_7",
+      "nummer": 7,
+      "titel": "und der Kopflose Reiter",
+      "autor": "DiE DR3i",
+      "beschreibung": "Folge 7 der Serie Die dr3i.",
+      "gesamtdauer": 3920917,
+      "links": {
+        "cover": "covers/D_7.png"
+      },
+      "folder": "07 - und der Kopflose Reiter",
+      "medien": [
+        {
+          "tracks": [
+            {
+              "titel": "Nebel",
+              "start": 0,
+              "end": 387346
+            },
+            {
+              "titel": "Ashoona",
+              "start": 0,
+              "end": 390173
+            },
+            {
+              "titel": "Geisterstunde",
+              "start": 0,
+              "end": 481946
+            },
+            {
+              "titel": "Erdbeben",
+              "start": 0,
+              "end": 409000
+            },
+            {
+              "titel": "Treffen im Wald",
+              "start": 0,
+              "end": 429666
+            },
+            {
+              "titel": "Fehlende Seiten",
+              "start": 0,
+              "end": 605040
+            },
+            {
+              "titel": "Im Filmstudio",
+              "start": 0,
+              "end": 311306
+            },
+            {
+              "titel": "Der Plan",
+              "start": 0,
+              "end": 287160
+            },
+            {
+              "titel": "Explosion",
+              "start": 0,
+              "end": 422800
+            },
+            {
+              "titel": "Ashoonas Schatz",
+              "start": 0,
+              "end": 196480
+            }
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Nebel",
+          "duration": 387346,
+          "size": 47087538,
+          "filename": "01 - Nebel.flac"
+        },
+        {
+          "title": "Ashoona",
+          "duration": 390173,
+          "size": 45901335,
+          "filename": "02 - Ashoona.flac"
+        },
+        {
+          "title": "Geisterstunde",
+          "duration": 481946,
+          "size": 55923613,
+          "filename": "03 - Geisterstunde.flac"
+        },
+        {
+          "title": "Erdbeben",
+          "duration": 409000,
+          "size": 47384602,
+          "filename": "04 - Erdbeben.flac"
+        },
+        {
+          "title": "Treffen im Wald",
+          "duration": 429666,
+          "size": 51752251,
+          "filename": "05 - Treffen im Wald.flac"
+        },
+        {
+          "title": "Fehlende Seiten",
+          "duration": 605040,
+          "size": 67218552,
+          "filename": "06 - Fehlende Seiten.flac"
+        },
+        {
+          "title": "Im Filmstudio",
+          "duration": 311306,
+          "size": 37144168,
+          "filename": "07 - Im Filmstudio.flac"
+        },
+        {
+          "title": "Der Plan",
+          "duration": 287160,
+          "size": 35725762,
+          "filename": "08 - Der Plan.flac"
+        },
+        {
+          "title": "Explosion",
+          "duration": 422800,
+          "size": 48918984,
+          "filename": "09 - Explosion.flac"
+        },
+        {
+          "title": "Ashoonas Schatz",
+          "duration": 196480,
+          "size": 25744096,
+          "filename": "10 - Ashoonas Schatz.flac"
+        }
+      ]
+    },
+    {
+      "id": "D_8",
+      "nummer": 8,
+      "titel": "Der Jahrhundertstein",
+      "autor": "DiE DR3i",
+      "beschreibung": "Folge 8 der Serie Die dr3i.",
+      "gesamtdauer": 4625357,
+      "links": {
+        "cover": "covers/D_8.png"
+      },
+      "folder": "08 - Der Jahrhundertstein",
+      "medien": [
+        {
+          "tracks": [
+            {
+              "titel": "Nächtliche Begegnung",
+              "start": 0,
+              "end": 413426
+            },
+            {
+              "titel": "Ein Geist in der Zentrale",
+              "start": 0,
+              "end": 581600
+            },
+            {
+              "titel": "Gut versichert!",
+              "start": 0,
+              "end": 701093
+            },
+            {
+              "titel": "Les Centuries",
+              "start": 0,
+              "end": 669160
+            },
+            {
+              "titel": "Dunkle Vorahnung",
+              "start": 0,
+              "end": 576706
+            },
+            {
+              "titel": "Ausgetrickst",
+              "start": 0,
+              "end": 676306
+            },
+            {
+              "titel": "Erklärungen",
+              "start": 0,
+              "end": 388826
+            },
+            {
+              "titel": "Blick in die Zukunft",
+              "start": 0,
+              "end": 618240
+            }
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Nächtliche Begegnung",
+          "duration": 413426,
+          "size": 49087490,
+          "filename": "01 - Nächtliche Begegnung.flac"
+        },
+        {
+          "title": "Ein Geist in der Zentrale",
+          "duration": 581600,
+          "size": 62802230,
+          "filename": "02 - Ein Geist in der Zentrale.flac"
+        },
+        {
+          "title": "Gut versichert!",
+          "duration": 701093,
+          "size": 75276083,
+          "filename": "03 - Gut versichert!.flac"
+        },
+        {
+          "title": "Les Centuries",
+          "duration": 669160,
+          "size": 70802270,
+          "filename": "04 - Les Centuries.flac"
+        },
+        {
+          "title": "Dunkle Vorahnung",
+          "duration": 576706,
+          "size": 62350017,
+          "filename": "05 - Dunkle Vorahnung.flac"
+        },
+        {
+          "title": "Ausgetrickst",
+          "duration": 676306,
+          "size": 73711575,
+          "filename": "06 - Ausgetrickst.flac"
+        },
+        {
+          "title": "Erklärungen",
+          "duration": 388826,
+          "size": 44904299,
+          "filename": "07 - Erklärungen.flac"
+        },
+        {
+          "title": "Blick in die Zukunft",
+          "duration": 618240,
+          "size": 67673799,
+          "filename": "08 - Blick in die Zukunft.flac"
+        }
+      ]
+    },
+    {
+      "id": "D_9",
+      "nummer": 9,
+      "titel": "Hotel Luxury End",
+      "autor": "DiE DR3i",
+      "beschreibung": "Folge 9 der Serie Die dr3i.",
+      "gesamtdauer": 9130382,
+      "links": {
+        "cover": "covers/D_9.jpg"
+      },
+      "folder": "Bonus - Hotel Luxury End",
+      "medien": [
+        {
+          "tracks": [
+            {
+              "titel": "Intro",
+              "start": 0,
+              "end": 118600
+            },
+            {
+              "titel": "Ankunft Hotel",
+              "start": 0,
+              "end": 511546
+            },
+            {
+              "titel": "Entscheidung: Zimmer Oder Restaurant",
+              "start": 0,
+              "end": 60586
+            },
+            {
+              "titel": "Restaurant",
+              "start": 0,
+              "end": 242013
+            },
+            {
+              "titel": "Entscheidung: Gästebuch Oder Sachen Holen",
+              "start": 0,
+              "end": 91546
+            },
+            {
+              "titel": "Gästebuch",
+              "start": 0,
+              "end": 142213
+            },
+            {
+              "titel": "Entscheidung: Zimmer 113 Oder Sachen Holen",
+              "start": 0,
+              "end": 66786
+            },
+            {
+              "titel": "Zimmer 113",
+              "start": 0,
+              "end": 225226
+            },
+            {
+              "titel": "Entscheidung: Verstecken Oder Polizei",
+              "start": 0,
+              "end": 65066
+            },
+            {
+              "titel": "Verstecken",
+              "start": 0,
+              "end": 193373
+            },
+            {
+              "titel": "Polizei",
+              "start": 0,
+              "end": 200200
+            },
+            {
+              "titel": "Flucht",
+              "start": 0,
+              "end": 274093
+            },
+            {
+              "titel": "Entscheidung: Laufen Oder Ausleihen",
+              "start": 0,
+              "end": 48533
+            },
+            {
+              "titel": "Laufen",
+              "start": 0,
+              "end": 222586
+            },
+            {
+              "titel": "Ausleihen",
+              "start": 0,
+              "end": 296640
+            },
+            {
+              "titel": "Sachen Holen",
+              "start": 0,
+              "end": 208853
+            },
+            {
+              "titel": "Entscheidung: 7. Stock Oder Zimmer",
+              "start": 0,
+              "end": 62000
+            },
+            {
+              "titel": "7. Stock",
+              "start": 0,
+              "end": 77506
+            },
+            {
+              "titel": "Entscheidung: Hilferuf Oder Autoschlüssel",
+              "start": 0,
+              "end": 62160
+            },
+            {
+              "titel": "Hilferuf",
+              "start": 0,
+              "end": 317306
+            },
+            {
+              "titel": "Autoschlüssel",
+              "start": 0,
+              "end": 208133
+            },
+            {
+              "titel": "Zimmer",
+              "start": 0,
+              "end": 385386
+            },
+            {
+              "titel": "Entscheidung: Wecken Oder KO Schlagen",
+              "start": 0,
+              "end": 99186
+            },
+            {
+              "titel": "Wecken",
+              "start": 0,
+              "end": 459320
+            },
+            {
+              "titel": "KO Schlagen",
+              "start": 0,
+              "end": 189453
+            },
+            {
+              "titel": "Intro",
+              "start": 0,
+              "end": 127746
+            },
+            {
+              "titel": "Ankunft Hotel",
+              "start": 0,
+              "end": 553200
+            },
+            {
+              "titel": "Entscheidung: Zimmer Oder Restaurant",
+              "start": 0,
+              "end": 63760
+            },
+            {
+              "titel": "Zimmer",
+              "start": 0,
+              "end": 188253
+            },
+            {
+              "titel": "Entscheidung: Tür Offen Oder Klimaanlage",
+              "start": 0,
+              "end": 74800
+            },
+            {
+              "titel": "Tür Offen",
+              "start": 0,
+              "end": 157573
+            },
+            {
+              "titel": "Entscheidung: Tür Schliessen Oder Flur",
+              "start": 0,
+              "end": 46493
+            },
+            {
+              "titel": "Tür Schliessen",
+              "start": 0,
+              "end": 200293
+            },
+            {
+              "titel": "Entscheidung: Mr. Stanley Oder Auto Holen",
+              "start": 0,
+              "end": 45400
+            },
+            {
+              "titel": "Mr. Stanley",
+              "start": 0,
+              "end": 237413
+            },
+            {
+              "titel": "Auto Holen",
+              "start": 0,
+              "end": 220280
+            },
+            {
+              "titel": "Flur",
+              "start": 0,
+              "end": 146013
+            },
+            {
+              "titel": "Entscheidung: Flucht Oder Ausrede",
+              "start": 0,
+              "end": 43120
+            },
+            {
+              "titel": "Flucht",
+              "start": 0,
+              "end": 250333
+            },
+            {
+              "titel": "Ausrede",
+              "start": 0,
+              "end": 223586
+            },
+            {
+              "titel": "Klimaanlage",
+              "start": 0,
+              "end": 286173
+            },
+            {
+              "titel": "Entscheidung: Annehmen Oder Ablehnen",
+              "start": 0,
+              "end": 52066
+            },
+            {
+              "titel": "Annehmen",
+              "start": 0,
+              "end": 137666
+            },
+            {
+              "titel": "Entscheidung: Essen Oder Auflegen",
+              "start": 0,
+              "end": 73346
+            },
+            {
+              "titel": "Essen",
+              "start": 0,
+              "end": 187880
+            },
+            {
+              "titel": "Auflegen",
+              "start": 0,
+              "end": 287906
+            },
+            {
+              "titel": "Ablehnen",
+              "start": 0,
+              "end": 118400
+            },
+            {
+              "titel": "Entscheidung: Befreien Oder Fragen Stellen",
+              "start": 0,
+              "end": 84306
+            },
+            {
+              "titel": "Befreien",
+              "start": 0,
+              "end": 256106
+            },
+            {
+              "titel": "Fragen Stellen",
+              "start": 0,
+              "end": 239960
+            }
+          ]
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Intro",
+          "duration": 118600,
+          "size": 13101349,
+          "filename": "2-01 Intro.m4a"
+        },
+        {
+          "title": "Ankunft Hotel",
+          "duration": 511546,
+          "size": 52969026,
+          "filename": "2-02 Ankunft Hotel.m4a"
+        },
+        {
+          "title": "Entscheidung: Zimmer Oder Restaurant",
+          "duration": 60586,
+          "size": 5660151,
+          "filename": "2-03 Entscheidung_ Zimmer Oder Restaurant.m4a"
+        },
+        {
+          "title": "Restaurant",
+          "duration": 242013,
+          "size": 24167908,
+          "filename": "2-04 Restaurant.m4a"
+        },
+        {
+          "title": "Entscheidung: Gästebuch Oder Sachen Holen",
+          "duration": 91546,
+          "size": 8676360,
+          "filename": "2-05 Entscheidung_ Gästebuch Oder Sachen Holen.m4a"
+        },
+        {
+          "title": "Gästebuch",
+          "duration": 142213,
+          "size": 13740831,
+          "filename": "2-06 Gästebuch.m4a"
+        },
+        {
+          "title": "Entscheidung: Zimmer 113 Oder Sachen Holen",
+          "duration": 66786,
+          "size": 6169393,
+          "filename": "2-07 Entscheidung_ Zimmer 113 Oder Sachen Holen.m4a"
+        },
+        {
+          "title": "Zimmer 113",
+          "duration": 225226,
+          "size": 22188959,
+          "filename": "2-08 Zimmer 113.m4a"
+        },
+        {
+          "title": "Entscheidung: Verstecken Oder Polizei",
+          "duration": 65066,
+          "size": 6061376,
+          "filename": "2-09 Entscheidung_ Verstecken Oder Polizei.m4a"
+        },
+        {
+          "title": "Verstecken",
+          "duration": 193373,
+          "size": 18086847,
+          "filename": "2-10 Verstecken.m4a"
+        },
+        {
+          "title": "Polizei",
+          "duration": 200200,
+          "size": 18555059,
+          "filename": "2-11 Polizei.m4a"
+        },
+        {
+          "title": "Flucht",
+          "duration": 274093,
+          "size": 27041240,
+          "filename": "2-12 Flucht.m4a"
+        },
+        {
+          "title": "Entscheidung: Laufen Oder Ausleihen",
+          "duration": 48533,
+          "size": 4355726,
+          "filename": "2-13 Entscheidung_ Laufen Oder Ausleihen.m4a"
+        },
+        {
+          "title": "Laufen",
+          "duration": 222586,
+          "size": 21613049,
+          "filename": "2-14 Laufen.m4a"
+        },
+        {
+          "title": "Ausleihen",
+          "duration": 296640,
+          "size": 29344090,
+          "filename": "2-15 Ausleihen.m4a"
+        },
+        {
+          "title": "Sachen Holen",
+          "duration": 208853,
+          "size": 20239490,
+          "filename": "2-16 Sachen Holen.m4a"
+        },
+        {
+          "title": "Entscheidung: 7. Stock Oder Zimmer",
+          "duration": 62000,
+          "size": 5693715,
+          "filename": "2-17 Entscheidung_ 7. Stock Oder Zimmer.m4a"
+        },
+        {
+          "title": "7. Stock",
+          "duration": 77506,
+          "size": 8057208,
+          "filename": "2-18 7. Stock.m4a"
+        },
+        {
+          "title": "Entscheidung: Hilferuf Oder Autoschlüssel",
+          "duration": 62160,
+          "size": 5735825,
+          "filename": "2-19 Entscheidung_ Hilferuf Oder Autoschlüssel.m4a"
+        },
+        {
+          "title": "Hilferuf",
+          "duration": 317306,
+          "size": 31651226,
+          "filename": "2-20 Hilferuf.m4a"
+        },
+        {
+          "title": "Autoschlüssel",
+          "duration": 208133,
+          "size": 20534584,
+          "filename": "2-21 Autoschlüssel.m4a"
+        },
+        {
+          "title": "Zimmer",
+          "duration": 385386,
+          "size": 36570709,
+          "filename": "2-22 Zimmer.m4a"
+        },
+        {
+          "title": "Entscheidung: Wecken Oder KO Schlagen",
+          "duration": 99186,
+          "size": 9219773,
+          "filename": "2-23 Entscheidung_ Wecken Oder KO Schlagen.m4a"
+        },
+        {
+          "title": "Wecken",
+          "duration": 459320,
+          "size": 46743537,
+          "filename": "2-24 Wecken.m4a"
+        },
+        {
+          "title": "KO Schlagen",
+          "duration": 189453,
+          "size": 18223535,
+          "filename": "2-25 KO Schlagen.m4a"
+        },
+        {
+          "title": "Intro",
+          "duration": 127746,
+          "size": 14106824,
+          "filename": "1-01 Intro.m4a"
+        },
+        {
+          "title": "Ankunft Hotel",
+          "duration": 553200,
+          "size": 57204074,
+          "filename": "1-02 Ankunft Hotel.m4a"
+        },
+        {
+          "title": "Entscheidung: Zimmer Oder Restaurant",
+          "duration": 63760,
+          "size": 6009669,
+          "filename": "1-03 Entscheidung_ Zimmer Oder Restaurant.m4a"
+        },
+        {
+          "title": "Zimmer",
+          "duration": 188253,
+          "size": 19224817,
+          "filename": "1-04 Zimmer.m4a"
+        },
+        {
+          "title": "Entscheidung: Tür Offen Oder Klimaanlage",
+          "duration": 74800,
+          "size": 6849002,
+          "filename": "1-05 Entscheidung_ Tür Offen Oder Klimaanlage.m4a"
+        },
+        {
+          "title": "Tür Offen",
+          "duration": 157573,
+          "size": 15109781,
+          "filename": "1-06 Tür Offen.m4a"
+        },
+        {
+          "title": "Entscheidung: Tür Schliessen Oder Flur",
+          "duration": 46493,
+          "size": 4054529,
+          "filename": "1-07 Entscheidung_ Tür Schliessen Oder Flur.m4a"
+        },
+        {
+          "title": "Tür Schliessen",
+          "duration": 200293,
+          "size": 19285694,
+          "filename": "1-08 Tür Schliessen.m4a"
+        },
+        {
+          "title": "Entscheidung: Mr. Stanley Oder Auto Holen",
+          "duration": 45400,
+          "size": 3881257,
+          "filename": "1-09 Entscheidung_ Mr. Stanley Oder Auto Holen.m4a"
+        },
+        {
+          "title": "Mr. Stanley",
+          "duration": 237413,
+          "size": 23121709,
+          "filename": "1-10 Mr. Stanley.m4a"
+        },
+        {
+          "title": "Auto Holen",
+          "duration": 220280,
+          "size": 21299145,
+          "filename": "1-11 Auto Holen.m4a"
+        },
+        {
+          "title": "Flur",
+          "duration": 146013,
+          "size": 13975704,
+          "filename": "1-12 Flur.m4a"
+        },
+        {
+          "title": "Entscheidung: Flucht Oder Ausrede",
+          "duration": 43120,
+          "size": 3842573,
+          "filename": "1-13 Entscheidung_ Flucht Oder Ausrede.m4a"
+        },
+        {
+          "title": "Flucht",
+          "duration": 250333,
+          "size": 25127583,
+          "filename": "1-14 Flucht.m4a"
+        },
+        {
+          "title": "Ausrede",
+          "duration": 223586,
+          "size": 21313732,
+          "filename": "1-15 Ausrede.m4a"
+        },
+        {
+          "title": "Klimaanlage",
+          "duration": 286173,
+          "size": 28392692,
+          "filename": "1-16 Klimaanlage.m4a"
+        },
+        {
+          "title": "Entscheidung: Annehmen Oder Ablehnen",
+          "duration": 52066,
+          "size": 4640130,
+          "filename": "1-17 Entscheidung_ Annehmen Oder Ablehnen.m4a"
+        },
+        {
+          "title": "Annehmen",
+          "duration": 137666,
+          "size": 12712364,
+          "filename": "1-18 Annehmen.m4a"
+        },
+        {
+          "title": "Entscheidung: Essen Oder Auflegen",
+          "duration": 73346,
+          "size": 6634427,
+          "filename": "1-19 Entscheidung_ Essen Oder Auflegen.m4a"
+        },
+        {
+          "title": "Essen",
+          "duration": 187880,
+          "size": 17542887,
+          "filename": "1-20 Essen.m4a"
+        },
+        {
+          "title": "Auflegen",
+          "duration": 287906,
+          "size": 27385697,
+          "filename": "1-21 Auflegen.m4a"
+        },
+        {
+          "title": "Ablehnen",
+          "duration": 118400,
+          "size": 12581716,
+          "filename": "1-22 Ablehnen.m4a"
+        },
+        {
+          "title": "Entscheidung: Befreien Oder Fragen Stellen",
+          "duration": 84306,
+          "size": 7745351,
+          "filename": "1-23 Entscheidung_ Befreien Oder Fragen Stellen.m4a"
+        },
+        {
+          "title": "Befreien",
+          "duration": 256106,
+          "size": 25381348,
+          "filename": "1-24 Befreien.m4a"
+        },
+        {
+          "title": "Fragen Stellen",
+          "duration": 239960,
+          "size": 24184497,
+          "filename": "1-25 Fragen Stellen.m4a"
+        }
+      ]
+    }
+  ]
+}

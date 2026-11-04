@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="TKKG">
+  <meta name="theme-color" content="#09090b">
+  
+  <title>TKKG — Hörspielarchiv</title>
+  
+  <link rel="stylesheet" href="../assets/css/app.css">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23f4f4f6' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 18v-6a9 9 0 0 1 18 0v6'%3E%3C/path%3E%3Cpath d='M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z'%3E%3C/path%3E%3C/svg%3E">
+</head>
+<body>
+
+  <!-- Top Navigation -->
+  <header class="app-header">
+    <div class="header-inner">
+      <a href="../index.html" class="back-btn">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="19" y1="12" x2="5" y2="12"></line>
+          <polyline points="12 19 5 12 12 5"></polyline>
+        </svg>
+        <span>Übersicht</span>
+      </a>
+      <span class="brand-badge">TKKG</span>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="main-content">
+    
+    <!-- Show Header -->
+    <div class="show-header">
+      <img src="cover.jpg" alt="TKKG Cover" class="show-cover-thumb" onerror="this.src='../assets/img/fallback.jpg'">
+      <div class="show-meta">
+        <div class="pill-tag" style="background: rgba(234, 179, 8, 0.15); color: #facc15; margin-bottom: 8px;">
+          Bald verfügbar
+        </div>
+        <h1 class="show-title">TKKG</h1>
+        <p class="show-subtitle">
+          Tim, Karl, Klößchen und Gaby lösen gemeinsam spannende Kriminalfälle in der Millionenstadt.
+        </p>
+        <div class="show-stats">
+          <span class="pill-tag">Hörspielreihe</span>
+          <span class="pill-tag">Stefan Wolf / EUROPA</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Coming Soon Box -->
+    <div class="empty-state" style="background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 48px 24px; margin-top: 10px;">
+      <svg class="empty-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="10"></circle>
+        <polyline points="12 6 12 12 16 14"></polyline>
+      </svg>
+      <h2 class="empty-title">Folgen in Vorbereitung</h2>
+      <p class="empty-text">
+        Die Folgen dieser Serie werden derzeit kuratiert und für das Archiv vorbereitet. Schau bald wieder vorbei!
+      </p>
+      <div style="margin-top: 24px;">
+        <a href="../index.html" class="btn-primary" style="display: inline-flex; width: auto; padding: 10px 24px;">
+          Zurück zum Archiv
+        </a>
+      </div>
+    </div>
+
+  </main>
+
+</body>
+</html>

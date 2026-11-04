@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors & IDEs
+.vscode/
+.idea/
+
+# Tauri & Node artifacts
+node_modules/
+target/
+
+# Local backups
+*.old.html
+*.bak

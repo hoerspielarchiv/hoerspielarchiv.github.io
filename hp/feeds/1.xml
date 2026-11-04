@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:castbox="http://castbox.fm/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+    <channel>
+        <atom:link href="http://rss.castbox.fm/everest/a44b5d10c46748438ace4f41a060109d.xml" type="application/rss+xml" rel="self"/>
+        <copyright></copyright>
+        <link>https://castbox.fm/ch/2477025</link>
+        <language>de</language>
+
+        <title>1 - Harry Potter und der Stein der Weisen</title>
+        <description><![CDATA[Rufus Beck liest Band 1 von Harry Potter.
+
+Eigentlich hatte Harry geglaubt, er sei ein ganz normaler Junge. Zumindest bis zu seinem elften Geburtstag. Da erfährt er, dass er sich an der Schule für Hexerei und Zauberei einfinden soll. Und warum? Weil Harry ein Zauberer ist. Und so wird für Harry das erste Jahr in der Schule das spannendste, aufregendste und lustigste in seinem Leben. Er stürzt von einem Abenteuer in die nächste ungeheuerliche Geschichte, muss gegen Bestien, Mitschüler und Fabelwesen kämpfen. Da ist es gut, dass er schon Freunde gefunden hat, die ihm im Kampf gegen die dunklen Mächte zur Seite stehen.]]></description>
+        <castbox:uid>1acb5cb2eddc44d79e5aab6f3181fa53</castbox:uid>
+        <castbox:pid>2477025</castbox:pid>
+        <castbox:type></castbox:type>
+
+        <itunes:summary><![CDATA[Rufus Beck liest Band 1 von Harry Potter.
+
+Eigentlich hatte Harry geglaubt, er sei ein ganz normaler Junge. Zumindest bis zu seinem elften Geburtstag. Da erfährt er, dass er sich an der Schule für Hexerei und Zauberei einfinden soll. Und warum? Weil Harry ein Zauberer ist. Und so wird für Harry das erste Jahr in der Schule das spannendste, aufregendste und lustigste in seinem Leben. Er stürzt von einem Abenteuer in die nächste ungeheuerliche Geschichte, muss gegen Bestien, Mitschüler und Fabelwesen kämpfen. Da ist es gut, dass er schon Freunde gefunden hat, die ihm im Kampf gegen die dunklen Mächte zur Seite stehen.]]></itunes:summary>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:author>pidi</itunes:author>
+
+        <itunes:owner>
+            <itunes:email>bsrfgc2fgold@ewebrus.com</itunes:email>
+        </itunes:owner>
+
+        <itunes:image href="https://s3.castbox.fm/76/87/a0/5d475e4e26960a611ab49d4a4c.jpg"/>
+        <itunes:keywords>Education,Language Learning,Education for Kids</itunes:keywords>
+
+        
+        
+            
+        <itunes:category text="Education">
+             <itunes:category text="Language Learning"/>
+        </itunes:category>
+            
+        
+            
+        <itunes:category text="Education"/>
+            
+        
+            
+        <itunes:category text="Kids &amp; Family">
+             <itunes:category text="Education for Kids"/>
+        </itunes:category>
+            
+        
+        
+
+        <itunes:explicit>yes</itunes:explicit>
+
+        
+        <item>
+            <title>Der Mann mit den zwei Gesichtern</title>
+            <description><![CDATA[  Der Mann mit den zwei Gesichtern  ]]></description>
+            <content:encoded><![CDATA[  Der Mann mit den zwei Gesichtern  ]]></content:encoded>
+            <itunes:summary>Der Mann mit den zwei Gesichtern</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/4b/47/55/f467c64d7ab08d0bad8b107a94.mp3" type="audio/mp3" length="32934280"/>
+            <itunes:duration>00:45:40</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-8c09b33fdf85431594ceb79b6206f4f2</guid>
+            <pubDate>Tue, 26 Nov 2019 22:41:50 +0000</pubDate>
+            <castbox:tid>205435816</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Durch die Falltür</title>
+            <description><![CDATA[  Durch die Falltür  ]]></description>
+            <content:encoded><![CDATA[  Durch die Falltür  ]]></content:encoded>
+            <itunes:summary>Durch die Falltür</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/fd/1e/56/e6c7084d2abb95af2514b4f1c8.mp3" type="audio/mp3" length="32687879"/>
+            <itunes:duration>00:45:20</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-6f077f04c8374a1fa715513a4efb641c</guid>
+            <pubDate>Tue, 26 Nov 2019 22:37:01 +0000</pubDate>
+            <castbox:tid>205435012</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der verbotene Wald</title>
+            <description><![CDATA[  Der verbotene Wald  ]]></description>
+            <content:encoded><![CDATA[  Der verbotene Wald  ]]></content:encoded>
+            <itunes:summary>Der verbotene Wald</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/6e/2b/ac/ece3e44fd4823e9edaee513312.mp3" type="audio/mp3" length="28097120"/>
+            <itunes:duration>00:38:57</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-e6835c31be7349e69716dcd0e5103fec</guid>
+            <pubDate>Tue, 26 Nov 2019 22:32:45 +0000</pubDate>
+            <castbox:tid>205434753</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Norbert, der norwegische Stachelbuckel</title>
+            <description><![CDATA[  Norbert, der norwegische Stachelbuckel  ]]></description>
+            <content:encoded><![CDATA[  Norbert, der norwegische Stachelbuckel  ]]></content:encoded>
+            <itunes:summary>Norbert, der norwegische Stachelbuckel</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/0e/f3/62/da56304cef9143c686d6b8fd27.mp3" type="audio/mp3" length="18224735"/>
+            <itunes:duration>00:25:15</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-a2b730885a4346b4abe35a6d6860c0fe</guid>
+            <pubDate>Tue, 26 Nov 2019 22:28:49 +0000</pubDate>
+            <castbox:tid>205433998</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Nicolas Flamel</title>
+            <description><![CDATA[  Nicolas Flamel  ]]></description>
+            <content:encoded><![CDATA[  Nicolas Flamel  ]]></content:encoded>
+            <itunes:summary>Nicolas Flamel</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/6f/af/b7/9d325e4d3dba24acfa4780f62c.mp3" type="audio/mp3" length="16748583"/>
+            <itunes:duration>00:23:12</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-c800209df06d4848b35f821ce716eed5</guid>
+            <pubDate>Tue, 26 Nov 2019 22:26:52 +0000</pubDate>
+            <castbox:tid>205433717</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der Spiegel Nerhegeb</title>
+            <description><![CDATA[  Der Spiegel Nerhegeb  ]]></description>
+            <content:encoded><![CDATA[  Der Spiegel Nerhegeb  ]]></content:encoded>
+            <itunes:summary>Der Spiegel Nerhegeb</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/31/34/49/9cf2c04254a28c8bc580967d21.mp3" type="audio/mp3" length="29445353"/>
+            <itunes:duration>00:40:50</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-099ecee0ced04df18a29d5beef3b91af</guid>
+            <pubDate>Tue, 26 Nov 2019 22:24:12 +0000</pubDate>
+            <castbox:tid>205433353</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Quidditch</title>
+            <description><![CDATA[  Quidditch  ]]></description>
+            <content:encoded><![CDATA[  Quidditch  ]]></content:encoded>
+            <itunes:summary>Quidditch</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/4b/a9/9d/b735df4aa69c3d4c0701ba74a2.mp3" type="audio/mp3" length="16512536"/>
+            <itunes:duration>00:22:52</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-a4fb92f123354848a573492591b4120b</guid>
+            <pubDate>Tue, 26 Nov 2019 22:21:59 +0000</pubDate>
+            <castbox:tid>205433060</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Halloween</title>
+            <description><![CDATA[   Halloween  ]]></description>
+            <content:encoded><![CDATA[   Halloween  ]]></content:encoded>
+            <itunes:summary>Halloween</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/db/7c/42/7f47d64f139c06356a51484969.mp3" type="audio/mp3" length="21481966"/>
+            <itunes:duration>00:29:46</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-f1fc1048dc394339831c11a2d96c3db1</guid>
+            <pubDate>Tue, 26 Nov 2019 22:20:45 +0000</pubDate>
+            <castbox:tid>205432274</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Duell um Mitternacht</title>
+            <description><![CDATA[  Duell um Mitternacht  ]]></description>
+            <content:encoded><![CDATA[  Duell um Mitternacht  ]]></content:encoded>
+            <itunes:summary>Duell um Mitternacht</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/8e/2f/c7/d84678451d9b8c6f52bcd8ce79.mp3" type="audio/mp3" length="25198784"/>
+            <itunes:duration>00:34:56</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-8aad08e070b549d583911f4c88769583</guid>
+            <pubDate>Tue, 26 Nov 2019 22:18:44 +0000</pubDate>
+            <castbox:tid>205431451</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der Meister der Zaubertränke</title>
+            <description><![CDATA[  Der Meister der Zaubertränke  ]]></description>
+            <content:encoded><![CDATA[  Der Meister der Zaubertränke  ]]></content:encoded>
+            <itunes:summary>Der Meister der Zaubertränke</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/53/ef/2c/9937ca452f9ae66e4182e31ac7.mp3" type="audio/mp3" length="16332624"/>
+            <itunes:duration>00:22:37</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-d8431de767b8411bac64712cff83f6a4</guid>
+            <pubDate>Tue, 26 Nov 2019 22:13:42 +0000</pubDate>
+            <castbox:tid>205430238</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der sprechende Hut</title>
+            <description><![CDATA[  Der sprechende Hut  ]]></description>
+            <content:encoded><![CDATA[  Der sprechende Hut  ]]></content:encoded>
+            <itunes:summary>Der sprechende Hut</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/5a/c0/17/781ea443ada12f78abe3c372cf.mp3" type="audio/mp3" length="24432035"/>
+            <itunes:duration>00:33:52</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-caaeaa7d99d74bada5675fcfc5acecbd</guid>
+            <pubDate>Tue, 26 Nov 2019 22:11:26 +0000</pubDate>
+            <castbox:tid>205430026</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Abreise von Gleis neundreiviertel</title>
+            <description><![CDATA[  Abreise von Gleis neundreiviertel  ]]></description>
+            <content:encoded><![CDATA[  Abreise von Gleis neundreiviertel  ]]></content:encoded>
+            <itunes:summary>Abreise von Gleis neundreiviertel</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/bc/47/31/6956e245be8178b47fd84db023.mp3" type="audio/mp3" length="30920553"/>
+            <itunes:duration>00:42:53</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-8ec637e60ea843d7a07a6466f2068205</guid>
+            <pubDate>Tue, 26 Nov 2019 22:08:46 +0000</pubDate>
+            <castbox:tid>205429852</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>In der Winkelgasse</title>
+            <description><![CDATA[  In der Winkelgasse  ]]></description>
+            <content:encoded><![CDATA[  In der Winkelgasse  ]]></content:encoded>
+            <itunes:summary>In der Winkelgasse</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/8a/69/4a/9f95664c49bdd7fe3e9d5782cd.mp3" type="audio/mp3" length="36500920"/>
+            <itunes:duration>00:50:38</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-1d0f61475cab41ab83d1ef4d865663c3</guid>
+            <pubDate>Tue, 26 Nov 2019 22:07:07 +0000</pubDate>
+            <castbox:tid>205429559</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der Hüter der Schlüssel</title>
+            <description><![CDATA[  Der Hüter der Schlüssel  ]]></description>
+            <content:encoded><![CDATA[  Der Hüter der Schlüssel  ]]></content:encoded>
+            <itunes:summary>Der Hüter der Schlüssel</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/a9/01/fd/560106463fafc4b3dd448a608a.mp3" type="audio/mp3" length="21420542"/>
+            <itunes:duration>00:29:41</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-b1fc84cb84b24fee9066088428accccf</guid>
+            <pubDate>Tue, 26 Nov 2019 22:05:24 +0000</pubDate>
+            <castbox:tid>205429040</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Briefe von niemandem</title>
+            <description><![CDATA[  Briefe von niemandem  ]]></description>
+            <content:encoded><![CDATA[  Briefe von niemandem  ]]></content:encoded>
+            <itunes:summary>Briefe von niemandem</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/c0/b1/fd/2b1c52409098a0103146a87c84.mp3" type="audio/mp3" length="19931871"/>
+            <itunes:duration>00:27:37</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-f7352c560d614365903ffcc2a51aaca1</guid>
+            <pubDate>Tue, 26 Nov 2019 22:03:42 +0000</pubDate>
+            <castbox:tid>205428865</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Ein Fenster verschwindet</title>
+            <description><![CDATA[  Ein Fenster verschwindet  ]]></description>
+            <content:encoded><![CDATA[  Ein Fenster verschwindet  ]]></content:encoded>
+            <itunes:summary>Ein Fenster verschwindet</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/3a/a4/11/a2cc264561b6a6112704902e47.mp3" type="audio/mp3" length="17368009"/>
+            <itunes:duration>00:24:03</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-d469d1348da049958122659457296780</guid>
+            <pubDate>Tue, 26 Nov 2019 21:59:31 +0000</pubDate>
+            <castbox:tid>205428588</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Ein Junge überlebt</title>
+            <description><![CDATA[  Ein Junge überlebt  ]]></description>
+            <content:encoded><![CDATA[  Ein Junge überlebt  ]]></content:encoded>
+            <itunes:summary>Ein Junge überlebt</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/ec/22/04/e47701437e9273abb1e8f0ac52.mp3" type="audio/mp3" length="25202231"/>
+            <itunes:duration>00:34:56</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-82c454c3bb3249c684820d2d1e516176</guid>
+            <pubDate>Tue, 26 Nov 2019 21:56:42 +0000</pubDate>
+            <castbox:tid>205428248</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Ansage</title>
+            <description><![CDATA[  Ansage  ]]></description>
+            <content:encoded><![CDATA[  Ansage  ]]></content:encoded>
+            <itunes:summary>Ansage</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8e/7d/d9/aa050947598ccb19c05ed939ab.jpg"/>
+            <enclosure url="https://s3.castbox.fm/c9/cf/53/cf786d49618e2e8eb8035dc144.mp3" type="audio/mp3" length="302717"/>
+            <itunes:duration>00:00:21</itunes:duration>
+            <guid isPermaLink="false">album-a44b5d10c46748438ace4f41a060109d-46606fae1d13433cbc57f656f68087c8</guid>
+            <pubDate>Tue, 26 Nov 2019 21:52:56 +0000</pubDate>
+            <castbox:tid>205427865</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:castbox="http://castbox.fm/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     version="2.0">
+    <channel>
+        <atom:link href="http://rss.castbox.fm/everest/18ce28198fd8443a94b9e16e5b851a5d.xml" type="application/rss+xml" rel="self"/>
+        <copyright></copyright>
+        <link>https://castbox.fm/ch/2477166</link>
+        <language>de</language>
+
+        <title>2 - Harry Potter und die Kammer des Schreckens</title>
+        <description><![CDATA[Endlich wieder Schule!!! Einen solchen Seufzer kann nur der ausstoßen, dessen Ferien scheußlich und die Erinnerung an das vergangene Schuljahr wunderbar waren: Harry Potter. Doch wie im Vorjahr stehen nicht nur Zaubertrankunterricht und Verwandlung auf dem Programm. Ein grauenhaftes Etwas treibt sein Unwesen in den Gemäuern der Schule - ein Ungeheuer, für das nicht einmal die mächtigsten Zauberer eine Erklärung finden. Wird Harry mit Hilfe seiner Freunde Ron und Hermine das Rätsel lösen und Hogwarts von den dunklen Mächten befreien können?]]></description>
+        <castbox:uid>1acb5cb2eddc44d79e5aab6f3181fa53</castbox:uid>
+        <castbox:pid>2477166</castbox:pid>
+        <castbox:type></castbox:type>
+
+        <itunes:summary><![CDATA[Endlich wieder Schule!!! Einen solchen Seufzer kann nur der ausstoßen, dessen Ferien scheußlich und die Erinnerung an das vergangene Schuljahr wunderbar waren: Harry Potter. Doch wie im Vorjahr stehen nicht nur Zaubertrankunterricht und Verwandlung auf dem Programm. Ein grauenhaftes Etwas treibt sein Unwesen in den Gemäuern der Schule - ein Ungeheuer, für das nicht einmal die mächtigsten Zauberer eine Erklärung finden. Wird Harry mit Hilfe seiner Freunde Ron und Hermine das Rätsel lösen und Hogwarts von den dunklen Mächten befreien können?]]></itunes:summary>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:author>pidi</itunes:author>
+
+        <itunes:owner>
+            <itunes:email>bsrfgc2fgold@ewebrus.com</itunes:email>
+        </itunes:owner>
+
+        <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+        <itunes:keywords>Education,Education for Kids,Self-Improvement</itunes:keywords>
+
+        
+        
+            
+        <itunes:category text="Education"/>
+            
+        
+            
+        <itunes:category text="Kids &amp; Family">
+             <itunes:category text="Education for Kids"/>
+        </itunes:category>
+            
+        
+            
+        <itunes:category text="Education">
+             <itunes:category text="Self-Improvement"/>
+        </itunes:category>
+            
+        
+        
+
+        <itunes:explicit>yes</itunes:explicit>
+
+        
+        <item>
+            <title>Dobbys Belohnung</title>
+            <description><![CDATA[  Dobbys Belohnung  ]]></description>
+            <content:encoded><![CDATA[  Dobbys Belohnung  ]]></content:encoded>
+            <itunes:summary>Dobbys Belohnung</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/c0/b6/76/c0f2e14734a6e506b39bc928e4.mp3" type="audio/mp3" length="22671920"/>
+            <itunes:duration>00:31:26</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-c1dfa348670c41cfb160ffe8748f2b28</guid>
+            <pubDate>Wed, 27 Nov 2019 07:47:28 +0000</pubDate>
+            <castbox:tid>205548422</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der Erbe Slytherins</title>
+            <description><![CDATA[  Der Erbe Slytherins  ]]></description>
+            <content:encoded><![CDATA[  Der Erbe Slytherins  ]]></content:encoded>
+            <itunes:summary>Der Erbe Slytherins</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/f8/e8/3f/9e7a14449a90b0f05a13e77310.mp3" type="audio/mp3" length="35058039"/>
+            <itunes:duration>00:48:38</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-71c6bd5e26ff49deb148c4287b03707c</guid>
+            <pubDate>Wed, 27 Nov 2019 07:36:38 +0000</pubDate>
+            <castbox:tid>205546956</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Die Kammer des Schreckens</title>
+            <description><![CDATA[  Die Kammer des Schreckens  ]]></description>
+            <content:encoded><![CDATA[  Die Kammer des Schreckens  ]]></content:encoded>
+            <itunes:summary>Die Kammer des Schreckens</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/b1/39/30/72582b4d7eb27eb259e87fc9b9.mp3" type="audio/mp3" length="32285408"/>
+            <itunes:duration>00:44:47</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-441cf7ffe06e47a2b34b06150f3d53e0</guid>
+            <pubDate>Wed, 27 Nov 2019 07:33:05 +0000</pubDate>
+            <castbox:tid>205546430</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Aragog</title>
+            <description><![CDATA[  Aragog  ]]></description>
+            <content:encoded><![CDATA[  Aragog  ]]></content:encoded>
+            <itunes:summary>Aragog</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/35/eb/bd/cacb8442cfabdd97a44f1a0132.mp3" type="audio/mp3" length="28044775"/>
+            <itunes:duration>00:38:53</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-a4242af31e734d73963d9a28a0dd50c2</guid>
+            <pubDate>Wed, 27 Nov 2019 07:29:48 +0000</pubDate>
+            <castbox:tid>205545551</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Cornelius Fudge</title>
+            <description><![CDATA[  Cornelius Fudge  ]]></description>
+            <content:encoded><![CDATA[  Cornelius Fudge  ]]></content:encoded>
+            <itunes:summary>Cornelius Fudge</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/16/65/d2/ac2d814546bd9bc00d6f22009c.mp3" type="audio/mp3" length="23402929"/>
+            <itunes:duration>00:32:27</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-3f1b5967b2e34ff6ae81759ca7cc7d11</guid>
+            <pubDate>Wed, 27 Nov 2019 07:27:01 +0000</pubDate>
+            <castbox:tid>205545197</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der sehr geheime Taschenkalender</title>
+            <description><![CDATA[  Der sehr geheime Taschenkalender  ]]></description>
+            <content:encoded><![CDATA[  Der sehr geheime Taschenkalender  ]]></content:encoded>
+            <itunes:summary>Der sehr geheime Taschenkalender</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/01/43/5a/77b44743c19e9c39d7e0efceee.mp3" type="audio/mp3" length="32094199"/>
+            <itunes:duration>00:44:31</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-9e668db3a961485ca3f4362f4b55ab78</guid>
+            <pubDate>Wed, 27 Nov 2019 07:24:25 +0000</pubDate>
+            <castbox:tid>205544832</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der Vielsaft-Trank</title>
+            <description><![CDATA[  Der Vielsaft-Trank  ]]></description>
+            <content:encoded><![CDATA[  Der Vielsaft-Trank  ]]></content:encoded>
+            <itunes:summary>Der Vielsaft-Trank</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/13/4f/95/221d7942cf825238bfd8dbcdee.mp3" type="audio/mp3" length="30385463"/>
+            <itunes:duration>00:42:08</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-c12b9118208944028c7c90c8e69b281f</guid>
+            <pubDate>Wed, 27 Nov 2019 07:21:00 +0000</pubDate>
+            <castbox:tid>205544320</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der Duellierclub</title>
+            <description><![CDATA[  Der Duellierclub  ]]></description>
+            <content:encoded><![CDATA[  Der Duellierclub  ]]></content:encoded>
+            <itunes:summary>Der Duellierclub</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/00/81/f9/93b70d4adba99318df5f5f88b1.mp3" type="audio/mp3" length="32707642"/>
+            <itunes:duration>00:45:22</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-6c390f6ff1db4fe9beefe382710d009e</guid>
+            <pubDate>Wed, 27 Nov 2019 07:18:45 +0000</pubDate>
+            <castbox:tid>205544044</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der besessene Klatscher</title>
+            <description><![CDATA[  Der besessene Klatscher  ]]></description>
+            <content:encoded><![CDATA[  Der besessene Klatscher  ]]></content:encoded>
+            <itunes:summary>Der besessene Klatscher</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/76/ee/47/937c52460a843c4fa8096a08b2.mp3" type="audio/mp3" length="29209644"/>
+            <itunes:duration>00:40:30</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-7b1e46daf46b49e5a7537f0c56c90e16</guid>
+            <pubDate>Wed, 27 Nov 2019 07:16:11 +0000</pubDate>
+            <castbox:tid>205543764</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Die Schrift an der Wand</title>
+            <description><![CDATA[  Die Schrift an der Wand  ]]></description>
+            <content:encoded><![CDATA[  Die Schrift an der Wand  ]]></content:encoded>
+            <itunes:summary>Die Schrift an der Wand</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/5c/71/b5/93720042d5b56576f0d10c60c7.mp3" type="audio/mp3" length="29571701"/>
+            <itunes:duration>00:41:01</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-4b5e0e0dc7d542d1b0db43e615305a80</guid>
+            <pubDate>Wed, 27 Nov 2019 07:14:15 +0000</pubDate>
+            <castbox:tid>205543426</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Die Todestagsfeier</title>
+            <description><![CDATA[  Die Todestagsfeier  ]]></description>
+            <content:encoded><![CDATA[  Die Todestagsfeier  ]]></content:encoded>
+            <itunes:summary>Die Todestagsfeier</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/e1/92/23/59559440db97391d5354d758ad.mp3" type="audio/mp3" length="27311269"/>
+            <itunes:duration>00:37:52</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-ffc217fda3454a1ca11d41441213417c</guid>
+            <pubDate>Wed, 27 Nov 2019 07:10:55 +0000</pubDate>
+            <castbox:tid>205542748</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Die unheimliche Stimme</title>
+            <description><![CDATA[  Die unheimliche Stimme  ]]></description>
+            <content:encoded><![CDATA[  Die unheimliche Stimme  ]]></content:encoded>
+            <itunes:summary>Die unheimliche Stimme</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/13/3d/56/fc0a5346ef99703c4499674233.mp3" type="audio/mp3" length="24842701"/>
+            <itunes:duration>00:34:27</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-98066d69eb7d40f295aa38214d079cbc</guid>
+            <pubDate>Wed, 27 Nov 2019 07:08:13 +0000</pubDate>
+            <castbox:tid>205542295</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Gilderoy Lockhart</title>
+            <description><![CDATA[  Gilderoy Lockhart  ]]></description>
+            <content:encoded><![CDATA[  Gilderoy Lockhart  ]]></content:encoded>
+            <itunes:summary>Gilderoy Lockhart</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/42/8d/76/dfd4574666bec3bd3bb551bf3a.mp3" type="audio/mp3" length="24630477"/>
+            <itunes:duration>00:34:09</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-57143b89ff944536b350fe9f4d909b0a</guid>
+            <pubDate>Tue, 26 Nov 2019 23:20:21 +0000</pubDate>
+            <castbox:tid>205441063</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Die peitschende Weide</title>
+            <description><![CDATA[  Die peitschende Weide  ]]></description>
+            <content:encoded><![CDATA[  Die peitschende Weide  ]]></content:encoded>
+            <itunes:summary>Die peitschende Weide</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/ea/37/01/3d7d32420791697b8aa1f0bafc.mp3" type="audio/mp3" length="28987079"/>
+            <itunes:duration>00:40:12</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-512a60bb545246d99f0faca827283539</guid>
+            <pubDate>Tue, 26 Nov 2019 23:19:05 +0000</pubDate>
+            <castbox:tid>205440913</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Bei Flourish &amp; Blotts</title>
+            <description><![CDATA[  Bei Flourish & Blotts  ]]></description>
+            <content:encoded><![CDATA[  Bei Flourish & Blotts  ]]></content:encoded>
+            <itunes:summary>Bei Flourish &amp; Blotts</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/1e/40/87/a258674da08d1115ebdb2463f1.mp3" type="audio/mp3" length="30438129"/>
+            <itunes:duration>00:42:13</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-dcc8d7881ca84386af765ae5a43e9641</guid>
+            <pubDate>Tue, 26 Nov 2019 23:18:01 +0000</pubDate>
+            <castbox:tid>205440816</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Der Fuchsbau</title>
+            <description><![CDATA[  Der Fuchsbau  ]]></description>
+            <content:encoded><![CDATA[  Der Fuchsbau  ]]></content:encoded>
+            <itunes:summary>Der Fuchsbau</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/e0/f1/f7/967dbb40fea015ee315f28a39e.mp3" type="audio/mp3" length="22367537"/>
+            <itunes:duration>00:31:00</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-74a9da6a387f4ba297617551f0e0d902</guid>
+            <pubDate>Tue, 26 Nov 2019 23:15:01 +0000</pubDate>
+            <castbox:tid>205440082</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Dobbys Warnung</title>
+            <description><![CDATA[  Dobbys Warnung  ]]></description>
+            <content:encoded><![CDATA[  Dobbys Warnung  ]]></content:encoded>
+            <itunes:summary>Dobbys Warnung</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/56/83/dc/86869a45f980d6bd027345e6b2.mp3" type="audio/mp3" length="17994954"/>
+            <itunes:duration>00:24:56</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-cf53701662f6459794fbdde4a8e4907b</guid>
+            <pubDate>Tue, 26 Nov 2019 23:09:52 +0000</pubDate>
+            <castbox:tid>205439316</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Ein gräßlicher Geburtstag</title>
+            <description><![CDATA[  Ein gräßlicher Geburtstag  ]]></description>
+            <content:encoded><![CDATA[  Ein gräßlicher Geburtstag  ]]></content:encoded>
+            <itunes:summary>Ein gräßlicher Geburtstag</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/81/8a/d8/133cdc4d7eb98742c4e663c9fa.mp3" type="audio/mp3" length="14581286"/>
+            <itunes:duration>00:20:11</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-8b4440855b2f43d880c522829bc6a16b</guid>
+            <pubDate>Tue, 26 Nov 2019 23:04:04 +0000</pubDate>
+            <castbox:tid>205438362</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>yes</itunes:explicit>
+            
+        </item>
+        
+        <item>
+            <title>Ansage</title>
+            <description><![CDATA[  Ansage  ]]></description>
+            <content:encoded><![CDATA[  Ansage  ]]></content:encoded>
+            <itunes:summary>Ansage</itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/8d/a2/e9/3f2fc94d6aba7cec689501d030.jpg"/>
+            <enclosure url="https://s3.castbox.fm/dc/e0/ec/9335764a8b8ee0b9a135f19373.mp3" type="audio/mp3" length="292390"/>
+            <itunes:duration>00:00:21</itunes:duration>
+            <guid isPermaLink="false">album-18ce28198fd8443a94b9e16e5b851a5d-9c14c706e3a04b1081497daa47b56bc8</guid>
+            <pubDate>Tue, 26 Nov 2019 22:56:14 +0000</pubDate>
+            <castbox:tid>205437712</castbox:tid>
+            <castbox:episode_premium></castbox:episode_premium>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item>
+        
+    </channel>
+</rss>
