@@ -112,11 +112,10 @@
       </div>
     </div>
 
-    <!-- Category Selector (Hauptserie, Die dr3i, Specials) -->
+    <!-- Category Selector (Hauptserie, Die dr3i) -->
     <div class="pill-bar" id="categoryBar">
-      <button class="pill-btn active" data-cat="serie">Hauptserie (1–175+)</button>
+      <button class="pill-btn active" data-cat="serie">Hauptserie</button>
       <button class="pill-btn" data-cat="dr3i">Die dr3i (1–9)</button>
-      <button class="pill-btn" data-cat="specials">Specials (Sonderfolgen)</button>
     </div>
 
     <!-- Search Input -->
@@ -224,8 +223,7 @@
   <script>
     let datasets = {
       serie: [],
-      dr3i: [],
-      specials: []
+      dr3i: []
     };
 
     let currentCategory = 'serie';
@@ -355,37 +353,6 @@
         console.warn("Konnte dr3i Metadaten nicht laden:", e);
       }
 
-      // 3. Load Specials from specialsmetadata.json
-      try {
-        const res = await fetch('data/specials_episodes.json');
-        if (res.ok) {
-          datasets.specials = await res.json();
-        } else {
-          const rawRes = await fetch('specialsmetadata.json');
-          if (rawRes.ok) {
-            const data = await rawRes.json();
-            datasets.specials = (data.serie || []).map(s => ({
-              id: s.id,
-              cat: 'specials',
-              num: s.nummer,
-              numStr: s.id,
-              title: s.titel,
-              author: s.autor || 'Die drei ???',
-              cover: s.links?.cover || `covers/${s.id}.jpg`,
-              description: s.beschreibung || '',
-              trackCount: s.medien?.[0]?.tracks?.length || 1,
-              tracks: s.medien?.[0]?.tracks?.map((t, idx) => ({
-                num: idx + 1,
-                title: t.titel,
-                url: ''
-              })) || []
-            }));
-          }
-        }
-      } catch (e) {
-        console.warn("Konnte specials Metadaten nicht laden:", e);
-      }
-
       switchCategory('serie');
 
       // Check saved progress
@@ -408,21 +375,16 @@
       const countTag = document.getElementById('ddfCountTag');
       const sourceLink = document.getElementById('archiveSourceLink');
 
-      if (cat === 'serie') {
+      if (cat === 'dr3i') {
+        badge.textContent = `${currentList.length} Folgen`;
+        countTag.textContent = `Die dr3i (${currentList.length} Folgen)`;
+        sourceLink.href = "https://archive.org/details/die-dr3i-hoerspiele-herrgemmel";
+        mainShowCover.src = "covers/D_1.jpg";
+      } else {
         badge.textContent = `${currentList.length} Folgen`;
         countTag.textContent = `${currentList.length} Folgen (Archive.org)`;
         sourceLink.href = "https://archive.org/details/die-drei-fragezeichen";
         mainShowCover.src = "cover.png";
-      } else if (cat === 'dr3i') {
-        badge.textContent = `${currentList.length} Folgen`;
-        countTag.textContent = `Die dr3i (9 Folgen)`;
-        sourceLink.href = "https://archive.org/details/die-dr3i-hoerspiele-herrgemmel";
-        mainShowCover.src = "covers/D_1.jpg";
-      } else {
-        badge.textContent = `${currentList.length} Specials`;
-        countTag.textContent = `${currentList.length} Sonderfolgen`;
-        sourceLink.href = "https://archive.org/details/diedreifragezeichen";
-        mainShowCover.src = "covers/S_1.jpg";
       }
 
       renderList(filteredList);
@@ -558,7 +520,7 @@
       player.loadTrack(0, true);
     }
 
-    // Playback logic for multi-track episode (Die dr3i / Specials)
+    // Playback logic for multi-track episode (Die dr3i)
     function playEpisodeFromPart(ep, partIndex = 0) {
       activeEpisode = ep;
       activeQueue = ep.tracks.map((t, idx) => ({
