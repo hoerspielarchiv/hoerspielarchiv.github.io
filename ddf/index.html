@@ -274,25 +274,50 @@
     });
 
     async function init() {
-      // 1. Load Hauptserie (118 Archive.org full episodes)
+      // 1. Load dreimetadaten.json if present
+      let dreimetaMap = {};
+      try {
+        const dres = await fetch('dreimetadaten.json');
+        if (dres.ok) {
+          const dj = await dres.json();
+          if (dj.serie) {
+            dj.serie.forEach(m => { dreimetaMap[m.nummer] = m; });
+          }
+        }
+      } catch (e) {
+        console.warn("Konnte dreimetadaten.json nicht laden:", e);
+      }
+
+      // 1b. Load Hauptserie (118 Archive.org full episodes)
       try {
         const res = await fetch('data/episodes.json');
         if (res.ok) {
           const list = await res.json();
-          datasets.serie = list.map(ep => ({
-            id: `serie_${ep.num}`,
-            cat: 'serie',
-            num: ep.num,
-            numStr: ep.numStr,
-            title: ep.title,
-            cover: 'cover.png',
-            author: 'Die drei ???',
-            url: ep.url,
-            duration: ep.duration,
-            size: ep.size,
-            trackCount: 1,
-            tracks: [{ num: 1, title: ep.title, url: ep.url }]
-          }));
+          datasets.serie = list.map(ep => {
+            const meta = dreimetaMap[ep.num] || {};
+            let coverUrl = ep.cover;
+            if (!coverUrl && meta.links?.cover) {
+              coverUrl = meta.links.cover.replace('http://', 'https://');
+            }
+            if (!coverUrl) {
+              coverUrl = `https://dreimetadaten.de/data/Serie/${ep.numStr}/cover.png`;
+            }
+            return {
+              id: `serie_${ep.num}`,
+              cat: 'serie',
+              num: ep.num,
+              numStr: ep.numStr,
+              title: ep.title || meta.titel,
+              cover: coverUrl,
+              author: ep.author || meta.autor || 'Die drei ???',
+              url: ep.url,
+              duration: ep.duration,
+              size: ep.size,
+              description: ep.description || meta.gesamtbeschreibung || meta.beschreibung || '',
+              trackCount: 1,
+              tracks: [{ num: 1, title: ep.title || meta.titel, url: ep.url }]
+            };
+          });
         }
       } catch (e) {
         console.warn("Konnte data/episodes.json nicht laden:", e);
@@ -521,9 +546,9 @@
         id: ep.id,
         title: ep.title,
         episodeTitle: ep.title,
-        partTitle: `Folge ${ep.numStr} • Archive.org`,
+        partTitle: `Folge ${ep.numStr} • ${ep.author || 'Die drei ???'}`,
         url: ep.url,
-        artist: 'Die drei ???',
+        artist: ep.author || 'Die drei ???',
         album: `Folge ${ep.numStr}`,
         cover: ep.cover || 'cover.png'
       };

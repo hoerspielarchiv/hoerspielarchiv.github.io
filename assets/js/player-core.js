@@ -86,13 +86,15 @@ class ArchivAudioPlayer {
     if (!('mediaSession' in navigator)) return;
 
     const coverUrl = new URL(track.cover || this.defaultCover, window.location.href).href;
+    const ext = coverUrl.split('?')[0].split('#')[0].split('.').pop().toLowerCase();
+    const mime = ext === 'png' ? 'image/png' : (ext === 'webp' ? 'image/webp' : 'image/jpeg');
 
     navigator.mediaSession.metadata = new MediaMetadata({
       title: track.title || 'Unbekannte Folge',
       artist: track.artist || this.showName,
       album: track.album || this.showName,
       artwork: [
-        { src: coverUrl, sizes: '512x512', type: 'image/jpeg' }
+        { src: coverUrl, sizes: '512x512', type: mime }
       ]
     });
   }
