@@ -355,6 +355,31 @@
 
       switchCategory('serie');
 
+      // Check URL parameters for direct resume from history or link
+      const urlParams = new URLSearchParams(window.location.search);
+      const resumeUrl = urlParams.get('url');
+      const resumeTime = parseFloat(urlParams.get('time')) || 0;
+
+      if (resumeUrl) {
+        const allEpisodes = [...(datasets.serie || []), ...(datasets.dr3i || [])];
+        const foundEp = allEpisodes.find(ep => ep.url === resumeUrl || (ep.tracks && ep.tracks.some(t => t.url === resumeUrl)));
+        if (foundEp) {
+          if (foundEp.cat === 'dr3i') {
+            switchCategory('dr3i');
+          }
+          if (foundEp.tracks && foundEp.tracks.length > 1) {
+            const partIdx = foundEp.tracks.findIndex(t => t.url === resumeUrl);
+            playEpisodeFromPart(foundEp, partIdx >= 0 ? partIdx : 0);
+          } else {
+            playSingleEpisode(foundEp);
+          }
+          if (resumeTime > 0) {
+            player.seek(resumeTime);
+          }
+          return;
+        }
+      }
+
       // Check saved progress
       const saved = player.getSavedProgress();
       if (saved && saved.track) {

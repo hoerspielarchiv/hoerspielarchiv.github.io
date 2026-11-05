@@ -3,6 +3,8 @@
  * Optimiert für mobile WebApps, Hintergrundwiedergabe und MediaSession API
  */
 
+const FALLBACK_COVER_SVG = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2318181c'/%3E%3C/svg%3E";
+
 class ArchivAudioPlayer {
   constructor(options = {}) {
     this.storageKey = options.storageKey || 'archiv_last_played';
@@ -59,6 +61,8 @@ class ArchivAudioPlayer {
       this.onPlayStateChange(false);
       this.updateMediaSessionState();
       this.updateNowPlayingState(false);
+      this.saveProgress();
+      this.saveToHistory();
     });
 
     this.audio.addEventListener('timeupdate', () => {
@@ -70,6 +74,7 @@ class ArchivAudioPlayer {
     });
 
     this.audio.addEventListener('ended', () => {
+      this.saveToHistory();
       this.next();
     });
 
@@ -247,7 +252,12 @@ class ArchivAudioPlayer {
             <span class="np-label">Aktuelle Wiedergabe</span>
             <span class="np-show-name" id="npShowName">${this.showName}</span>
           </div>
-          <div class="np-header-placeholder"></div>
+          <button class="np-history-btn" id="npHistoryBtn" aria-label="Hörverlauf anzeigen" title="Hörverlauf">
+            <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"></circle>
+              <polyline points="12 6 12 12 16 14"></polyline>
+            </svg>
+          </button>
         </div>
 
         <div class="np-artwork-wrap">
@@ -329,6 +339,29 @@ class ArchivAudioPlayer {
               </div>
             </div>
           </div>
+        </div>
+
+        <!-- History Drawer inside Card -->
+        <div class="np-history-panel" id="npHistoryPanel" aria-hidden="true">
+          <div class="np-hist-header">
+            <div class="np-hist-title">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"></circle>
+                <polyline points="12 6 12 12 16 14"></polyline>
+              </svg>
+              <span>Hörverlauf</span>
+            </div>
+            <div class="np-hist-actions">
+              <button id="npClearHistBtn" class="np-hist-clear-btn" title="Verlauf leeren">Leeren</button>
+              <button id="npCloseHistBtn" class="np-hist-close-btn" title="Zurück zur Wiedergabe" aria-label="Schließen">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <line x1="18" y1="6" x2="6" y2="18"></line>
+                  <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+              </button>
+            </div>
+          </div>
+          <div class="np-hist-list" id="npHistList"></div>
         </div>
       </div>
     `;
@@ -505,6 +538,23 @@ class ArchivAudioPlayer {
       this.updateVolumeUI();
     });
 
+    // History drawer controls
+    const histBtn = document.getElementById('npHistoryBtn');
+    if (histBtn) {
+      histBtn.addEventListener('click', () => this.openHistoryPanel());
+    }
+    const closeHistBtn = document.getElementById('npCloseHistBtn');
+    if (closeHistBtn) {
+      closeHistBtn.addEventListener('click', () => this.closeHistoryPanel());
+    }
+    const clearHistBtn = document.getElementById('npClearHistBtn');
+    if (clearHistBtn) {
+      clearHistBtn.addEventListener('click', () => {
+        ArchivAudioPlayer.clearHistory();
+        this.renderNowPlayingHistory();
+      });
+    }
+
     this.updateSpeedUI(this.speed);
     this.updateVolumeUI();
     this.updateNextBtnState();
@@ -523,6 +573,9 @@ class ArchivAudioPlayer {
 
     if (this.currentIndex >= 0 && this.playlist[this.currentIndex]) {
       this.updateNowPlayingTrack(this.playlist[this.currentIndex]);
+    } else {
+      const coverEl = document.getElementById('npCover');
+      if (coverEl) coverEl.src = this.defaultCover;
     }
     this.updateNowPlayingState(this.isPlaying);
     this.updateNowPlayingTime(this.audio.currentTime, this.audio.duration);
@@ -540,6 +593,84 @@ class ArchivAudioPlayer {
     overlay.classList.remove('open');
     if (card) card.style.transform = '';
     document.body.style.overflow = '';
+    this.closeHistoryPanel();
+  }
+
+  openHistoryPanel() {
+    const panel = document.getElementById('npHistoryPanel');
+    if (!panel) return;
+    panel.classList.add('open');
+    panel.setAttribute('aria-hidden', 'false');
+    this.renderNowPlayingHistory();
+  }
+
+  closeHistoryPanel() {
+    const panel = document.getElementById('npHistoryPanel');
+    if (!panel) return;
+    panel.classList.remove('open');
+    panel.setAttribute('aria-hidden', 'true');
+  }
+
+  renderNowPlayingHistory() {
+    const container = document.getElementById('npHistList');
+    if (!container) return;
+    container.innerHTML = '';
+
+    const list = ArchivAudioPlayer.getHistory();
+    if (list.length === 0) {
+      container.innerHTML = `
+        <div class="np-hist-empty">
+          <div class="np-hist-empty-title">Kein Verlauf vorhanden</div>
+          <div class="np-hist-empty-desc">Deine angehörten Folgen erscheinen automatisch hier.</div>
+        </div>
+      `;
+      return;
+    }
+
+    const currentContext = ArchivAudioPlayer.getCurrentContext();
+
+    list.forEach(item => {
+      const el = document.createElement('div');
+      el.className = 'np-hist-item';
+      const coverSrc = ArchivAudioPlayer.resolveCoverPath(item.cover, item.showId, currentContext);
+      const resumeUrl = ArchivAudioPlayer.getResumeUrl(item);
+
+      el.innerHTML = `
+        <div class="np-hist-thumb-wrap">
+          <img src="${coverSrc}" class="np-hist-thumb" alt="" onerror="this.src='${FALLBACK_COVER_SVG}';">
+          <div class="np-hist-progress-bar">
+            <div class="np-hist-progress-fill" style="width: ${item.progressPct}%"></div>
+          </div>
+        </div>
+        <div class="np-hist-info">
+          <div class="np-hist-item-title" title="${item.title}">${item.title}</div>
+          <div class="np-hist-item-sub">${item.showName} • ${ArchivAudioPlayer.formatTimeAgo(item.timestamp)}</div>
+          <div class="np-hist-item-time">${ArchivAudioPlayer.formatTime(item.currentTime)} / ${ArchivAudioPlayer.formatTime(item.duration)} (${item.progressPct}%)</div>
+        </div>
+        <div class="np-hist-actions-right">
+          <a href="${resumeUrl}" class="np-hist-play-btn" title="Fortsetzen" aria-label="Fortsetzen">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
+              <polygon points="5 3 19 12 5 21 5 3"></polygon>
+            </svg>
+          </a>
+          <button class="np-hist-del-btn" data-url="${item.url}" title="Entfernen" aria-label="Entfernen">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+          </button>
+        </div>
+      `;
+
+      el.querySelector('.np-hist-del-btn').addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        ArchivAudioPlayer.removeFromHistory(item.url);
+        this.renderNowPlayingHistory();
+      });
+
+      container.appendChild(el);
+    });
   }
 
   updateNowPlayingTrack(track) {
@@ -615,13 +746,63 @@ class ArchivAudioPlayer {
 
   saveProgress() {
     if (this.currentIndex < 0) return;
+    const now = Date.now();
     try {
       const state = {
         index: this.currentIndex,
         time: this.audio.currentTime,
-        updatedAt: Date.now()
+        updatedAt: now
       };
       localStorage.setItem(this.storageKey, JSON.stringify(state));
+    } catch (e) {}
+
+    // Throttle history save to once every 4 seconds during active playback
+    if (!this._lastHistorySave || now - this._lastHistorySave > 4000) {
+      this._lastHistorySave = now;
+      this.saveToHistory();
+    }
+  }
+
+  saveToHistory() {
+    if (this.currentIndex < 0 || !this.playlist || !this.playlist[this.currentIndex]) return;
+    if (!this.audio.duration || this.audio.currentTime < 2) return;
+
+    try {
+      const track = this.playlist[this.currentIndex];
+      const cur = Math.floor(this.audio.currentTime);
+      const dur = Math.floor(this.audio.duration);
+      const pct = Math.min(100, Math.max(1, Math.round((cur / dur) * 100)));
+
+      let showId = 'ddf';
+      const loc = window.location.pathname.toLowerCase();
+      if (loc.includes('/hp') || this.showName.toLowerCase().includes('harry')) {
+        showId = 'hp';
+      } else if (loc.includes('/alf') || this.showName.toLowerCase().includes('alf')) {
+        showId = 'alf';
+      }
+
+      const item = {
+        id: track.url || `${showId}_${this.currentIndex}`,
+        showId: showId,
+        showName: this.showName,
+        title: track.episodeTitle || track.title || 'Unbekannte Folge',
+        subtitle: track.partTitle || track.bookTitle || track.album || track.artist || this.showName,
+        cover: track.cover || this.defaultCover || 'cover.jpg',
+        url: track.url,
+        currentTime: cur,
+        duration: dur,
+        progressPct: pct,
+        timestamp: Date.now(),
+        bandId: track.bandId || (typeof currentBandId !== 'undefined' ? currentBandId : null)
+      };
+
+      let history = ArchivAudioPlayer.getHistory();
+      history = history.filter(h => h.url !== item.url);
+      history.unshift(item);
+      if (history.length > 30) history = history.slice(0, 30);
+
+      localStorage.setItem('archiv_listening_history', JSON.stringify(history));
+      window.dispatchEvent(new CustomEvent('archiv_history_updated', { detail: history }));
     } catch (e) {}
   }
 
@@ -631,6 +812,95 @@ class ArchivAudioPlayer {
       return data ? JSON.parse(data) : null;
     } catch (e) {
       return null;
+    }
+  }
+
+  static getHistory() {
+    try {
+      const data = localStorage.getItem('archiv_listening_history');
+      if (data) {
+        const parsed = JSON.parse(data);
+        if (Array.isArray(parsed)) return parsed;
+      }
+    } catch (_) {}
+    return [];
+  }
+
+  static removeFromHistory(url) {
+    try {
+      let list = ArchivAudioPlayer.getHistory();
+      list = list.filter(item => item.url !== url);
+      localStorage.setItem('archiv_listening_history', JSON.stringify(list));
+      window.dispatchEvent(new CustomEvent('archiv_history_updated', { detail: list }));
+      return list;
+    } catch (_) {
+      return [];
+    }
+  }
+
+  static clearHistory() {
+    try {
+      localStorage.removeItem('archiv_listening_history');
+      window.dispatchEvent(new CustomEvent('archiv_history_updated', { detail: [] }));
+    } catch (_) {}
+  }
+
+  static formatTimeAgo(timestamp) {
+    if (!timestamp) return '';
+    const diff = Math.floor((Date.now() - timestamp) / 1000);
+    if (diff < 60) return 'Gerade eben';
+    const mins = Math.floor(diff / 60);
+    if (mins < 60) return `vor ${mins} Min.`;
+    const hours = Math.floor(mins / 60);
+    if (hours < 24) return `vor ${hours} Std.`;
+    const days = Math.floor(hours / 24);
+    if (days === 1) return 'Gestern';
+    if (days < 7) return `vor ${days} Tagen`;
+    const d = new Date(timestamp);
+    return `${d.getDate().toString().padStart(2, '0')}.${(d.getMonth() + 1).toString().padStart(2, '0')}.`;
+  }
+
+  static getCurrentContext() {
+    const p = window.location.pathname.toLowerCase();
+    if (p.includes('/hp')) return 'hp';
+    if (p.includes('/ddf')) return 'ddf';
+    if (p.includes('/alf')) return 'alf';
+    return 'root';
+  }
+
+  static resolveCoverPath(cover, showId, context = 'root') {
+    if (!cover) return FALLBACK_COVER_SVG;
+    if (cover.startsWith('http://') || cover.startsWith('https://') || cover.startsWith('data:')) {
+      return cover;
+    }
+    let clean = cover.replace(/^(\.\/|\/)/, '');
+    if (clean.startsWith(showId + '/')) {
+      clean = clean.substring(showId.length + 1);
+    }
+
+    if (context === 'root') {
+      return `${showId}/${clean}`;
+    } else if (context === showId) {
+      return clean;
+    } else {
+      return `../${showId}/${clean}`;
+    }
+  }
+
+  static getResumeUrl(item) {
+    const ctx = ArchivAudioPlayer.getCurrentContext();
+    const params = new URLSearchParams();
+    if (item.url) params.set('url', item.url);
+    if (item.currentTime) params.set('time', item.currentTime);
+    if (item.bandId) params.set('band', item.bandId);
+
+    const query = params.toString();
+    if (ctx === 'root') {
+      return `${item.showId}/index.html?${query}`;
+    } else if (ctx === item.showId) {
+      return `index.html?${query}`;
+    } else {
+      return `../${item.showId}/index.html?${query}`;
     }
   }
 

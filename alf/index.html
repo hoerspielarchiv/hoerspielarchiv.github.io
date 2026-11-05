@@ -201,6 +201,19 @@
       filteredTracks = [...tracks];
       renderList(filteredTracks);
 
+      // Check URL parameters for direct resume from history or link
+      const urlParams = new URLSearchParams(window.location.search);
+      const resumeUrl = urlParams.get('url');
+      const resumeTime = parseFloat(urlParams.get('time')) || 0;
+
+      if (resumeUrl) {
+        const foundIdx = tracks.findIndex(t => t.url === resumeUrl);
+        if (foundIdx !== -1) {
+          player.loadTrack(foundIdx, true, resumeTime);
+          return;
+        }
+      }
+
       // Check if user had a saved progress
       const saved = player.getSavedProgress();
       if (saved && saved.index >= 0 && saved.index < tracks.length) {

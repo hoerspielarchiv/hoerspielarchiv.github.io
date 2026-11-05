@@ -41,6 +41,25 @@
       <p class="hero-desc">Wähle eine Hörspielserie aus der Sammlung oder nutze die Suche.</p>
     </section>
 
+    <!-- Listening History Section -->
+    <section id="historySection" class="history-section" style="display: none;">
+      <div class="history-section-header">
+        <div class="history-title-wrap">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="10"></circle>
+            <polyline points="12 6 12 12 16 14"></polyline>
+          </svg>
+          <h2 class="history-heading">Zuletzt gehört</h2>
+        </div>
+        <button id="clearHistoryBtn" class="history-clear-link" title="Hörverlauf leeren">Verlauf leeren</button>
+      </div>
+      <div class="history-scroll-container">
+        <div id="historyList" class="history-cards-row">
+          <!-- Dynamically populated -->
+        </div>
+      </div>
+    </section>
+
     <!-- Search Bar -->
     <div class="search-wrapper">
       <svg class="search-icon" viewBox="0 0 24 24">
@@ -99,6 +118,7 @@
     </div>
   </div>
 
+  <script src="assets/js/player-core.js"></script>
   <script>
     // Fallback known shows list
     const DEFAULT_SHOWS = [
@@ -326,9 +346,83 @@
       if (e.target === document.getElementById('detailModal')) closeModal();
     });
 
+    // Listening History Section Rendering
+    function renderHistorySection() {
+      const section = document.getElementById('historySection');
+      const listContainer = document.getElementById('historyList');
+      if (!section || !listContainer) return;
+
+      const history = (typeof ArchivAudioPlayer !== 'undefined') ? ArchivAudioPlayer.getHistory() : [];
+      if (!history || history.length === 0) {
+        section.style.display = 'none';
+        listContainer.innerHTML = '';
+        return;
+      }
+
+      section.style.display = 'block';
+      listContainer.innerHTML = '';
+
+      history.forEach(item => {
+        const card = document.createElement('div');
+        card.className = 'history-card';
+
+        const coverSrc = ArchivAudioPlayer.resolveCoverPath(item.cover, item.showId, 'root');
+        const resumeUrl = ArchivAudioPlayer.getResumeUrl(item);
+
+        card.innerHTML = `
+          <a href="${resumeUrl}" class="history-card-link">
+            <div class="history-card-cover-wrap">
+              <img src="${coverSrc}" class="history-card-cover" alt="" onerror="this.src=FALLBACK_COVER_SVG;">
+              <div class="history-card-play-overlay">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                  <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                </svg>
+              </div>
+              <div class="history-card-progress-bar">
+                <div class="history-card-progress-fill" style="width: ${item.progressPct}%"></div>
+              </div>
+            </div>
+            <div class="history-card-info">
+              <div class="history-card-title" title="${item.title}">${item.title}</div>
+              <div class="history-card-sub">${item.showName} • ${ArchivAudioPlayer.formatTimeAgo(item.timestamp)}</div>
+              <div class="history-card-meta">${ArchivAudioPlayer.formatTime(item.currentTime)} / ${ArchivAudioPlayer.formatTime(item.duration)}</div>
+            </div>
+          </a>
+          <button class="history-card-del-btn" data-url="${item.url}" title="Aus Verlauf entfernen" aria-label="Entfernen">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+          </button>
+        `;
+
+        card.querySelector('.history-card-del-btn').addEventListener('click', (e) => {
+          e.preventDefault();
+          e.stopPropagation();
+          ArchivAudioPlayer.removeFromHistory(item.url);
+          renderHistorySection();
+        });
+
+        listContainer.appendChild(card);
+      });
+    }
+
+    const clearBtn = document.getElementById('clearHistoryBtn');
+    if (clearBtn) {
+      clearBtn.addEventListener('click', () => {
+        ArchivAudioPlayer.clearHistory();
+        renderHistorySection();
+      });
+    }
+
+    window.addEventListener('archiv_history_updated', () => {
+      renderHistorySection();
+    });
+
     // Init
     updateGreeting();
     fetchShowList();
+    renderHistorySection();
   </script>
 </body>
 </html>

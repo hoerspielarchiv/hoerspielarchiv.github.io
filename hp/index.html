@@ -34,7 +34,7 @@
     
     <!-- Show Header -->
     <div class="show-header">
-      <img src="cover.jpg" alt="Harry Potter Cover" class="show-cover-thumb" onerror="this.src='../assets/img/fallback.jpg'">
+      <img src="covers/1.jpg" id="hpShowCover" alt="Harry Potter Cover" class="show-cover-thumb" onerror="this.src='cover.jpg'">
       <div class="show-meta">
         <h1 class="show-title">Harry Potter</h1>
         <p class="show-subtitle">
@@ -190,11 +190,15 @@
     const player = new ArchivAudioPlayer({
       storageKey: 'hp_player_progress',
       showName: 'Harry Potter',
-      defaultCover: 'cover.jpg',
+      defaultCover: 'covers/1.jpg',
       onTrackChange: (track, index) => {
         playerBar.classList.add('active');
         playerTitle.textContent = track.title;
         playerSub.textContent = track.album || 'Harry Potter';
+        const pThumb = document.getElementById('playerThumb');
+        if (pThumb) {
+          pThumb.src = track.cover || player.defaultCover || 'covers/1.jpg';
+        }
         highlightActiveChapter(track.url);
       },
       onPlayStateChange: (isPlaying) => {
@@ -232,12 +236,29 @@
       renderBandSelector();
       selectBand(1);
 
-      // Restore saved progress if applicable
-      const saved = player.getSavedProgress();
-      if (saved && saved.bandId) {
-        selectBand(saved.bandId);
-        if (saved.index >= 0 && saved.index < currentChapters.length) {
-          player.loadTrack(saved.index, false, saved.time || 0);
+      // Check URL parameters for direct resume from history or link
+      const urlParams = new URLSearchParams(window.location.search);
+      const paramBand = parseInt(urlParams.get('band'));
+      const paramUrl = urlParams.get('url');
+      const paramTime = parseFloat(urlParams.get('time')) || 0;
+
+      if (paramBand && booksData.some(b => b.id === paramBand)) {
+        selectBand(paramBand);
+        if (paramUrl) {
+          const chIdx = currentChapters.findIndex(c => c.url === paramUrl);
+          if (chIdx !== -1) {
+            player.loadTrack(chIdx, true, paramTime);
+            return;
+          }
+        }
+      } else {
+        // Restore saved progress if applicable
+        const saved = player.getSavedProgress();
+        if (saved && saved.bandId) {
+          selectBand(saved.bandId);
+          if (saved.index >= 0 && saved.index < currentChapters.length) {
+            player.loadTrack(saved.index, false, saved.time || 0);
+          }
         }
       }
     }
@@ -258,6 +279,13 @@
     function selectBand(bandId) {
       currentBandId = bandId;
       const book = booksData.find(b => b.id === bandId) || booksData[0];
+      const bookCover = book.cover || `covers/${book.id}.jpg`;
+
+      // Update show header cover to the selected book
+      const headerCover = document.getElementById('hpShowCover');
+      if (headerCover) {
+        headerCover.src = bookCover;
+      }
 
       // Update pill buttons
       document.querySelectorAll('#bandSelector .pill-btn').forEach((btn, idx) => {
@@ -269,7 +297,15 @@
       document.getElementById('castboxCurLink').href = book.castboxUrl;
       document.getElementById('castboxCurTitle').textContent = book.title;
 
-      // Transform chapters for player
+      // Update defaultCover for player
+      player.defaultCover = bookCover;
+
+      const playerThumb = document.getElementById('playerThumb');
+      if (playerThumb && !player.isPlaying) {
+        playerThumb.src = bookCover;
+      }
+
+      // Transform chapters for player with specific book cover
       currentChapters = book.chapters.map((c, i) => ({
         title: c.title,
         url: c.url,
@@ -277,7 +313,7 @@
         num: c.num,
         artist: 'Rufus Beck',
         album: `Band ${book.id} - ${book.shortTitle}`,
-        cover: 'cover.jpg',
+        cover: bookCover,
         bandId: book.id
       }));
 
@@ -305,6 +341,9 @@
         return;
       }
 
+      const activeBook = booksData.find(b => b.id === currentBandId) || booksData[0];
+      const bookCover = activeBook ? (activeBook.cover || `covers/${activeBook.id}.jpg`) : 'cover.jpg';
+
       list.forEach((c) => {
         const originalIndex = currentChapters.findIndex(x => x.url === c.url);
         const item = document.createElement('div');
@@ -312,7 +351,7 @@
         item.dataset.url = c.url;
 
         item.innerHTML = `
-          <div class="track-num">${c.num}</div>
+          <img src="${c.cover || bookCover}" class="track-item-cover" alt="Cover" onerror="this.src='cover.jpg'">
           <div class="track-info">
             <div class="track-title">${c.title}</div>
             <div class="track-sub">${c.album || 'Rufus Beck'}</div>
@@ -362,18 +401,23 @@
     });
 
     // Save bandId with progress
-    const origSave = player.saveProgress.bind(player);
     player.saveProgress = function() {
       if (this.currentIndex < 0) return;
+      const now = Date.now();
       try {
         const state = {
           bandId: currentBandId,
           index: this.currentIndex,
           time: this.audio.currentTime,
-          updatedAt: Date.now()
+          updatedAt: now
         };
         localStorage.setItem(this.storageKey, JSON.stringify(state));
       } catch (e) {}
+
+      if (!this._lastHistorySave || now - this._lastHistorySave > 4000) {
+        this._lastHistorySave = now;
+        this.saveToHistory();
+      }
     };
 
     // Search filter

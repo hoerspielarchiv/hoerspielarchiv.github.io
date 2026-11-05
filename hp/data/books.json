@@ -135,7 +135,8 @@
         "url": "https://s3.castbox.fm/4b/47/55/f467c64d7ab08d0bad8b107a94.mp3",
         "size": 32934280
       }
-    ]
+    ],
+    "cover": "covers/1.jpg"
   },
   {
     "id": 2,
@@ -280,7 +281,8 @@
         "url": "https://s3.castbox.fm/c0/b6/76/c0f2e14734a6e506b39bc928e4.mp3",
         "size": 22671920
       }
-    ]
+    ],
+    "cover": "covers/2.jpg"
   },
   {
     "id": 3,
@@ -453,7 +455,8 @@
         "url": "https://s3.castbox.fm/64/d1/02/644e354cbeacb265b607d47ef1.mp3",
         "size": 25440277
       }
-    ]
+    ],
+    "cover": "covers/3.jpg"
   },
   {
     "id": 4,
@@ -731,7 +734,8 @@
         "url": "https://s3.castbox.fm/06/07/5b/368fac4337b43b8c0064bd272f.mp3",
         "size": 24684162
       }
-    ]
+    ],
+    "cover": "covers/4.jpg"
   },
   {
     "id": 5,
@@ -1016,7 +1020,8 @@
         "url": "https://s3.castbox.fm/76/1c/54/4d1135453687fd00f8a0194fbe.mp3",
         "size": 40023371
       }
-    ]
+    ],
+    "cover": "covers/5.jpg"
   },
   {
     "id": 6,
@@ -1245,7 +1250,8 @@
         "url": "https://s3.castbox.fm/6f/1c/1b/cb39af4a2f82f036b951a31b37.mp3",
         "size": 29802430
       }
-    ]
+    ],
+    "cover": "covers/6.jpg"
   },
   {
     "id": 7,
@@ -1516,6 +1522,7 @@
         "url": "https://s3.castbox.fm/a9/98/cc/9dd6ff47f9ad8f2413bc97da4a.mp3",
         "size": 9268684
       }
-    ]
+    ],
+    "cover": "covers/7.jpg"
   }
 ]
